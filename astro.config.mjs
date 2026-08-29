@@ -27,7 +27,7 @@ export default defineConfig({
       pagination: true,
       tableOfContents: {
         minHeadingLevel: 2,
-        maxHeadingLevel: 3,
+        maxHeadingLevel: 2,
       },
       editLink: {
         baseUrl: `${REPOSITORY}/edit/main/`,

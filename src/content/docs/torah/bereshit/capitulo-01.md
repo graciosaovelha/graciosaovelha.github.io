@@ -1,21 +1,11 @@
 ---
-title: "Bereshit — Gênesis, Capítulo 1"
-description: "Uma leitura cabalística de Gênesis 1."
+title: "Capítulo 1"
+description: "Uma leitura cabalística de Bereshit — Gênesis 1."
 draft: false
-publishedAt: "2025-01-01"
+publishedAt: "2026-09-21"
 category: torah
 book: bereshit
 chapter: 1
-
-parashot:
-  - name: "Bereshit"
-    verses: "1:1–31"
----
-
-# Bereshit — Gênesis, Capítulo 1
-
-## Uma análise versículo por versículo segundo a Cabalá judaica, com ênfase na tradição do Arizal
-
 ---
 
 ## Introdução: como a Cabalá lê o relato da Criação

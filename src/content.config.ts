@@ -29,11 +29,6 @@ const categorySchema = z.enum([
 
 const datePattern = /^\d{4}-\d{2}-\d{2}$/;
 
-const parashahReferenceSchema = z.object({
-  name: z.string(),
-  verses: z.string().optional(),
-});
-
 const graciosaOvelhaSchema = z.object({
   publishedAt: z
     .string()
@@ -55,13 +50,7 @@ const graciosaOvelhaSchema = z.object({
     .positive()
     .optional(),
 
-  // Usado pela própria página de uma parashat.
   parashah: z.string().optional(),
-
-  // Associa um capítulo da Torah a uma ou mais parashot.
-  parashot: z
-    .array(parashahReferenceSchema)
-    .optional(),
 });
 
 export const collections = {

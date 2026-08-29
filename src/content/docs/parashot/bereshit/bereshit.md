@@ -1,5 +1,5 @@
 ---
-title: "Parashat Bereshit"
+title: "Bereshit"
 description: "Estudo da Parashat Bereshit à luz da Cabalá autêntica."
 draft: false
 category: parashat
@@ -8,6 +8,13 @@ parashah: "Bereshit"
 ---
 
 **Parashat Bereshit** está em **Bereshit/Gênesis 1:1–6:8**.
+
+- [Bereshit — Capítulo 1](/torah/bereshit/capitulo-01/) — 1:1–31 <!--21/09/2026-->
+- [Bereshit — Capítulo 2](/torah/bereshit/capitulo-02/) — 2:1–25 <!--22/09/2026-->
+- [Bereshit — Capítulo 3](/torah/bereshit/capitulo-03/) — 3:1–24 <!--23/09/2026-->
+- [Bereshit — Capítulo 4](/torah/bereshit/capitulo-04/) — 4:1–26 <!--24/09/2026-->
+- [Bereshit — Capítulo 5](/torah/bereshit/capitulo-05/) — 5:1–32 <!--25/09/2026-->
+- [Bereshit — Capítulo 6](/torah/bereshit/capitulo-06/) — 6:1–8 <!--26/09/2026-->
 
 Ela abre toda a Torá e fala sobre:
 
