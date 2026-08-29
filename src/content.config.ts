@@ -22,26 +22,11 @@ const bookSchema = z.enum([
 const categorySchema = z.enum([
   'torah',
   'parashat',
-  'estudo',
-  'glossario',
   'institucional',
 ]);
 
-const datePattern = /^\d{4}-\d{2}-\d{2}$/;
-
 const graciosaOvelhaSchema = z.object({
-  publishedAt: z
-    .string()
-    .regex(datePattern, 'Use AAAA-MM-DD.')
-    .optional(),
-
-  updatedAt: z
-    .string()
-    .regex(datePattern, 'Use AAAA-MM-DD.')
-    .optional(),
-
   category: categorySchema.optional(),
-
   book: bookSchema.optional(),
 
   chapter: z

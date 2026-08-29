@@ -89,17 +89,6 @@ src/content/docs/parashot/bereshit/noach.md
 
 Edite o conteúdo, altere `draft: true` para `draft: false`, informe `publishedAt` e faça commit.
 
-## Datas
-
-Use sempre o formato:
-
-```yaml
-publishedAt: AAAA-MM-DD
-updatedAt: AAAA-MM-DD
-```
-
-`updatedAt` é opcional.
-
 ## Estrutura
 
 Consulte `ARVORE_DO_PROJETO.txt` para a árvore completa de diretórios e arquivos gerados.

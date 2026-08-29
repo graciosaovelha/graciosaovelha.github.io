@@ -1,0 +1,49 @@
+---
+import DefaultSidebar
+  from '@astrojs/starlight/components/Sidebar.astro';
+
+const pathname = Astro.url.pathname;
+
+let sidebar = Astro.props.sidebar;
+
+const isHomeOrAbout = (entry: any) =>
+  entry.type === 'link' &&
+  (
+    entry.href === '/' ||
+    entry.href === '/sobre/'
+  );
+
+if (pathname.startsWith('/torah/')) {
+  sidebar = sidebar.filter(
+    (entry: any) =>
+      isHomeOrAbout(entry) ||
+      (
+        entry.type === 'group' &&
+        entry.label === 'Torah'
+      )
+  );
+}
+else if (pathname.startsWith('/parashot/')) {
+  sidebar = sidebar.filter(
+    (entry: any) =>
+      isHomeOrAbout(entry) ||
+      (
+        entry.type === 'group' &&
+        entry.label === 'Parashot'
+      )
+  );
+}
+else {
+  sidebar = sidebar.filter(
+    (entry: any) =>
+      isHomeOrAbout(entry)
+  );
+}
+---
+
+<DefaultSidebar
+  {...Astro.props}
+  sidebar={sidebar}
+>
+  <slot />
+</DefaultSidebar>

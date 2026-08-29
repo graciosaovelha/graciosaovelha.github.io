@@ -1,0 +1,289 @@
+<section
+  class="weekly-parashah not-content"
+  id="weekly-parashah"
+>
+  <div class="weekly-parashah__label">
+    Parashat da semana
+  </div>
+
+  <div class="weekly-parashah__content">
+    Carregando…
+  </div>
+</section>
+
+<script>
+  const container =
+    document.querySelector('#weekly-parashah');
+
+  const content =
+    container?.querySelector(
+      '.weekly-parashah__content'
+    );
+
+  const bookMap = {
+    Genesis: 'bereshit',
+    Exodus: 'shemot',
+    Leviticus: 'vayikra',
+    Numbers: 'bamidbar',
+    Deuteronomy: 'devarim',
+  };
+
+  const combined = {
+    'vayakhel-pekudei': [
+      'vayakhel',
+      'pekudei',
+    ],
+
+    'tazria-metzora': [
+      'tazria',
+      'metzora',
+    ],
+
+    'acharei-mot-kedoshim': [
+      'acharei-mot',
+      'kedoshim',
+    ],
+
+    'behar-bechukotai': [
+      'behar',
+      'bechukotai',
+    ],
+
+    'chukat-balak': [
+      'chukat',
+      'balak',
+    ],
+
+    'matot-masei': [
+      'matot',
+      'masei',
+    ],
+
+    'nitzavim-vayelech': [
+      'nitzavim',
+      'vayelech',
+    ],
+  };
+
+  function formatDate(date) {
+    return date
+      .toISOString()
+      .slice(0, 10);
+  }
+
+  function slugify(value) {
+    return value
+      .normalize('NFD')
+      .replace(
+        /[\u0300-\u036f]/g,
+        ''
+      )
+      .replace(/[’']/g, '')
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, '-')
+      .replace(/^-|-$/g, '');
+  }
+
+  async function loadParashah() {
+    if (!content) return;
+
+    try {
+      const today = new Date();
+
+      const sunday =
+        new Date(today);
+
+      sunday.setDate(
+        today.getDate() -
+        today.getDay()
+      );
+
+      const saturday =
+        new Date(sunday);
+
+      saturday.setDate(
+        sunday.getDate() + 6
+      );
+
+      const url =
+        'https://www.hebcal.com/hebcal' +
+        '?v=1' +
+        '&cfg=json' +
+        `&start=${formatDate(sunday)}` +
+        `&end=${formatDate(saturday)}` +
+        '&s=on' +
+        '&i=off' +
+        '&lg=s';
+
+      const response =
+        await fetch(url);
+
+      if (!response.ok) {
+        throw new Error();
+      }
+
+      const data =
+        await response.json();
+
+      const event =
+        data.items.find(
+          (item) =>
+            item.category === 'parashat'
+        );
+
+      if (!event) {
+        throw new Error();
+      }
+
+      const name =
+        event.title.replace(
+          /^Parashat\s+/i,
+          ''
+        );
+
+      const reading =
+        event.leyning?.torah ?? '';
+
+      const englishBook =
+        Object.keys(bookMap).find(
+          (book) =>
+            reading.startsWith(book)
+        );
+
+      if (!englishBook) {
+        throw new Error();
+      }
+
+      const book =
+        bookMap[englishBook];
+
+      const slug =
+        slugify(name);
+
+      const possibleSlugs =
+        combined[slug] ?? [slug];
+
+      const publishedLinks = [];
+
+      for (
+        const parashahSlug
+        of possibleSlugs
+      ) {
+        const href =
+          `/parashot/${book}/${parashahSlug}/`;
+
+        const check =
+          await fetch(
+            href,
+            {
+              method: 'HEAD',
+            }
+          );
+
+        if (check.ok) {
+          publishedLinks.push({
+            href,
+            slug: parashahSlug,
+          });
+        }
+      }
+
+      content.textContent = '';
+
+      const title =
+        document.createElement('strong');
+
+      title.textContent =
+        `Parashat ${name}`;
+
+      content.append(title);
+
+      if (
+        publishedLinks.length > 0
+      ) {
+        const separator =
+          document.createTextNode(' · ');
+
+        content.append(separator);
+
+        publishedLinks.forEach(
+          (link, index) => {
+            if (index > 0) {
+              content.append(
+                document.createTextNode(
+                  ' + '
+                )
+              );
+            }
+
+            const anchor =
+              document.createElement('a');
+
+            anchor.href =
+              link.href;
+
+            anchor.textContent =
+              'Ler estudo →';
+
+            content.append(anchor);
+          }
+        );
+      }
+      else {
+        const note =
+          document.createElement('span');
+
+        note.textContent =
+          ' · estudo ainda não publicado';
+
+        content.append(note);
+      }
+    }
+    catch {
+      content.innerHTML =
+        '<a href="/parashot/">' +
+        'Consultar parashot →' +
+        '</a>';
+    }
+  }
+
+  loadParashah();
+</script>
+
+<style>
+  .weekly-parashah {
+    margin: 2rem 0;
+    padding: 1.25rem 1.4rem;
+
+    border: 1px solid
+      var(--sl-color-gray-5);
+
+    border-radius: 0.65rem;
+
+    background:
+      color-mix(
+        in srgb,
+        var(--sl-color-accent-low) 35%,
+        transparent
+      );
+  }
+
+  .weekly-parashah__label {
+    margin-bottom: 0.35rem;
+
+    color:
+      var(--sl-color-accent-high);
+
+    font-size: 0.8rem;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+  }
+
+  .weekly-parashah__content {
+    font-size: 1.2rem;
+  }
+
+  .weekly-parashah__content a {
+    margin-left: 0.25rem;
+  }
+</style>

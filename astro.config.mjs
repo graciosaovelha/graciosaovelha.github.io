@@ -42,6 +42,7 @@ export default defineConfig({
       customCss: ['./src/styles/custom.css'],
       components: {
         PageTitle: './src/components/PageTitle.astro',
+        Sidebar: './src/components/Sidebar.astro',
       },
       sidebar: [
   {
@@ -177,16 +178,6 @@ export default defineConfig({
         ],
       },
     ],
-  },
-
-  {
-    label: 'Estudos',
-    link: '/estudos/',
-  },
-
-  {
-    label: 'Glossário',
-    link: '/glossario/',
   },
 
   {

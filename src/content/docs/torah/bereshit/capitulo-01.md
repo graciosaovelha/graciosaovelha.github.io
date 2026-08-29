@@ -2,7 +2,6 @@
 title: "Capítulo 1"
 description: "Uma leitura cabalística de Bereshit — Gênesis 1."
 draft: false
-publishedAt: "2026-09-21"
 category: torah
 book: bereshit
 chapter: 1
