@@ -2,7 +2,7 @@
 title: "Bereshit — Capítulo 1: O Mistério da Criação e as Sefirot da Existência"
 description: "Uma leitura cabalística de Gênesis 1 sobre a criação, as Sefirot, a luz oculta e o Shabat."
 draft: false
-publishedAt: 2025-01-01
+publishedAt: "2025-01-01"
 category: torah
 book: bereshit
 chapter: 1
