@@ -53,18 +53,18 @@ export default defineConfig({
           itemsPerPage: 18,
         }),
       ],
-sidebar: [
-{
-  label: 'Início',
-  link: '/',
-},
+      sidebar: [
+  {
+    label: 'Início',
+    link: '/',
+  },
 
   {
     label: 'Torah',
     items: [
       {
         label: 'Visão geral',
-        slug: 'torah',
+        link: '/torah/',
       },
 
       {
@@ -129,7 +129,7 @@ sidebar: [
     items: [
       {
         label: 'Visão geral',
-        slug: 'parashot',
+        link: '/parashot/',
       },
 
       {
@@ -191,12 +191,12 @@ sidebar: [
 
   {
     label: 'Estudos',
-    slug: 'estudos',
+    link: '/estudos/',
   },
 
   {
     label: 'Glossário',
-    slug: 'glossario',
+    link: '/glossario/',
   },
 
   {
@@ -206,7 +206,7 @@ sidebar: [
 
   {
     label: 'Sobre',
-    slug: 'sobre',
+    link: '/sobre/',
   },
 ],
     }),
