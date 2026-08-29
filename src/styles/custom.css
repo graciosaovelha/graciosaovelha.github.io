@@ -1,0 +1,197 @@
+@import '@fontsource/cormorant-garamond/400.css';
+@import '@fontsource/cormorant-garamond/500.css';
+@import '@fontsource/cormorant-garamond/600.css';
+@import '@fontsource/cormorant-garamond/700.css';
+@import '@fontsource/source-serif-4/400.css';
+@import '@fontsource/source-serif-4/400-italic.css';
+@import '@fontsource/source-serif-4/600.css';
+
+:root {
+  --go-black: #0d0c0a;
+  --go-brown-black: #17130f;
+  --go-surface: #211a13;
+  --go-brown: #4a3526;
+  --go-gold: #c9a45c;
+  --go-gold-soft: #e0c585;
+  --go-ivory: #e9e2d6;
+  --go-muted: #b7ab9a;
+  --go-border: #3b3024;
+
+  --sl-font: 'Source Serif 4', Georgia, 'Times New Roman', serif;
+  --sl-font-system: 'Source Serif 4', Georgia, 'Times New Roman', serif;
+  --sl-content-width: 48rem;
+
+  --sl-color-accent-low: #352915;
+  --sl-color-accent: #c9a45c;
+  --sl-color-accent-high: #f0ddb0;
+  --sl-color-white: #f5efe5;
+  --sl-color-gray-1: #e9e2d6;
+  --sl-color-gray-2: #c9beae;
+  --sl-color-gray-3: #9e9180;
+  --sl-color-gray-4: #6b5f51;
+  --sl-color-gray-5: #3b3024;
+  --sl-color-gray-6: #211a13;
+  --sl-color-black: #0d0c0a;
+}
+
+:root[data-theme='light'] {
+  --sl-color-accent-low: #f3ead8;
+  --sl-color-accent: #8c6424;
+  --sl-color-accent-high: #4b3415;
+  --sl-color-white: #19140f;
+  --sl-color-gray-1: #2e261e;
+  --sl-color-gray-2: #504438;
+  --sl-color-gray-3: #746759;
+  --sl-color-gray-4: #a99c8d;
+  --sl-color-gray-5: #ded5c9;
+  --sl-color-gray-6: #eee8df;
+  --sl-color-black: #fbf8f2;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background:
+    radial-gradient(circle at 85% 0%, rgba(201, 164, 92, 0.06), transparent 28rem),
+    var(--sl-color-black);
+  text-rendering: optimizeLegibility;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.hero h1,
+.site-title {
+  font-family: 'Cormorant Garamond', Georgia, 'Times New Roman', serif;
+  letter-spacing: 0.012em;
+}
+
+h1 {
+  font-weight: 600;
+  line-height: 1.05;
+}
+
+h2,
+h3 {
+  font-weight: 600;
+}
+
+.sl-markdown-content {
+  font-size: 1.08rem;
+  line-height: 1.82;
+}
+
+.sl-markdown-content p,
+.sl-markdown-content li {
+  max-width: 72ch;
+}
+
+.sl-markdown-content a:not([class]) {
+  text-decoration-color: color-mix(in srgb, var(--sl-color-accent) 55%, transparent);
+  text-underline-offset: 0.18em;
+}
+
+.sl-markdown-content blockquote {
+  border-inline-start: 2px solid var(--sl-color-accent);
+  background: color-mix(in srgb, var(--sl-color-accent-low) 55%, transparent);
+  padding-block: 0.65rem;
+  border-radius: 0 0.45rem 0.45rem 0;
+}
+
+.sl-markdown-content hr {
+  border-color: var(--sl-color-gray-5);
+  opacity: 0.7;
+}
+
+.sl-markdown-content table {
+  font-size: 0.97em;
+}
+
+header.header {
+  backdrop-filter: blur(14px);
+  background: color-mix(in srgb, var(--sl-color-black) 91%, transparent);
+  border-bottom-color: var(--sl-color-gray-5);
+}
+
+.sidebar-pane {
+  background: color-mix(in srgb, var(--sl-color-black) 96%, var(--sl-color-gray-6));
+}
+
+.right-sidebar {
+  font-size: 0.93rem;
+}
+
+.hero {
+  padding-block: clamp(3rem, 9vw, 7rem);
+}
+
+.hero h1 {
+  font-size: clamp(3.2rem, 9vw, 6.8rem);
+  font-weight: 600;
+}
+
+.hero .tagline {
+  max-width: 42rem;
+  font-size: clamp(1.08rem, 2vw, 1.35rem);
+  line-height: 1.65;
+  color: var(--sl-color-gray-2);
+}
+
+.hero img {
+  filter: drop-shadow(0 0 2.8rem rgba(201, 164, 92, 0.13));
+}
+
+.article-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem 0.9rem;
+  align-items: center;
+  margin: 0.65rem 0 1.8rem;
+  color: var(--sl-color-gray-3);
+  font-size: 0.9rem;
+}
+
+.article-meta__category {
+  display: inline-flex;
+  align-items: center;
+  min-height: 1.7rem;
+  padding: 0.1rem 0.55rem;
+  border: 1px solid color-mix(in srgb, var(--sl-color-accent) 35%, var(--sl-color-gray-5));
+  border-radius: 999px;
+  color: var(--sl-color-accent-high);
+  background: color-mix(in srgb, var(--sl-color-accent-low) 45%, transparent);
+}
+
+.article-meta__separator {
+  opacity: 0.45;
+}
+
+.pagination-links a {
+  border-color: var(--sl-color-gray-5);
+  background: color-mix(in srgb, var(--sl-color-gray-6) 45%, transparent);
+}
+
+.pagination-links a:hover {
+  border-color: var(--sl-color-accent);
+}
+
+::selection {
+  color: var(--go-black);
+  background: var(--go-gold-soft);
+}
+
+@media (max-width: 50rem) {
+  .sl-markdown-content {
+    font-size: 1.02rem;
+    line-height: 1.72;
+  }
+
+  .hero {
+    padding-block: 2.7rem 3.5rem;
+  }
+}

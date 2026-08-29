@@ -1,0 +1,33 @@
+defaults:
+  color: "#C9A45C"
+
+tags:
+  torah:
+    label: Torah
+    description: Estudos dos cinco livros da Torah.
+  parashat:
+    label: Parashat
+    description: Estudos das porções semanais da Torah.
+  cabala:
+    label: Cabalá
+    description: Leituras e conceitos sob a perspectiva da Cabalá autêntica.
+  bereshit:
+    label: Bereshit
+  shemot:
+    label: Shemot
+  vayikra:
+    label: Vayikra
+  bamidbar:
+    label: Bamidbar
+  devarim:
+    label: Devarim
+  criacao:
+    label: Criação
+  luz:
+    label: Luz
+  desejo:
+    label: Desejo
+  estudo-diario:
+    label: Estudo diário
+  glossario:
+    label: Glossário

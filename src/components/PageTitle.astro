@@ -1,0 +1,41 @@
+---
+type ExtraData = {
+  publishedAt?: string;
+  updatedAt?: string;
+  category?: 'torah' | 'parashat' | 'estudo' | 'glossario' | 'institucional';
+};
+
+const data = Astro.locals.starlightRoute.entry.data as typeof Astro.locals.starlightRoute.entry.data & ExtraData;
+
+const categoryLabels: Record<NonNullable<ExtraData['category']>, string> = {
+  torah: 'Torah',
+  parashat: 'Parashat semanal',
+  estudo: 'Estudo',
+  glossario: 'Glossário',
+  institucional: 'Institucional',
+};
+
+function formatDate(value?: string) {
+  if (!value) return undefined;
+  const [year, month, day] = value.split('-').map(Number);
+  return new Intl.DateTimeFormat('pt-BR', { dateStyle: 'long' }).format(
+    new Date(year, month - 1, day),
+  );
+}
+
+const published = formatDate(data.publishedAt);
+const updated = formatDate(data.updatedAt);
+const category = data.category ? categoryLabels[data.category] : undefined;
+---
+
+<h1 id="_top">{data.title}</h1>
+
+{(category || published || updated) && (
+  <div class="article-meta" aria-label="Metadados da publicação">
+    {category && <span class="article-meta__category">{category}</span>}
+    {category && (published || updated) && <span class="article-meta__separator" aria-hidden="true">•</span>}
+    {published && <span>Publicado em {published}</span>}
+    {published && updated && <span class="article-meta__separator" aria-hidden="true">•</span>}
+    {updated && <span>Atualizado em {updated}</span>}
+  </div>
+)}

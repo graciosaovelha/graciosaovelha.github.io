@@ -1,0 +1,308 @@
+graciosaovelha-v1/
+├── .github/
+│   └── workflows/
+│       └── deploy.yml
+├── public/
+│   ├── images/
+│   │   ├── home/
+│   │   │   └── .gitkeep
+│   │   ├── parashot/
+│   │   │   └── .gitkeep
+│   │   └── torah/
+│   │       └── .gitkeep
+│   ├── favicon.svg
+│   └── robots.txt
+├── src/
+│   ├── assets/
+│   │   └── logo.svg
+│   ├── components/
+│   │   └── PageTitle.astro
+│   ├── content/
+│   │   └── docs/
+│   │       ├── estudos/
+│   │       │   └── index.md
+│   │       ├── glossario/
+│   │       │   └── index.md
+│   │       ├── parashot/
+│   │       │   ├── bamidbar/
+│   │       │   │   ├── balak.md
+│   │       │   │   ├── bamidbar.md
+│   │       │   │   ├── behaalotcha.md
+│   │       │   │   ├── chukat.md
+│   │       │   │   ├── index.md
+│   │       │   │   ├── korach.md
+│   │       │   │   ├── masei.md
+│   │       │   │   ├── matot.md
+│   │       │   │   ├── naso.md
+│   │       │   │   ├── pinchas.md
+│   │       │   │   └── shelach.md
+│   │       │   ├── bereshit/
+│   │       │   │   ├── bereshit.md
+│   │       │   │   ├── chayei-sarah.md
+│   │       │   │   ├── index.md
+│   │       │   │   ├── lech-lecha.md
+│   │       │   │   ├── miketz.md
+│   │       │   │   ├── noach.md
+│   │       │   │   ├── toldot.md
+│   │       │   │   ├── vayechi.md
+│   │       │   │   ├── vayera.md
+│   │       │   │   ├── vayeshev.md
+│   │       │   │   ├── vayetzei.md
+│   │       │   │   ├── vayigash.md
+│   │       │   │   └── vayishlach.md
+│   │       │   ├── devarim/
+│   │       │   │   ├── devarim.md
+│   │       │   │   ├── eikev.md
+│   │       │   │   ├── haazinu.md
+│   │       │   │   ├── index.md
+│   │       │   │   ├── ki-tavo.md
+│   │       │   │   ├── ki-teitzei.md
+│   │       │   │   ├── nitzavim.md
+│   │       │   │   ├── reeh.md
+│   │       │   │   ├── shoftim.md
+│   │       │   │   ├── vaetchanan.md
+│   │       │   │   ├── vayelech.md
+│   │       │   │   └── vezot-haberachah.md
+│   │       │   ├── shemot/
+│   │       │   │   ├── beshalach.md
+│   │       │   │   ├── bo.md
+│   │       │   │   ├── index.md
+│   │       │   │   ├── ki-tisa.md
+│   │       │   │   ├── mishpatim.md
+│   │       │   │   ├── pekudei.md
+│   │       │   │   ├── shemot.md
+│   │       │   │   ├── terumah.md
+│   │       │   │   ├── tetzaveh.md
+│   │       │   │   ├── vaera.md
+│   │       │   │   ├── vayakhel.md
+│   │       │   │   └── yitro.md
+│   │       │   ├── vayikra/
+│   │       │   │   ├── acharei-mot.md
+│   │       │   │   ├── bechukotai.md
+│   │       │   │   ├── behar.md
+│   │       │   │   ├── emor.md
+│   │       │   │   ├── index.md
+│   │       │   │   ├── kedoshim.md
+│   │       │   │   ├── metzora.md
+│   │       │   │   ├── shemini.md
+│   │       │   │   ├── tazria.md
+│   │       │   │   ├── tzav.md
+│   │       │   │   └── vayikra.md
+│   │       │   └── index.md
+│   │       ├── torah/
+│   │       │   ├── bamidbar/
+│   │       │   │   ├── capitulo-01.md
+│   │       │   │   ├── capitulo-02.md
+│   │       │   │   ├── capitulo-03.md
+│   │       │   │   ├── capitulo-04.md
+│   │       │   │   ├── capitulo-05.md
+│   │       │   │   ├── capitulo-06.md
+│   │       │   │   ├── capitulo-07.md
+│   │       │   │   ├── capitulo-08.md
+│   │       │   │   ├── capitulo-09.md
+│   │       │   │   ├── capitulo-10.md
+│   │       │   │   ├── capitulo-11.md
+│   │       │   │   ├── capitulo-12.md
+│   │       │   │   ├── capitulo-13.md
+│   │       │   │   ├── capitulo-14.md
+│   │       │   │   ├── capitulo-15.md
+│   │       │   │   ├── capitulo-16.md
+│   │       │   │   ├── capitulo-17.md
+│   │       │   │   ├── capitulo-18.md
+│   │       │   │   ├── capitulo-19.md
+│   │       │   │   ├── capitulo-20.md
+│   │       │   │   ├── capitulo-21.md
+│   │       │   │   ├── capitulo-22.md
+│   │       │   │   ├── capitulo-23.md
+│   │       │   │   ├── capitulo-24.md
+│   │       │   │   ├── capitulo-25.md
+│   │       │   │   ├── capitulo-26.md
+│   │       │   │   ├── capitulo-27.md
+│   │       │   │   ├── capitulo-28.md
+│   │       │   │   ├── capitulo-29.md
+│   │       │   │   ├── capitulo-30.md
+│   │       │   │   ├── capitulo-31.md
+│   │       │   │   ├── capitulo-32.md
+│   │       │   │   ├── capitulo-33.md
+│   │       │   │   ├── capitulo-34.md
+│   │       │   │   ├── capitulo-35.md
+│   │       │   │   ├── capitulo-36.md
+│   │       │   │   └── index.md
+│   │       │   ├── bereshit/
+│   │       │   │   ├── capitulo-01.md
+│   │       │   │   ├── capitulo-02.md
+│   │       │   │   ├── capitulo-03.md
+│   │       │   │   ├── capitulo-04.md
+│   │       │   │   ├── capitulo-05.md
+│   │       │   │   ├── capitulo-06.md
+│   │       │   │   ├── capitulo-07.md
+│   │       │   │   ├── capitulo-08.md
+│   │       │   │   ├── capitulo-09.md
+│   │       │   │   ├── capitulo-10.md
+│   │       │   │   ├── capitulo-11.md
+│   │       │   │   ├── capitulo-12.md
+│   │       │   │   ├── capitulo-13.md
+│   │       │   │   ├── capitulo-14.md
+│   │       │   │   ├── capitulo-15.md
+│   │       │   │   ├── capitulo-16.md
+│   │       │   │   ├── capitulo-17.md
+│   │       │   │   ├── capitulo-18.md
+│   │       │   │   ├── capitulo-19.md
+│   │       │   │   ├── capitulo-20.md
+│   │       │   │   ├── capitulo-21.md
+│   │       │   │   ├── capitulo-22.md
+│   │       │   │   ├── capitulo-23.md
+│   │       │   │   ├── capitulo-24.md
+│   │       │   │   ├── capitulo-25.md
+│   │       │   │   ├── capitulo-26.md
+│   │       │   │   ├── capitulo-27.md
+│   │       │   │   ├── capitulo-28.md
+│   │       │   │   ├── capitulo-29.md
+│   │       │   │   ├── capitulo-30.md
+│   │       │   │   ├── capitulo-31.md
+│   │       │   │   ├── capitulo-32.md
+│   │       │   │   ├── capitulo-33.md
+│   │       │   │   ├── capitulo-34.md
+│   │       │   │   ├── capitulo-35.md
+│   │       │   │   ├── capitulo-36.md
+│   │       │   │   ├── capitulo-37.md
+│   │       │   │   ├── capitulo-38.md
+│   │       │   │   ├── capitulo-39.md
+│   │       │   │   ├── capitulo-40.md
+│   │       │   │   ├── capitulo-41.md
+│   │       │   │   ├── capitulo-42.md
+│   │       │   │   ├── capitulo-43.md
+│   │       │   │   ├── capitulo-44.md
+│   │       │   │   ├── capitulo-45.md
+│   │       │   │   ├── capitulo-46.md
+│   │       │   │   ├── capitulo-47.md
+│   │       │   │   ├── capitulo-48.md
+│   │       │   │   ├── capitulo-49.md
+│   │       │   │   ├── capitulo-50.md
+│   │       │   │   └── index.md
+│   │       │   ├── devarim/
+│   │       │   │   ├── capitulo-01.md
+│   │       │   │   ├── capitulo-02.md
+│   │       │   │   ├── capitulo-03.md
+│   │       │   │   ├── capitulo-04.md
+│   │       │   │   ├── capitulo-05.md
+│   │       │   │   ├── capitulo-06.md
+│   │       │   │   ├── capitulo-07.md
+│   │       │   │   ├── capitulo-08.md
+│   │       │   │   ├── capitulo-09.md
+│   │       │   │   ├── capitulo-10.md
+│   │       │   │   ├── capitulo-11.md
+│   │       │   │   ├── capitulo-12.md
+│   │       │   │   ├── capitulo-13.md
+│   │       │   │   ├── capitulo-14.md
+│   │       │   │   ├── capitulo-15.md
+│   │       │   │   ├── capitulo-16.md
+│   │       │   │   ├── capitulo-17.md
+│   │       │   │   ├── capitulo-18.md
+│   │       │   │   ├── capitulo-19.md
+│   │       │   │   ├── capitulo-20.md
+│   │       │   │   ├── capitulo-21.md
+│   │       │   │   ├── capitulo-22.md
+│   │       │   │   ├── capitulo-23.md
+│   │       │   │   ├── capitulo-24.md
+│   │       │   │   ├── capitulo-25.md
+│   │       │   │   ├── capitulo-26.md
+│   │       │   │   ├── capitulo-27.md
+│   │       │   │   ├── capitulo-28.md
+│   │       │   │   ├── capitulo-29.md
+│   │       │   │   ├── capitulo-30.md
+│   │       │   │   ├── capitulo-31.md
+│   │       │   │   ├── capitulo-32.md
+│   │       │   │   ├── capitulo-33.md
+│   │       │   │   ├── capitulo-34.md
+│   │       │   │   └── index.md
+│   │       │   ├── shemot/
+│   │       │   │   ├── capitulo-01.md
+│   │       │   │   ├── capitulo-02.md
+│   │       │   │   ├── capitulo-03.md
+│   │       │   │   ├── capitulo-04.md
+│   │       │   │   ├── capitulo-05.md
+│   │       │   │   ├── capitulo-06.md
+│   │       │   │   ├── capitulo-07.md
+│   │       │   │   ├── capitulo-08.md
+│   │       │   │   ├── capitulo-09.md
+│   │       │   │   ├── capitulo-10.md
+│   │       │   │   ├── capitulo-11.md
+│   │       │   │   ├── capitulo-12.md
+│   │       │   │   ├── capitulo-13.md
+│   │       │   │   ├── capitulo-14.md
+│   │       │   │   ├── capitulo-15.md
+│   │       │   │   ├── capitulo-16.md
+│   │       │   │   ├── capitulo-17.md
+│   │       │   │   ├── capitulo-18.md
+│   │       │   │   ├── capitulo-19.md
+│   │       │   │   ├── capitulo-20.md
+│   │       │   │   ├── capitulo-21.md
+│   │       │   │   ├── capitulo-22.md
+│   │       │   │   ├── capitulo-23.md
+│   │       │   │   ├── capitulo-24.md
+│   │       │   │   ├── capitulo-25.md
+│   │       │   │   ├── capitulo-26.md
+│   │       │   │   ├── capitulo-27.md
+│   │       │   │   ├── capitulo-28.md
+│   │       │   │   ├── capitulo-29.md
+│   │       │   │   ├── capitulo-30.md
+│   │       │   │   ├── capitulo-31.md
+│   │       │   │   ├── capitulo-32.md
+│   │       │   │   ├── capitulo-33.md
+│   │       │   │   ├── capitulo-34.md
+│   │       │   │   ├── capitulo-35.md
+│   │       │   │   ├── capitulo-36.md
+│   │       │   │   ├── capitulo-37.md
+│   │       │   │   ├── capitulo-38.md
+│   │       │   │   ├── capitulo-39.md
+│   │       │   │   ├── capitulo-40.md
+│   │       │   │   └── index.md
+│   │       │   ├── vayikra/
+│   │       │   │   ├── capitulo-01.md
+│   │       │   │   ├── capitulo-02.md
+│   │       │   │   ├── capitulo-03.md
+│   │       │   │   ├── capitulo-04.md
+│   │       │   │   ├── capitulo-05.md
+│   │       │   │   ├── capitulo-06.md
+│   │       │   │   ├── capitulo-07.md
+│   │       │   │   ├── capitulo-08.md
+│   │       │   │   ├── capitulo-09.md
+│   │       │   │   ├── capitulo-10.md
+│   │       │   │   ├── capitulo-11.md
+│   │       │   │   ├── capitulo-12.md
+│   │       │   │   ├── capitulo-13.md
+│   │       │   │   ├── capitulo-14.md
+│   │       │   │   ├── capitulo-15.md
+│   │       │   │   ├── capitulo-16.md
+│   │       │   │   ├── capitulo-17.md
+│   │       │   │   ├── capitulo-18.md
+│   │       │   │   ├── capitulo-19.md
+│   │       │   │   ├── capitulo-20.md
+│   │       │   │   ├── capitulo-21.md
+│   │       │   │   ├── capitulo-22.md
+│   │       │   │   ├── capitulo-23.md
+│   │       │   │   ├── capitulo-24.md
+│   │       │   │   ├── capitulo-25.md
+│   │       │   │   ├── capitulo-26.md
+│   │       │   │   ├── capitulo-27.md
+│   │       │   │   └── index.md
+│   │       │   └── index.md
+│   │       ├── 404.md
+│   │       ├── index.md
+│   │       └── sobre.md
+│   ├── styles/
+│   │   └── custom.css
+│   └── content.config.ts
+├── templates/
+│   ├── analise-diaria.md
+│   └── parashat-semanal.md
+├── .editorconfig
+├── .gitignore
+├── .nvmrc
+├── astro.config.mjs
+├── ESTRUTURA.md
+├── package.json
+├── README.md
+├── tags.yml
+└── tsconfig.json
