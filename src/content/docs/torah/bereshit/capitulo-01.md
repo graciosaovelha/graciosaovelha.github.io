@@ -1,7 +1,7 @@
 ---
 title: "Capítulo 1"
 description: "Uma leitura cabalística de Bereshit — Gênesis 1."
-draft: false
+draft: true
 category: torah
 book: bereshit
 chapter: 1
