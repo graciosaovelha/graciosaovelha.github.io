@@ -9,10 +9,10 @@ parashah: "Ki Tavo"
 
 **Parashat Ki Tavo** está em **Devarim/Deuteronômio 26:1–29:8**. Em algumas edições, por diferença na divisão dos versículos, o final aparece como **Deuteronômio 29:9**.
 
-- <a href="/torah/devarim/capitulo-26/" target="_blank" rel="noopener noreferrer">Bereshit — Capítulo 1</a> `SEG`
-- <a href="/torah/devarim/capitulo-27/" target="_blank" rel="noopener noreferrer">Bereshit — Capítulo 2</a> `TER`
-- <a href="/torah/devarim/capitulo-28/" target="_blank" rel="noopener noreferrer">Bereshit — Capítulo 3</a> `QUA`
-- <a href="/torah/devarim/capitulo-29/" target="_blank" rel="noopener noreferrer">Bereshit — Capítulo 4</a> `QUI`
+- <a href="/torah/devarim/capitulo-26/" target="_blank" rel="noopener noreferrer">Devarim — Capítulo 26</a> `SEG`
+- <a href="/torah/devarim/capitulo-27/" target="_blank" rel="noopener noreferrer">Devarim — Capítulo 27</a> `TER`
+- <a href="/torah/devarim/capitulo-28/" target="_blank" rel="noopener noreferrer">Devarim — Capítulo 28</a> `QUA`
+- <a href="/torah/devarim/capitulo-29/" target="_blank" rel="noopener noreferrer">Devarim — Capítulo 29</a> `QUI`
 
 O nome **Ki Tavo** significa:
 
