@@ -5,9 +5,6 @@ draft: true
 category: torah
 book: shemot
 chapter: 4
-tags:
-  - torah
-  - shemot
 ---
 
 > **Rascunho:** substitua esta orientação pelo conteúdo final e altere `draft: true` para `draft: false` quando quiser publicar.

@@ -5,9 +5,6 @@ draft: true
 category: torah
 book: devarim
 chapter: 28
-tags:
-  - torah
-  - devarim
 ---
 
 > **Rascunho:** substitua esta orientação pelo conteúdo final e altere `draft: true` para `draft: false` quando quiser publicar.

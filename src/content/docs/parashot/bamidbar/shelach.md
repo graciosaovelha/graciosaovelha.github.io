@@ -5,9 +5,6 @@ draft: true
 category: parashat
 book: bamidbar
 parashah: "Shelach"
-tags:
-  - parashat
-  - bamidbar
 ---
 
 > **Rascunho:** substitua esta orientação pelo conteúdo final e altere `draft: true` para `draft: false` quando quiser publicar.

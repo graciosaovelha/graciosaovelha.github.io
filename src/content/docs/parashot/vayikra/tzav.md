@@ -5,9 +5,6 @@ draft: true
 category: parashat
 book: vayikra
 parashah: "Tzav"
-tags:
-  - parashat
-  - vayikra
 ---
 
 > **Rascunho:** substitua esta orientação pelo conteúdo final e altere `draft: true` para `draft: false` quando quiser publicar.

@@ -5,9 +5,6 @@ draft: true
 category: torah
 book: vayikra
 chapter: 1
-tags:
-  - torah
-  - vayikra
 ---
 
 > **Rascunho:** substitua esta orientação pelo conteúdo final e altere `draft: true` para `draft: false` quando quiser publicar.

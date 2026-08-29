@@ -5,9 +5,6 @@ draft: true
 category: torah
 book: bereshit
 chapter: 39
-tags:
-  - torah
-  - bereshit
 ---
 
 > **Rascunho:** substitua esta orientação pelo conteúdo final e altere `draft: true` para `draft: false` quando quiser publicar.

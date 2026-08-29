@@ -5,9 +5,6 @@ draft: true
 category: parashat
 book: devarim
 parashah: "Re’eh"
-tags:
-  - parashat
-  - devarim
 ---
 
 > **Rascunho:** substitua esta orientação pelo conteúdo final e altere `draft: true` para `draft: false` quando quiser publicar.

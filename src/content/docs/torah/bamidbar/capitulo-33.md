@@ -5,9 +5,6 @@ draft: true
 category: torah
 book: bamidbar
 chapter: 33
-tags:
-  - torah
-  - bamidbar
 ---
 
 > **Rascunho:** substitua esta orientação pelo conteúdo final e altere `draft: true` para `draft: false` quando quiser publicar.
