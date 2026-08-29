@@ -7,7 +7,6 @@ const REPOSITORY = 'https://github.com/graciosaovelha/graciosaovelha.github.io';
 
 export default defineConfig({
   site: SITE,
-  base: BASE,
   trailingSlash: 'always',
   integrations: [
     starlight({
