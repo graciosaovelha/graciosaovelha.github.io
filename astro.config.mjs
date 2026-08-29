@@ -54,10 +54,10 @@ export default defineConfig({
         }),
       ],
 sidebar: [
-  {
-    label: 'Início',
-    slug: 'index',
-  },
+{
+  label: 'Início',
+  link: '/',
+},
 
   {
     label: 'Torah',
