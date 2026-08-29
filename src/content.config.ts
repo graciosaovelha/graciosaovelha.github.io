@@ -3,12 +3,10 @@ import { z } from 'astro/zod';
 
 import {
   docsLoader,
-  i18nLoader,
 } from '@astrojs/starlight/loaders';
 
 import {
   docsSchema,
-  i18nSchema,
 } from '@astrojs/starlight/schema';
 
 const bookSchema = z.enum([
@@ -44,10 +42,5 @@ export const collections = {
     schema: docsSchema({
       extend: graciosaOvelhaSchema,
     }),
-  }),
-
-  i18n: defineCollection({
-    loader: i18nLoader(),
-    schema: i18nSchema(),
   }),
 };

@@ -1,7 +1,7 @@
 ---
 title: "Ki Tavo"
 description: "Estudo da Parashat Ki Tavo à luz da Cabalá autêntica."
-draft: false
+draft: true
 category: parashat
 book: devarim
 parashah: "Ki Tavo"
