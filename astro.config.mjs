@@ -53,35 +53,162 @@ export default defineConfig({
           itemsPerPage: 18,
         }),
       ],
-      sidebar: [
-        { label: 'Início', slug: 'index' },
-        {
-          label: 'Torah',
-          items: [
-            { label: 'Visão geral', slug: 'torah' },
-            { label: 'Bereshit — Gênesis', autogenerate: { directory: 'torah/bereshit' } },
-            { label: 'Shemot — Êxodo', autogenerate: { directory: 'torah/shemot' } },
-            { label: 'Vayikra — Levítico', autogenerate: { directory: 'torah/vayikra' } },
-            { label: 'Bamidbar — Números', autogenerate: { directory: 'torah/bamidbar' } },
-            { label: 'Devarim — Deuteronômio', autogenerate: { directory: 'torah/devarim' } },
-          ],
-        },
-        {
-          label: 'Parashot',
-          items: [
-            { label: 'Visão geral', slug: 'parashot' },
-            { label: 'Bereshit', autogenerate: { directory: 'parashot/bereshit' } },
-            { label: 'Shemot', autogenerate: { directory: 'parashot/shemot' } },
-            { label: 'Vayikra', autogenerate: { directory: 'parashot/vayikra' } },
-            { label: 'Bamidbar', autogenerate: { directory: 'parashot/bamidbar' } },
-            { label: 'Devarim', autogenerate: { directory: 'parashot/devarim' } },
-          ],
-        },
-        { label: 'Estudos', slug: 'estudos' },
-        { label: 'Glossário', slug: 'glossario' },
-        { label: 'Tags', link: '/tags/' },
-        { label: 'Sobre', slug: 'sobre' },
-      ],
+sidebar: [
+  {
+    label: 'Início',
+    slug: 'index',
+  },
+
+  {
+    label: 'Torah',
+    items: [
+      {
+        label: 'Visão geral',
+        slug: 'torah',
+      },
+
+      {
+        label: 'Bereshit — Gênesis',
+        items: [
+          {
+            autogenerate: {
+              directory: 'torah/bereshit',
+            },
+          },
+        ],
+      },
+
+      {
+        label: 'Shemot — Êxodo',
+        items: [
+          {
+            autogenerate: {
+              directory: 'torah/shemot',
+            },
+          },
+        ],
+      },
+
+      {
+        label: 'Vayikra — Levítico',
+        items: [
+          {
+            autogenerate: {
+              directory: 'torah/vayikra',
+            },
+          },
+        ],
+      },
+
+      {
+        label: 'Bamidbar — Números',
+        items: [
+          {
+            autogenerate: {
+              directory: 'torah/bamidbar',
+            },
+          },
+        ],
+      },
+
+      {
+        label: 'Devarim — Deuteronômio',
+        items: [
+          {
+            autogenerate: {
+              directory: 'torah/devarim',
+            },
+          },
+        ],
+      },
+    ],
+  },
+
+  {
+    label: 'Parashot',
+    items: [
+      {
+        label: 'Visão geral',
+        slug: 'parashot',
+      },
+
+      {
+        label: 'Bereshit',
+        items: [
+          {
+            autogenerate: {
+              directory: 'parashot/bereshit',
+            },
+          },
+        ],
+      },
+
+      {
+        label: 'Shemot',
+        items: [
+          {
+            autogenerate: {
+              directory: 'parashot/shemot',
+            },
+          },
+        ],
+      },
+
+      {
+        label: 'Vayikra',
+        items: [
+          {
+            autogenerate: {
+              directory: 'parashot/vayikra',
+            },
+          },
+        ],
+      },
+
+      {
+        label: 'Bamidbar',
+        items: [
+          {
+            autogenerate: {
+              directory: 'parashot/bamidbar',
+            },
+          },
+        ],
+      },
+
+      {
+        label: 'Devarim',
+        items: [
+          {
+            autogenerate: {
+              directory: 'parashot/devarim',
+            },
+          },
+        ],
+      },
+    ],
+  },
+
+  {
+    label: 'Estudos',
+    slug: 'estudos',
+  },
+
+  {
+    label: 'Glossário',
+    slug: 'glossario',
+  },
+
+  {
+    label: 'Tags',
+    link: '/tags/',
+  },
+
+  {
+    label: 'Sobre',
+    slug: 'sobre',
+  },
+],
     }),
   ],
 });
