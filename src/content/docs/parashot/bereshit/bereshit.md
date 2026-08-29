@@ -1,7 +1,7 @@
 ---
 title: "Bereshit"
 description: "Estudo da Parashat Bereshit à luz da Cabalá autêntica."
-draft: false
+draft: true
 category: parashat
 book: bereshit
 parashah: "Bereshit"
@@ -9,12 +9,12 @@ parashah: "Bereshit"
 
 **Parashat Bereshit** está em **Bereshit/Gênesis 1:1–6:8**.
 
-- <a href="/torah/bereshit/capitulo-01/" target="_blank" rel="noopener noreferrer">Bereshit — Capítulo 1</a> — 1:1–31 
-- <a href="/torah/bereshit/capitulo-02/" target="_blank" rel="noopener noreferrer">Bereshit — Capítulo 2</a> — 2:1–25
-- <a href="/torah/bereshit/capitulo-03/" target="_blank" rel="noopener noreferrer">Bereshit — Capítulo 3</a> — 3:1–24
-- <a href="/torah/bereshit/capitulo-04/" target="_blank" rel="noopener noreferrer">Bereshit — Capítulo 4</a> — 4:1–26
-- <a href="/torah/bereshit/capitulo-05/" target="_blank" rel="noopener noreferrer">Bereshit — Capítulo 5</a> — 5:1–32
-- <a href="/torah/bereshit/capitulo-06/" target="_blank" rel="noopener noreferrer">Bereshit — Capítulo 6</a> — 6:1–8
+- <a href="/torah/bereshit/capitulo-01/" target="_blank" rel="noopener noreferrer">Bereshit — Capítulo 1</a> `SEG`
+- <a href="/torah/bereshit/capitulo-02/" target="_blank" rel="noopener noreferrer">Bereshit — Capítulo 2</a> `TER`
+- <a href="/torah/bereshit/capitulo-03/" target="_blank" rel="noopener noreferrer">Bereshit — Capítulo 3</a> `QUA`
+- <a href="/torah/bereshit/capitulo-04/" target="_blank" rel="noopener noreferrer">Bereshit — Capítulo 4</a> `QUI`
+- <a href="/torah/bereshit/capitulo-05/" target="_blank" rel="noopener noreferrer">Bereshit — Capítulo 5</a> `SEX`
+- <a href="/torah/bereshit/capitulo-06/" target="_blank" rel="noopener noreferrer">Bereshit — Capítulo 6</a> `SAB`
 
 Ela abre toda a Torá e fala sobre:
 

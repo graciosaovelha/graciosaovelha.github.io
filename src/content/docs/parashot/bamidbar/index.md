@@ -1,5 +1,5 @@
 ---
-title: Parashot de Bamidbar
+title: Introdução
 description: Porções semanais associadas ao livro de Bamidbar.
 category: parashat
 book: bamidbar
@@ -17,5 +17,3 @@ As parashot desta seção são:
 - Pinchas
 - Matot
 - Masei
-
-Cada análise aparecerá na navegação quando seu arquivo deixar de ser rascunho.

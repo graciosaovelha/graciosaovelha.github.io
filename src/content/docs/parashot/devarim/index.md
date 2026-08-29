@@ -1,5 +1,5 @@
 ---
-title: Parashot de Devarim
+title: Introdução
 description: Porções semanais associadas ao livro de Devarim.
 category: parashat
 book: devarim
@@ -18,5 +18,3 @@ As parashot desta seção são:
 - Vayelech
 - Ha’azinu
 - Vezot Haberachah
-
-Cada análise aparecerá na navegação quando seu arquivo deixar de ser rascunho.

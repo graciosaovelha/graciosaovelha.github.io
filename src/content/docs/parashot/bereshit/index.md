@@ -1,5 +1,5 @@
 ---
-title: Parashot de Bereshit
+title: Introdução
 description: Porções semanais associadas ao livro de Bereshit.
 category: parashat
 book: bereshit
@@ -19,5 +19,3 @@ As parashot desta seção são:
 - Miketz
 - Vayigash
 - Vayechi
-
-Cada análise aparecerá na navegação quando seu arquivo deixar de ser rascunho.

@@ -1,5 +1,5 @@
 ---
-title: Parashot de Vayikra
+title: Introdução
 description: Porções semanais associadas ao livro de Vayikra.
 category: parashat
 book: vayikra
@@ -17,5 +17,3 @@ As parashot desta seção são:
 - Emor
 - Behar
 - Bechukotai
-
-Cada análise aparecerá na navegação quando seu arquivo deixar de ser rascunho.

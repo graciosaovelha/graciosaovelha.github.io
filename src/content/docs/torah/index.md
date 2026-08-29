@@ -13,5 +13,3 @@ Os estudos diários estão organizados pelos **cinco livros da Torah**.
 | Vayikra | Levítico | 27 |
 | Bamidbar | Números | 36 |
 | Devarim | Deuteronômio | 34 |
-
-Os arquivos dos **187 capítulos** já existem como rascunhos no repositório. À medida que cada estudo for publicado, ele passará a aparecer automaticamente na navegação.
