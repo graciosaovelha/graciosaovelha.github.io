@@ -1,8 +1,15 @@
 import { defineCollection } from 'astro:content';
 import { z } from 'astro/zod';
 
-import { docsLoader } from '@astrojs/starlight/loaders';
-import { docsSchema } from '@astrojs/starlight/schema';
+import {
+  docsLoader,
+  i18nLoader,
+} from '@astrojs/starlight/loaders';
+
+import {
+  docsSchema,
+  i18nSchema,
+} from '@astrojs/starlight/schema';
 
 import { starlightTagsExtension } from 'starlight-tags';
 
@@ -54,5 +61,10 @@ export const collections = {
     schema: docsSchema({
       extend: graciosaOvelhaSchema,
     }),
+  }),
+
+  i18n: defineCollection({
+    loader: i18nLoader(),
+    schema: i18nSchema(),
   }),
 };
