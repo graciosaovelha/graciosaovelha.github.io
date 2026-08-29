@@ -22,7 +22,6 @@ src/content/docs/
 - `src/content.config.ts`: valida os metadados dos arquivos Markdown.
 - `src/styles/custom.css`: tema e tipografia.
 - `src/components/PageTitle.astro`: exibe categoria e datas sob o título.
-- `tags.yml`: catálogo de tags.
 - `.github/workflows/deploy.yml`: publicação automática.
 - `public/`: favicon e imagens estáticas futuras.
 - `templates/`: modelos prontos de publicação.

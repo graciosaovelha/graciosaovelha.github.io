@@ -6,9 +6,6 @@ publishedAt: 2026-08-28
 category: parashat
 book: bereshit
 parashah: "NOME"
-tags:
-  - parashat
-  - bereshit
 ---
 
 ## Visão geral

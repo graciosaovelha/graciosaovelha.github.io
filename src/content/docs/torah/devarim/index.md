@@ -3,9 +3,6 @@ title: Devarim — Deuteronômio
 description: Estudos de Devarim, organizados capítulo a capítulo.
 category: torah
 book: devarim
-tags:
-  - torah
-  - devarim
 ---
 
 Esta seção reúne os estudos de **Devarim (Deuteronômio)**, que possui **34 capítulos**.

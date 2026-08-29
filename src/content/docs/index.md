@@ -31,7 +31,6 @@ O projeto foi concebido para reunir textos de estudo e reflexão sob a perspecti
 - **Parashot:** análises das porções semanais, também agrupadas pelo livro correspondente.
 - **Estudos:** textos temáticos que não pertencem exclusivamente a um capítulo ou parashat.
 - **Glossário:** conceitos e termos recorrentes para consulta rápida.
-- **Tags:** outra forma de encontrar conteúdos relacionados por assunto.
 
 ## Ritmo de publicação
 

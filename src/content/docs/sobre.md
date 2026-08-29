@@ -12,8 +12,8 @@ O objetivo é construir, ao longo do tempo, uma biblioteca que acompanhe os **ci
 
 ## Organização
 
-Os estudos são separados por livro, capítulo, parashat e assunto. A pesquisa e as tags permitem reencontrar conceitos que aparecem em diferentes partes do texto.
+Os estudos são separados por livro, capítulo, parashat e assunto. A pesquisa permite reencontrar conceitos que aparecem em diferentes partes do texto.
 
 ## Sobre as publicações
 
-Cada estudo pode apresentar data de publicação, data de atualização, tags e navegação para o texto anterior ou seguinte. Essa estrutura foi pensada para que novos conteúdos possam ser adicionados diretamente em Markdown.
+Cada estudo pode apresentar data de publicação, data de atualização e navegação para o texto anterior ou seguinte. Essa estrutura foi pensada para que novos conteúdos possam ser adicionados diretamente em Markdown.

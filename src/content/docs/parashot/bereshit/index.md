@@ -3,9 +3,6 @@ title: Parashot de Bereshit
 description: Porções semanais associadas ao livro de Bereshit.
 category: parashat
 book: bereshit
-tags:
-  - parashat
-  - bereshit
 ---
 
 As parashot desta seção são:

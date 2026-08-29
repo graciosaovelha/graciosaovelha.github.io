@@ -3,9 +3,6 @@ title: Parashot de Vayikra
 description: Porções semanais associadas ao livro de Vayikra.
 category: parashat
 book: vayikra
-tags:
-  - parashat
-  - vayikra
 ---
 
 As parashot desta seção são:

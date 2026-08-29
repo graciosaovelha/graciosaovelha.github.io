@@ -11,8 +11,6 @@ import {
   i18nSchema,
 } from '@astrojs/starlight/schema';
 
-import { starlightTagsExtension } from 'starlight-tags';
-
 const bookSchema = z.enum([
   'bereshit',
   'shemot',
@@ -31,7 +29,12 @@ const categorySchema = z.enum([
 
 const datePattern = /^\d{4}-\d{2}-\d{2}$/;
 
-const graciosaOvelhaSchema = starlightTagsExtension.extend({
+const parashahReferenceSchema = z.object({
+  name: z.string(),
+  verses: z.string().optional(),
+});
+
+const graciosaOvelhaSchema = z.object({
   publishedAt: z
     .string()
     .regex(datePattern, 'Use AAAA-MM-DD.')
@@ -52,7 +55,13 @@ const graciosaOvelhaSchema = starlightTagsExtension.extend({
     .positive()
     .optional(),
 
+  // Usado pela própria página de uma parashat.
   parashah: z.string().optional(),
+
+  // Associa um capítulo da Torah a uma ou mais parashot.
+  parashot: z
+    .array(parashahReferenceSchema)
+    .optional(),
 });
 
 export const collections = {

@@ -3,9 +3,6 @@ title: Parashot de Bamidbar
 description: Porções semanais associadas ao livro de Bamidbar.
 category: parashat
 book: bamidbar
-tags:
-  - parashat
-  - bamidbar
 ---
 
 As parashot desta seção são:

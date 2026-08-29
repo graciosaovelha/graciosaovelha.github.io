@@ -304,5 +304,4 @@ graciosaovelha-v1/
 ├── ESTRUTURA.md
 ├── package.json
 ├── README.md
-├── tags.yml
 └── tsconfig.json

@@ -2,8 +2,6 @@
 title: Parashot
 description: Estudos das porções semanais da Torah.
 category: parashat
-tags:
-  - parashat
 ---
 
 Esta seção acompanha o ciclo de leitura das **54 parashot** da Torah.

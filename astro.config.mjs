@@ -1,6 +1,5 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
-import starlightTags from 'starlight-tags';
 
 const SITE = 'https://graciosaovelha.github.io';
 const REPOSITORY = 'https://github.com/graciosaovelha/graciosaovelha.github.io';
@@ -44,15 +43,6 @@ export default defineConfig({
       components: {
         PageTitle: './src/components/PageTitle.astro',
       },
-      plugins: [
-        starlightTags({
-          configPath: 'tags.yml',
-          tagsPagesPrefix: 'tags',
-          tagsIndexSlug: 'tags',
-          onInlineTagsNotFound: 'error',
-          itemsPerPage: 18,
-        }),
-      ],
       sidebar: [
   {
     label: 'Início',
@@ -197,11 +187,6 @@ export default defineConfig({
   {
     label: 'Glossário',
     link: '/glossario/',
-  },
-
-  {
-    label: 'Tags',
-    link: '/tags/',
   },
 
   {

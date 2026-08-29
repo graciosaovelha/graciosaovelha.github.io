@@ -2,8 +2,6 @@
 title: Torah
 description: Estudos dos cinco livros da Torah, organizados capítulo a capítulo.
 category: torah
-tags:
-  - torah
 ---
 
 Os estudos diários estão organizados pelos **cinco livros da Torah**.

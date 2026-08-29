@@ -3,9 +3,6 @@ title: Bereshit — Gênesis
 description: Estudos de Bereshit, organizados capítulo a capítulo.
 category: torah
 book: bereshit
-tags:
-  - torah
-  - bereshit
 ---
 
 Esta seção reúne os estudos de **Bereshit (Gênesis)**, que possui **50 capítulos**.

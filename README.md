@@ -13,7 +13,6 @@ Versão 1 da estrutura do site **Graciosa Ovelha**, construída com Astro + Star
 - navegação anterior/próximo;
 - links permanentes para títulos;
 - layout responsivo;
-- tags com páginas automáticas;
 - metadados próprios para data, categoria, livro, capítulo e parashat;
 - cinco livros da Torah estruturados;
 - 187 capítulos pré-criados como rascunhos;
@@ -78,8 +77,7 @@ Para publicar:
 publishedAt: 2026-08-28
 ```
 
-5. Ajuste as tags.
-6. Faça commit.
+5. Faça commit.
 
 ## Como publicar uma parashat
 
@@ -90,12 +88,6 @@ src/content/docs/parashot/bereshit/noach.md
 ```
 
 Edite o conteúdo, altere `draft: true` para `draft: false`, informe `publishedAt` e faça commit.
-
-## Tags
-
-As tags válidas estão em `tags.yml`. A configuração está em modo estrito: se um Markdown usar uma tag inexistente, o build deve avisar/impedir o erro de taxonomia em vez de criar categorias acidentais.
-
-Quando precisar de uma nova tag, adicione-a primeiro em `tags.yml`.
 
 ## Datas
 

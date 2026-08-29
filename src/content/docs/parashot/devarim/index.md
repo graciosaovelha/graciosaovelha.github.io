@@ -3,9 +3,6 @@ title: Parashot de Devarim
 description: Porções semanais associadas ao livro de Devarim.
 category: parashat
 book: devarim
-tags:
-  - parashat
-  - devarim
 ---
 
 As parashot desta seção são:

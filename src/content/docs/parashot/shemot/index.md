@@ -3,9 +3,6 @@ title: Parashot de Shemot
 description: Porções semanais associadas ao livro de Shemot.
 category: parashat
 book: shemot
-tags:
-  - parashat
-  - shemot
 ---
 
 As parashot desta seção são:

@@ -6,9 +6,6 @@ publishedAt: 2026-08-28
 category: torah
 book: bereshit
 chapter: 1
-tags:
-  - torah
-  - bereshit
 ---
 
 ## Texto-base
