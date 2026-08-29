@@ -4,17 +4,21 @@ import DefaultSidebar
 
 const pathname = Astro.url.pathname;
 
-let sidebar = Astro.props.sidebar;
+const route = Astro.locals.starlightRoute;
+const sidebar = route.sidebar;
 
 const isHomeOrAbout = (entry: any) =>
   entry.type === 'link' &&
   (
     entry.href === '/' ||
-    entry.href === '/sobre/'
+    entry.href === '/sobre/' ||
+    entry.href === '/sobre'
   );
 
+let filteredSidebar = sidebar;
+
 if (pathname.startsWith('/torah/')) {
-  sidebar = sidebar.filter(
+  filteredSidebar = sidebar.filter(
     (entry: any) =>
       isHomeOrAbout(entry) ||
       (
@@ -24,7 +28,7 @@ if (pathname.startsWith('/torah/')) {
   );
 }
 else if (pathname.startsWith('/parashot/')) {
-  sidebar = sidebar.filter(
+  filteredSidebar = sidebar.filter(
     (entry: any) =>
       isHomeOrAbout(entry) ||
       (
@@ -34,16 +38,24 @@ else if (pathname.startsWith('/parashot/')) {
   );
 }
 else {
-  sidebar = sidebar.filter(
+  filteredSidebar = sidebar.filter(
     (entry: any) =>
       isHomeOrAbout(entry)
   );
 }
+
+/*
+ * O Sidebar padrão do Starlight lê diretamente
+ * Astro.locals.starlightRoute.sidebar.
+ *
+ * Portanto alteramos o array original antes
+ * de renderizar o componente padrão.
+ */
+sidebar.splice(
+  0,
+  sidebar.length,
+  ...filteredSidebar
+);
 ---
 
-<DefaultSidebar
-  {...Astro.props}
-  sidebar={sidebar}
->
-  <slot />
-</DefaultSidebar>
+<DefaultSidebar />
