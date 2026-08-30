@@ -26,7 +26,7 @@ export default defineConfig({
       pagefind: true,
       pagination: true,
       tableOfContents: {
-        minHeadingLevel: 2,
+        minHeadingLevel: 1,
         maxHeadingLevel: 2,
       },
       editLink: {
