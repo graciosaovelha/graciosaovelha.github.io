@@ -28,43 +28,6 @@
     Deuteronomy: 'devarim',
   };
 
-  const combined = {
-    'vayakhel-pekudei': [
-      'vayakhel',
-      'pekudei',
-    ],
-
-    'tazria-metzora': [
-      'tazria',
-      'metzora',
-    ],
-
-    'acharei-mot-kedoshim': [
-      'acharei-mot',
-      'kedoshim',
-    ],
-
-    'behar-bechukotai': [
-      'behar',
-      'bechukotai',
-    ],
-
-    'chukat-balak': [
-      'chukat',
-      'balak',
-    ],
-
-    'matot-masei': [
-      'matot',
-      'masei',
-    ],
-
-    'nitzavim-vayelech': [
-      'nitzavim',
-      'vayelech',
-    ],
-  };
-
   function formatDate(date) {
     return date
       .toISOString()
@@ -160,8 +123,7 @@
       const slug =
         slugify(name);
 
-      const possibleSlugs =
-        combined[slug] ?? [slug];
+      const possibleSlugs = [slug];
 
       const publishedLinks = [];
 

@@ -1,5 +1,5 @@
 ---
-title: Introdução
+title: Parashot de Devarim
 description: Porções semanais associadas ao livro de Devarim.
 category: parashat
 book: devarim
@@ -15,6 +15,7 @@ As parashot desta seção são:
 - Ki Teitzei
 - Ki Tavo
 - Nitzavim
-- Vayelech
+- Vayeilech
+- Nitzavim–Vayeilech
 - Ha’azinu
 - Vezot Haberachah

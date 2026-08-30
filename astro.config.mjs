@@ -43,6 +43,9 @@ export default defineConfig({
       components: {
         PageTitle: './src/components/PageTitle.astro',
         Sidebar: './src/components/Sidebar.astro',
+
+        ThemeProvider: './src/components/ForceDarkTheme.astro',
+        ThemeSelect: './src/components/EmptyComponent.astro',
       },
       sidebar: [
   {
