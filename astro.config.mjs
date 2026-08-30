@@ -1,5 +1,6 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import sitemap from '@astrojs/sitemap';
 
 const SITE = 'https://graciosaovelha.github.io';
 const REPOSITORY = 'https://github.com/graciosaovelha/graciosaovelha.github.io';
@@ -8,6 +9,7 @@ export default defineConfig({
   site: SITE,
   trailingSlash: 'always',
   integrations: [
+    sitemap(),
     starlight({
       title: 'Graciosa Ovelha',
       description: 'Um caminho diário pela Torah à luz da Cabalá autêntica.',
