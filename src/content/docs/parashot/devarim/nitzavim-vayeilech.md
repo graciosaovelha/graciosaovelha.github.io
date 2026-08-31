@@ -5,6 +5,8 @@ draft: false
 category: parashat
 book: devarim
 parashah: "Nitzavim-Vayeilech"
+sidebar:
+  order: 85
 ---
 
 **Nitzavim–Vayeilech** abrange:
