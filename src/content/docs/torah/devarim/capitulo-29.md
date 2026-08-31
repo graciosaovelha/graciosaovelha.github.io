@@ -514,7 +514,9 @@ Depois de aprender que conhecimento exige ação, Israel aparece diante de Deus 
 
 ---
 
-<!-->
+Continua...
+
+<!--
 
 # Devarim 29:9
 
