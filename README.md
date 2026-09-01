@@ -108,3 +108,7 @@ src/styles/custom.css
 ## Idiomas
 
 A língua raiz está configurada como `pt-BR`. A estrutura do Starlight permite adicionar outros idiomas posteriormente sem reconstruir o projeto do zero.
+
+<!--
+Faça uma análise minuciosa e detalhada do capítulo X do livro Bereshit (Gênesis) / Shemot (Êxodo) / Vayikra (Levítico) / Bamidbar (Números) / Devarim (Deuteronômio) da Torah, sob o ponto de vista da Cabalá autêntica. Revele os mistérios cabalísticos por trás de cada versículo, tanto do ponto de vista literal quanto espiritual. Não se preocupe com a quantidade grande de linhas, quanto mais informação melhor. Finalize com uma pequena conclusão seguida de uma lição espiritual sobre o capítulo para a vida. Me devolva tudo em um texto formatado em markdown (.md).
+-->
