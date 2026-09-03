@@ -514,115 +514,71 @@ Depois de aprender que conhecimento exige ação, Israel aparece diante de Deus 
 
 ---
 
-Continua...
-
-<!--
-
 # Devarim 29:9
 
 > **“Vós estais todos de pé hoje diante de HaShem, vosso Deus: vossos chefes, vossas tribos, vossos anciãos e vossos oficiais, todos os homens de Israel.”**
 
-Este é o início da **Parashat Nitzavim**.
+Este é o início da **Parashat Nitzavim**. É um dos grandes versículos da mística da coletividade.
 
-É um dos grandes versículos da mística da coletividade.
-
-## Atem — אתם
+### Atem — אתם
 
 O valor numérico de **אתם — atem**, “vós”, é:
 
 **א = 1**
-
 **ת = 400**
-
 **ם = 40**
 
 Total:
-
 **441**
 
-Curiosamente:
-
-**אמת — emet, verdade**
-
-também possui valor **441**.
+Curiosamente: **אמת — emet, verdade** também possui valor **441**.
 
 Isso não precisa ser apresentado como uma afirmação explícita do Ari sobre este versículo. É, porém, um belo *remez* tradicionalmente compatível com a mensagem:
 
 > o “vós” coletivo encontra sua estabilidade quando está alinhado à verdade.
 
-## Nitzavim
+### Nitzavim
 
-**ניצבים — nitzavim** não significa simplesmente estar presente.
-
-Possui sentido de permanecer:
-
-* firme;
-* ereto;
-* estabelecido.
+**ניצבים — nitzavim** não significa simplesmente estar presente. Possui sentido de permanecer firme, ereto e estabelecido.
 
 Depois das advertências de Ki Tavô, Israel não aparece destruído diante de Deus.
 
 A primeira palavra espiritual é estabilidade.
 
-## Hayom — היום
+### Hayom — היום
 
 **היום — hayom**, “hoje”, possui valor 61.
 
 Curiosamente:
 
 **אין — Ayin**, “nada/não-ser”, = 61;
-
 **אני — Ani**, “eu”, = 61.
 
-Trata-se de uma associação contemplativa, não de uma identificação explícita do Ari com este versículo.
-
-Ainda assim, ela expressa um paradoxo profundamente cabalístico:
+Trata-se de uma associação contemplativa, não de uma identificação explícita do Ari com este versículo. Ainda assim, ela expressa um paradoxo profundamente cabalístico:
 
 > o “eu” corretamente constituído nasce quando deixa de imaginar-se independente da Fonte.
 
 O *ani* santificado encontra sua raiz no *ayin*.
 
-## “Todos”
+### “Todos”
 
-A Torah enfatiza:
+A Torah enfatiza: **kulchem — todos vós**.
 
-> **kulchem — todos vós**.
+A aliança não é apenas experiência privada do grande místico, estão presentes líderes, anciãos, oficiais e pessoas comuns.
 
-A aliança não é apenas experiência privada do grande místico.
+#### Estrutura da alma coletiva
 
-Estão presentes:
-
-* líderes;
-* anciãos;
-* oficiais;
-* pessoas comuns.
-
-### Estrutura da alma coletiva
-
-Na Cabalá luriânica, diferentes almas pertencem a diferentes raízes e níveis.
-
-Algumas podem estar associadas a funções de:
-
-* “cabeça”;
-* “braço”;
-* “coração”;
-* “pé”,
-
-na configuração coletiva.
+Na Cabalá luriânica, diferentes almas pertencem a diferentes raízes e níveis. Algumas podem estar associadas a funções de “cabeça”, “braço”, “coração”, “pé”, na configuração coletiva.
 
 Mas um corpo composto apenas de cabeças não é um corpo.
 
 A alma situada no “calcanhar” da estrutura coletiva pode realizar algo que a alma situada na “cabeça” não pode realizar.
 
-## Diante de HaShem
+### Diante de HaShem
 
-A verdadeira unidade surge:
+A verdadeira unidade surge **lifnei HaShem — diante de HaShem**.
 
-> **lifnei HaShem — diante de HaShem**.
-
-Não é unidade baseada em eliminar diferenças.
-
-É unidade baseada em compartilhar a mesma Fonte.
+Não é unidade baseada em eliminar diferenças, é unidade baseada em compartilhar a mesma Fonte.
 
 ---
 
@@ -630,22 +586,15 @@ Não é unidade baseada em eliminar diferenças.
 
 > **“Vossas crianças, vossas mulheres e o estrangeiro que está no meio do teu acampamento, desde o cortador de tua madeira até o tirador de tua água.”**
 
-O versículo anterior poderia deixar alguém imaginando que a aliança é estruturada apenas pela elite.
+O versículo anterior poderia deixar alguém imaginando que a aliança é estruturada apenas pela elite, mas este versículo destrói essa possibilidade.
 
-Este versículo destrói essa possibilidade.
+### Do mais elevado ao aparentemente mais simples
 
-## Do mais elevado ao aparentemente mais simples
-
-A aliança abrange:
-
-* crianças;
-* mulheres;
-* estrangeiro residente;
-* trabalhadores de tarefas humildes.
+A aliança abrange crianças, mulheres, estrangeiro residente, trabalhadores de tarefas humildes...
 
 Nenhum nível do corpo coletivo é espiritualmente descartável.
 
-## Madeira
+### Madeira
 
 A madeira imediatamente evoca **etz — árvore**.
 
@@ -656,34 +605,23 @@ Na linguagem da Cabalá, “árvore” possui enorme importância:
 * ramificações;
 * raízes.
 
-O cortador de madeira trabalha com diferenciação.
-
-Ele separa partes de uma estrutura.
+O cortador de madeira trabalha com diferenciação, ele separa partes de uma estrutura.
 
 Contemplativamente, isso pode representar o trabalho de **birur**, de separação e seleção.
 
-## Água
+### Água
 
-Água é frequentemente associada a:
-
-* Torah;
-* Chesed;
-* fluxo;
-* transmissão.
+Água é frequentemente associada a Torah, Chesed, fluxo e transmissão.
 
 O tirador de água transporta aquilo que dá vida.
 
 Assim, aquele que parece executar a tarefa mais humilde pode estar, simbolicamente, transportando Chesed para toda a comunidade.
 
-## Princípio do Ari: centelhas em todos os lugares
+### Princípio do Ari: centelhas em todos os lugares
 
-Um elemento central da visão luriânica é que centelhas de santidade encontram-se dispersas nos níveis inferiores.
+Um elemento central da visão luriânica é que centelhas de santidade encontram-se dispersas nos níveis inferiores, por isso, trabalhos aparentemente mundanos podem ser locais de enorme importância espiritual.
 
-Por isso, trabalhos aparentemente mundanos podem ser locais de enorme importância espiritual.
-
-Não é somente no êxtase místico que ocorre *tikkun*.
-
-Pode ocorrer ao:
+Não é somente no êxtase místico que ocorre *tikkun*. Pode ocorrer ao:
 
 * preparar alimento;
 * trabalhar honestamente;
@@ -691,7 +629,7 @@ Pode ocorrer ao:
 * ajudar alguém;
 * utilizar corretamente um objeto material.
 
-## Avodá
+### Avodá
 
 Nunca meça o valor espiritual de uma pessoa somente pela visibilidade de sua função.
 
@@ -703,65 +641,41 @@ Aquilo que parece “baixo” na estrutura social pode possuir uma raiz elevadí
 
 > **“Para entrares na aliança de HaShem, teu Deus, e em Seu juramento, que HaShem, teu Deus, estabelece contigo hoje.”**
 
-## Entrar no pacto
+### Entrar no pacto
 
-O hebraico utiliza a ideia de **passar** para dentro da aliança.
+O hebraico utiliza a ideia de **passar** para dentro da aliança. Isso indica transição de estado.
 
-Isso indica transição de estado.
+* Antes: indivíduo isolado.
+* Depois: membro comprometido de uma relação.
 
-Antes:
-
-> indivíduo isolado.
-
-Depois:
-
-> membro comprometido de uma relação.
-
-## Brit e Yesod
+### Brit e Yesod
 
 Como mencionado, **Brit** possui relação clássica com **Yesod**.
 
-Yesod funciona como canal que:
+Yesod funciona como canal que reúne, conecta e transmite.
 
-* reúne;
-* conecta;
-* transmite.
+Uma aliança verdadeira não é apenas um contrato externo, é um vínculo que cria um canal permanente.
 
-Uma aliança verdadeira não é apenas um contrato externo.
+### Juramento
 
-É um vínculo que cria um canal permanente.
+O juramento acrescenta um componente de **Gevurah**. Por quê? Porque amor sem compromisso pode permanecer indefinido.
 
-## Juramento
-
-O juramento acrescenta um componente de **Gevurah**.
-
-Por quê?
-
-Porque amor sem compromisso pode permanecer indefinido.
-
-Gevurah:
-
-* estabelece limites;
-* fixa obrigações;
-* diz “isto sim, aquilo não”.
+Gevurah estabelece limites, fixa obrigações e diz “isto sim, aquilo não”.
 
 Brit possui amor, mas possui também fronteira.
 
-## Chesed e Gevurah
+### Chesed e Gevurah
 
 A aliança saudável une:
 
-**Chesed:** Deus aproxima.
+* **Chesed:** Deus aproxima.
+* **Gevurah:** a aproximação possui exigências.
 
-**Gevurah:** a aproximação possui exigências.
-
-Apenas Chesed degeneraria em ausência de responsabilidade.
-
-Apenas Gevurah produziria temor sem vínculo.
+Apenas Chesed degeneraria em ausência de responsabilidade, apenas Gevurah produziria temor sem vínculo.
 
 O pacto exige equilíbrio.
 
-## Avodá
+### Avodá
 
 Relacionamento espiritual não é apenas sentir proximidade.
 
@@ -775,7 +689,7 @@ Esse é um aspecto de Brit.
 
 > **“Para que Ele te estabeleça hoje como Seu povo e seja para ti Deus, como te falou e como jurou a teus pais, Avraham, Yitzchak e Yaakov.”**
 
-## “Estabelecer-te”
+### “Estabelecer-te”
 
 O verbo possui a ideia de fazer permanecer, levantar ou constituir.
 
@@ -783,29 +697,21 @@ Há aqui eco da própria palavra **Nitzavim**.
 
 A aliança faz Israel permanecer.
 
-## Povo como recipiente coletivo
+### Povo como recipiente coletivo
 
-Israel não é constituído como povo apenas por compartilhar ancestralidade.
-
-A aliança cria uma identidade espiritual coletiva.
+Israel não é constituído como povo apenas por compartilhar ancestralidade. A aliança cria uma identidade espiritual coletiva.
 
 Na linguagem cabalística, isso se aproxima do conceito de **Knesset Yisrael**, a reunião das almas de Israel, frequentemente relacionada a Malchut.
 
-### Malchut
+#### Malchut
 
-Malchut não possui luz “própria” no sentido de independência.
+Malchut não possui luz “própria” no sentido de independência. Ela recebe e manifesta.
 
-Ela recebe e manifesta.
+Isso não é inferioridade, É sua grandeza.
 
-Isso não é inferioridade.
+A finalidade do fluxo superior é chegar à manifestação. Do mesmo modo, a missão coletiva de Israel é tornar perceptível no mundo a soberania divina através da Torah e das mitzvot.
 
-É sua grandeza.
-
-A finalidade do fluxo superior é chegar à manifestação.
-
-Do mesmo modo, a missão coletiva de Israel é tornar perceptível no mundo a soberania divina através da Torah e das mitzvot.
-
-## Avraham, Yitzchak e Yaakov
+### Avraham, Yitzchak e Yaakov
 
 Na linguagem das sefirot, os patriarcas são tradicionalmente associados a:
 
@@ -815,11 +721,7 @@ Na linguagem das sefirot, os patriarcas são tradicionalmente associados a:
 
 Isso é profundamente importante neste versículo.
 
-A aliança atual repousa sobre uma estrutura que já contém:
-
-* expansão;
-* limite;
-* harmonização.
+A aliança atual repousa sobre uma estrutura que já contém expansão, limite e harmonização.
 
 Yaakov/Tiferet integra as duas linhas.
 
@@ -831,28 +733,23 @@ Portanto, Israel como povo é estabelecido através de uma estrutura equilibrada
 
 > **“Não é somente convosco que estabeleço esta aliança e este juramento.”**
 
-## Peshat
+### Peshat
 
 O pacto ultrapassa os indivíduos fisicamente presentes.
 
 Essa afirmação prepara o versículo seguinte.
 
-## O indivíduo não encerra a própria alma
+### O indivíduo não encerra a própria alma
 
 Uma das contribuições mais profundas da Cabalá luriânica é a descrição das almas como pertencentes a **raízes coletivas**.
 
 A individualidade existe, mas não é isolamento ontológico.
 
-As almas relacionam-se como:
-
-* raízes;
-* ramos;
-* subdivisões;
-* configurações.
+As almas relacionam-se como raízes, ramos, subdivisões e configurações.
 
 Isso ajuda a compreender a responsabilidade coletiva.
 
-## Gilgul
+### Gilgul
 
 No sistema do Ari, especialmente desenvolvido no *Sha'ar HaGilgulim*, uma alma pode atravessar processos de:
 
@@ -863,16 +760,11 @@ No sistema do Ari, especialmente desenvolvido no *Sha'ar HaGilgulim*, uma alma p
 
 Assim, o indivíduo deve ser compreendido dentro de uma história espiritual muito maior.
 
-## Avodá
+### Avodá
 
 Uma decisão moral raramente termina completamente na pessoa que a toma.
 
-Ela pode influenciar:
-
-* filhos;
-* alunos;
-* comunidade;
-* gerações futuras.
+Ela pode influenciar filhos, alunos, comunidade, gerações futuras...
 
 A Torah começa a revelar uma ética transgeracional.
 
@@ -884,7 +776,7 @@ A Torah começa a revelar uma ética transgeracional.
 
 Este é um dos pilares textuais da ideia de um pacto transgeracional.
 
-## “Quem não está aqui”
+### “Quem não está aqui”
 
 Na tradição rabínica, este versículo é associado às gerações futuras.
 
@@ -892,45 +784,31 @@ A discussão aparece, entre outros lugares, no tratado **Shevuot 39a**, no conte
 
 Para a Cabalá, isso adquire uma profundidade adicional.
 
-## Raízes das almas
+### Raízes das almas
 
 Uma alma futura pode não estar presente fisicamente e, contudo, sua raiz estar incluída na configuração coletiva.
 
-No sistema luriânico, as almas não são criações isoladas aparecendo sem conexão.
-
-Elas possuem raízes na estrutura de **Adam HaRishon**.
+No sistema luriânico, as almas não são criações isoladas aparecendo sem conexão, elas possuem raízes na estrutura de **Adam HaRishon**.
 
 A humanidade aparece, em sua dimensão primordial, como uma estrutura de alma abrangente que posteriormente se diferencia.
 
-## Tempo espiritual
+### Tempo espiritual
 
-Isso sugere uma diferença entre:
-
-* tempo físico;
-* raiz espiritual.
+Isso sugere uma diferença entre tempo físico e raiz espiritual.
 
 Fisicamente, uma geração futura ainda não nasceu.
 
 Em sua raiz, porém, ela pertence à estrutura do pacto.
 
-## Responsabilidade
+### Responsabilidade
 
-Isso não significa que cada descendente seja mecanicamente culpado por qualquer ação de seus ancestrais.
+Isso não significa que cada descendente seja mecanicamente culpado por qualquer ação de seus ancestrais. A Torah possui princípios claros de responsabilidade pessoal.
 
-A Torah possui princípios claros de responsabilidade pessoal.
+A ideia é outra: cada geração nasce dentro de uma história espiritual que não começou com ela.
 
-A ideia é outra:
+Recebemos bênçãos, feridas, responsabilidades, oportunidades de *tikkun*...
 
-> cada geração nasce dentro de uma história espiritual que não começou com ela.
-
-Recebemos:
-
-* bênçãos;
-* feridas;
-* responsabilidades;
-* oportunidades de *tikkun*.
-
-## Avodá
+### Avodá
 
 A pergunta espiritual não é apenas:
 
@@ -946,17 +824,15 @@ A pergunta espiritual não é apenas:
 
 > **“Pois vós sabeis como habitamos na terra do Egito e como passamos pelo meio das nações pelas quais passastes.”**
 
-## Memória do exílio
+### Memória do exílio
 
-A Torah retorna ao Egito.
-
-Por quê?
+A Torah retorna ao Egito. Por quê?
 
 Porque o pacto só pode ser compreendido corretamente depois de recordar a vulnerabilidade.
 
 Israel não deve entrar na Terra acreditando que sempre possuiu poder.
 
-## Egito e birur
+### Egito e birur
 
 Na leitura luriânica posterior, o exílio egípcio tornou-se um paradigma poderoso do processo de **birur nitzotzot**, elevação ou seleção das centelhas.
 
@@ -968,29 +844,19 @@ O trabalho de *tikkun* envolve recuperar e elevar essas centelhas.
 
 A alma às vezes precisa entrar num lugar de ocultamento para retirar dali algo que não poderia ser alcançado de outra forma.
 
-Isso não significa que todo sofrimento humano possa ser explicado simplisticamente como “necessário para elevar centelhas”.
-
-Tal afirmação seria teologicamente imprudente e humanamente cruel.
+Isso não significa que todo sofrimento humano possa ser explicado simplisticamente como “necessário para elevar centelhas”. Tal afirmação seria teologicamente imprudente e humanamente cruel.
 
 A Cabalá oferece um modelo de significado espiritual, não uma licença para julgar vítimas.
 
-## Passar entre nações
+### Passar entre nações
 
-Israel não permanece fechado numa bolha.
+Israel não permanece fechado numa bolha, ele atravessa diferentes culturas e estruturas.
 
-Ele atravessa diferentes culturas e estruturas.
+Existe sempre o perigo de absorver idolatria, mas existe também uma missão de seleção: encontrar aquilo que possui centelha de verdade sem adotar sua casca.
 
-Existe sempre o perigo de absorver idolatria.
+### Avodá
 
-Mas existe também uma missão de seleção:
-
-> encontrar aquilo que possui centelha de verdade sem adotar sua casca.
-
-## Avodá
-
-Maturidade espiritual não significa nunca entrar em contato com o mundo.
-
-Significa saber atravessá-lo sem perder o centro.
+Maturidade espiritual não significa nunca entrar em contato com o mundo, significa saber atravessá-lo sem perder o centro.
 
 ---
 
@@ -998,72 +864,45 @@ Significa saber atravessá-lo sem perder o centro.
 
 > **“Vistes suas abominações e seus ídolos, madeira e pedra, prata e ouro, que havia entre eles.”**
 
-## O problema não é a matéria
+### O problema não é a matéria
 
-A Torah menciona:
+A Torah menciona madeira, pedra, prata e ouro.
 
-* madeira;
-* pedra;
-* prata;
-* ouro.
-
-Nenhum desses materiais é intrinsecamente mau.
-
-Todos fazem parte da criação divina.
+Nenhum desses materiais é intrinsecamente mau. Todos fazem parte da criação divina.
 
 O problema está no uso.
 
-## A essência da idolatria
+### A essência da idolatria
 
 Na perspectiva cabalística, idolatria significa atribuir autonomia ao intermediário.
 
 Existe uma cadeia de influxo espiritual.
 
-O erro ocorre quando alguém toma:
-
-* força;
-* objeto;
-* astro;
-* poder;
-* riqueza;
-* estrutura,
-
-e o trata como fonte independente.
+O erro ocorre quando alguém toma força, objeto, astro, poder, riqueza, estrutura, e o trata como fonte independente.
 
 Essa é a metafísica da separação.
 
-### Kelipah
+#### Kelipah
 
-A *kelipah* não cria sua própria vitalidade.
+A *kelipah* não cria sua própria vitalidade, ela recebe.
 
-Ela recebe.
-
-Seu erro consiste em ocultar a Fonte e produzir a impressão:
-
-> “eu existo por mim mesma”.
+Seu erro consiste em ocultar a Fonte e produzir a impressão: “eu existo por mim mesma”.
 
 Essa é uma definição extremamente profunda da idolatria interior.
 
-## Prata e ouro
+### Prata e ouro
 
 Elementos belos e valiosos podem tornar-se recipientes de santidade ou objetos de idolatria.
 
-O mesmo ouro pode servir:
+O mesmo ouro pode servir ao Mishkan e ao bezerro de ouro.
 
-* ao Mishkan;
-* ao bezerro de ouro.
+Portanto, não é o material que determina o resultado, é a configuração espiritual de seu uso.
 
-Portanto, não é o material que determina o resultado.
-
-É a configuração espiritual de seu uso.
-
-## Avodá
+### Avodá
 
 Dinheiro, beleza, conhecimento, influência e tecnologia não são automaticamente impuros.
 
-A pergunta cabalística é:
-
-> “Esta coisa revela sua Fonte ou cria a ilusão de independência?”
+A pergunta cabalística é: “Esta coisa revela sua Fonte ou cria a ilusão de independência?”
 
 ---
 
@@ -1071,19 +910,15 @@ A pergunta cabalística é:
 
 > **“Que não haja entre vós homem, mulher, família ou tribo cujo coração se desvie hoje de HaShem, nosso Deus, para servir aos deuses dessas nações; que não haja entre vós raiz que produza veneno e absinto.”**
 
-## Da pessoa à tribo
+### Da pessoa à tribo
 
-A progressão é deliberada:
-
-**homem → mulher → família → tribo**
+A progressão é deliberada: **homem → mulher → família → tribo**
 
 Uma corrupção interior pode expandir-se.
 
-O pecado não começa necessariamente como comportamento coletivo.
+O pecado não começa necessariamente como comportamento coletivo, pode começar como uma raiz invisível.
 
-Pode começar como uma raiz invisível.
-
-## Shoresh — raiz
+### Shoresh — raiz
 
 A imagem da **raiz** é especialmente cabalística.
 
@@ -1091,21 +926,14 @@ Aquilo que aparece abaixo depende do que ocorre acima ou no interior.
 
 Existe uma relação:
 
-**shoresh → anaf**
-
-**raiz → ramo**
+* **shoresh → anaf**
+* **raiz → ramo**
 
 Uma ação visível pode ser apenas o ramo.
 
-A raiz pode estar em:
+A raiz pode estar em pensamento, desejo, ressentimento, orgulho, concepção equivocada de Deus...
 
-* pensamento;
-* desejo;
-* ressentimento;
-* orgulho;
-* concepção equivocada de Deus.
-
-## Coração desviado
+### Coração desviado
 
 O problema começa no **lev**.
 
@@ -1113,33 +941,21 @@ Recordemos 29:3:
 
 > “coração para conhecer”.
 
-Agora aparece o inverso:
-
-> coração que se afasta.
+Agora aparece o inverso: coração que se afasta.
 
 Portanto, o capítulo apresenta duas possibilidades para o mesmo recipiente.
 
-O coração pode tornar-se:
+O coração pode tornar-se **veículo de Da'at** ou **raiz de separação**.
 
-* veículo de Da'at;
+### Veneno e absinto
 
-ou
-
-* raiz de separação.
-
-## Veneno e absinto
-
-Uma raiz pequena pode produzir fruto amargo.
-
-Este é um dos princípios mais importantes da avodá.
+Uma raiz pequena pode produzir fruto amargo. Este é um dos princípios mais importantes da avodá.
 
 Quanto antes uma distorção é tratada, menor sua manifestação.
 
-Na linguagem de *tikkun*:
+Na linguagem de *tikkun*, é mais fácil retificar a inclinação enquanto ela ainda está na raiz do que depois que adquiriu numerosos ramos.
 
-> é mais fácil retificar a inclinação enquanto ela ainda está na raiz do que depois que adquiriu numerosos ramos.
-
-## Avodá
+### Avodá
 
 Observe não apenas ações, mas tendências.
 
@@ -1155,43 +971,27 @@ Um pequeno ressentimento alimentado pode tornar-se visão de mundo.
 
 O versículo descreve uma das formas mais perigosas de autoengano espiritual.
 
-## “Ele se abençoará”
+### “Ele se abençoará”
 
-A pessoa ouve a advertência e responde:
-
-> “Isso não se aplica a mim.”
+A pessoa ouve a advertência e responde: “Isso não se aplica a mim.”
 
 É uma falsa apropriação de **Chesed**.
 
-Ela deseja:
+Ela deseja bênção, paz e prosperidade, mas rejeita limite, responsabilidade e Gevurah.
 
-* bênção;
-* paz;
-* prosperidade,
-
-mas rejeita:
-
-* limite;
-* responsabilidade;
-* Gevurah.
-
-## Chesed sem Gevurah
+### Chesed sem Gevurah
 
 Na estrutura das sefirot, Chesed não deve operar isoladamente.
 
-Chesed ilimitado pode perder a forma.
-
-Gevurah fornece delimitação.
-
-Tiferet harmoniza os dois.
+* Chesed ilimitado pode perder a forma.
+* Gevurah fornece delimitação.
+* Tiferet harmoniza os dois.
 
 A pessoa descrita no versículo deseja “shalom” sem atravessar o processo de verdade e correção.
 
-Isso não é paz.
+Isso não é paz, é anestesia.
 
-É anestesia.
-
-## “Obstinação do coração”
+### “Obstinação do coração”
 
 O coração constrói um sistema fechado.
 
@@ -1199,39 +999,29 @@ Em vez de receber Da'at, ele passa a utilizar inteligência para justificar aqui
 
 Essa inversão é extremamente sutil.
 
-O intelecto deixa de governar o impulso.
+O intelecto deixa de governar o impulso, torna-se seu advogado.
 
-Torna-se seu advogado.
-
-## “Acrescentar o saciado ao sedento”
+### “Acrescentar o saciado ao sedento”
 
 A expressão hebraica no final do versículo é difícil e recebeu diferentes explicações tradicionais.
 
 Não é prudente fingir que existe apenas uma interpretação literal incontestável.
 
-Em leitura contemplativa, porém, pode-se perceber uma dinâmica:
+Em leitura contemplativa, porém, pode-se perceber uma dinâmica: desejos já alimentados arrastam consigo desejos que ainda estavam latentes.
 
-> desejos já alimentados arrastam consigo desejos que ainda estavam latentes.
+A satisfação desordenada não necessariamente extingue o desejo, pode multiplicá-lo.
 
-A satisfação desordenada não necessariamente extingue o desejo.
-
-Pode multiplicá-lo.
-
-## Kelipah e fome
+### Kelipah e fome
 
 A santidade recebe para transmitir e revelar a Fonte.
 
-A *kelipah* recebe para si mesma e, por isso, nunca alcança plenitude real.
-
-Ela é estruturalmente faminta.
+A *kelipah* recebe para si mesma e, por isso, nunca alcança plenitude real, ela é estruturalmente faminta.
 
 Quanto mais recebe, mais precisa receber para sustentar a ilusão de independência.
 
-## Avodá
+### Avodá
 
-Uma das perguntas mais importantes da vida espiritual é:
-
-> “Estou buscando verdade ou apenas uma interpretação que me permita continuar fazendo o que já quero?”
+Uma das perguntas mais importantes da vida espiritual é: “Estou buscando verdade ou apenas uma interpretação que me permita continuar fazendo o que já quero?”
 
 ---
 
@@ -1239,7 +1029,7 @@ Uma das perguntas mais importantes da vida espiritual é:
 
 > **“HaShem não desejará perdoá-lo; então a ira de HaShem e Seu zelo fumegarão contra esse homem, e toda a maldição escrita neste livro repousará sobre ele, e HaShem apagará seu nome de debaixo dos céus.”**
 
-## Um versículo severo
+### Um versículo severo
 
 Não devemos suavizar artificialmente a Torah.
 
@@ -1247,7 +1037,7 @@ O pacto possui consequências.
 
 Mas também não devemos imaginar Deus como um humano tomado por impulso emocional.
 
-## Ira como Din
+### Ira como Din
 
 No vocabulário cabalístico, podemos entender a passagem como intensificação de **Din**.
 
@@ -1255,20 +1045,15 @@ Quando o recipiente se alinha com a ordem do fluxo, a luz é experimentada como 
 
 Quando ele se fecha radicalmente, a mesma ordem divina pode ser experimentada como julgamento.
 
-### O sol e a cera
+#### O sol e a cera
 
 Uma analogia tradicional:
 
-A mesma luz do sol:
-
-* amolece a cera;
-* endurece certas substâncias.
-
-A diferença encontra-se no recipiente.
+A mesma luz do sol **amolece a cera** e **endurece certas substâncias**. A diferença encontra-se no recipiente.
 
 Analogamente, a resposta divina pode revelar o estado espiritual do receptor.
 
-## “Apagar o nome”
+### “Apagar o nome”
 
 O nome representa manifestação e identidade.
 
@@ -1280,13 +1065,15 @@ Não se deve inferir daí que a raiz ontológica de uma alma simplesmente deixa 
 
 O texto fala de corte, julgamento e perda de lugar dentro do pacto manifesto.
 
-## Avodá
+### Avodá
 
 Teshuvá exige abandonar a fantasia de que consequências podem ser eternamente evitadas.
 
 Perdão não significa que realidade moral não exista.
 
----
+Continua...
+
+<!-- ---
 
 # Devarim 29:20
 
