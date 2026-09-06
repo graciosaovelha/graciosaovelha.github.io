@@ -2,12 +2,44 @@
   class="weekly-parashah not-content"
   id="weekly-parashah"
 >
-  <div class="weekly-parashah__label">
-    Parashat da semana
+  <!--
+    Esta parte só aparece quando existir
+    alguma data judaica especial na semana.
+  -->
+  <div
+    class="weekly-parashah__special"
+    id="weekly-special"
+    hidden
+  >
+    <div class="weekly-parashah__label">
+      Calendário judaico desta semana
+    </div>
+
+    <div
+      class="weekly-parashah__special-content"
+      id="weekly-special-content"
+    ></div>
   </div>
 
-  <div class="weekly-parashah__content">
-    Carregando…
+  <!--
+    Aqui aparecerá a parashat da semana
+    ou, quando não houver uma leitura regular,
+    a próxima parashat.
+  -->
+  <div class="weekly-parashah__regular">
+    <div
+      class="weekly-parashah__label"
+      id="parashah-label"
+    >
+      Parashat da semana
+    </div>
+
+    <div
+      class="weekly-parashah__content"
+      id="parashah-content"
+    >
+      Carregando…
+    </div>
   </div>
 </section>
 
@@ -15,11 +47,32 @@
   const container =
     document.querySelector('#weekly-parashah');
 
-  const content =
+  const special =
     container?.querySelector(
-      '.weekly-parashah__content'
+      '#weekly-special'
     );
 
+  const specialContent =
+    container?.querySelector(
+      '#weekly-special-content'
+    );
+
+  const label =
+    container?.querySelector(
+      '#parashah-label'
+    );
+
+  const content =
+    container?.querySelector(
+      '#parashah-content'
+    );
+
+
+  /*
+   * Converte o nome inglês do livro
+   * retornado pelo Hebcal para a pasta
+   * usada no Graciosa Ovelha.
+   */
   const bookMap = {
     Genesis: 'bereshit',
     Exodus: 'shemot',
@@ -28,12 +81,145 @@
     Deuteronomy: 'devarim',
   };
 
-  function formatDate(date) {
-    return date
-      .toISOString()
-      .slice(0, 10);
+
+  /*
+   * Alguns nomes do Hebcal serão
+   * traduzidos para português.
+   *
+   * Se futuramente aparecer algum evento
+   * que não esteja aqui, ele continuará
+   * funcionando com o nome original.
+   */
+  function translateHoliday(title) {
+    return title
+      .replace(
+        /^Erev Rosh Hashana/i,
+        'Véspera de Rosh Hashaná'
+      )
+      .replace(
+        /^Rosh Hashana/i,
+        'Rosh Hashaná'
+      )
+      .replace(
+        /^Erev Yom Kippur/i,
+        'Véspera de Yom Kipur'
+      )
+      .replace(
+        /^Yom Kippur/i,
+        'Yom Kipur'
+      )
+      .replace(
+        /^Erev Sukkot/i,
+        'Véspera de Sucot'
+      )
+      .replace(
+        /^Sukkot/i,
+        'Sucot'
+      )
+      .replace(
+        /^Chol ha-Moed Sukkot/i,
+        'Chol HaMoed de Sucot'
+      )
+      .replace(
+        /^Shmini Atzeret/i,
+        'Shemini Atzeret'
+      )
+      .replace(
+        /^Simchat Torah/i,
+        'Simchat Torá'
+      )
+      .replace(
+        /^Erev Pesach/i,
+        'Véspera de Pessach'
+      )
+      .replace(
+        /^Pesach/i,
+        'Pessach'
+      )
+      .replace(
+        /^Shavuot/i,
+        'Shavuot'
+      )
+      .replace(
+        /^Purim/i,
+        'Purim'
+      )
+      .replace(
+        /^Chanukah/i,
+        'Chanucá'
+      );
   }
 
+
+  /*
+   * Formata uma data usando o horário
+   * local do navegador.
+   *
+   * Evitamos toISOString() porque ele
+   * trabalha em UTC e pode deslocar
+   * a data no Brasil.
+   */
+  function formatDate(date) {
+    const year =
+      date.getFullYear();
+
+    const month =
+      String(
+        date.getMonth() + 1
+      ).padStart(2, '0');
+
+    const day =
+      String(
+        date.getDate()
+      ).padStart(2, '0');
+
+    return `${year}-${month}-${day}`;
+  }
+
+
+  /*
+   * Converte a data retornada pelo Hebcal
+   * para uma forma amigável.
+   *
+   * Exemplo:
+   * sábado, 12 de setembro
+   */
+  function formatEventDate(value) {
+    if (!value) {
+      return '';
+    }
+
+    const dateOnly =
+      value.slice(0, 10);
+
+    const date =
+      new Date(
+        `${dateOnly}T12:00:00`
+      );
+
+    return new Intl.DateTimeFormat(
+      'pt-BR',
+      {
+        weekday: 'long',
+        day: 'numeric',
+        month: 'long',
+      }
+    ).format(date);
+  }
+
+
+  /*
+   * Converte o nome da parashat
+   * para o nome usado no endereço.
+   *
+   * Nitzavim-Vayeilech
+   *       ↓
+   * nitzavim-vayeilech
+   *
+   * Ha'azinu
+   *       ↓
+   * haazinu
+   */
   function slugify(value) {
     return value
       .normalize('NFD')
@@ -43,23 +229,369 @@
       )
       .replace(/[’']/g, '')
       .toLowerCase()
-      .replace(/[^a-z0-9]+/g, '-')
+      .replace(
+        /[^a-z0-9]+/g,
+        '-'
+      )
       .replace(/^-|-$/g, '');
   }
 
-  async function loadParashah() {
-    if (!content) return;
+
+  /*
+   * Consulta todos os eventos relevantes
+   * de um determinado intervalo.
+   *
+   * maj = feriados maiores
+   * min = feriados menores
+   * mf  = jejuns menores
+   * ss  = Shabatot especiais
+   * s   = parashat semanal
+   *
+   * i=off usa o ciclo da diáspora.
+   */
+  async function getCalendar(
+    start,
+    end
+  ) {
+    const url =
+      'https://www.hebcal.com/hebcal' +
+      '?v=1' +
+      '&cfg=json' +
+      `&start=${formatDate(start)}` +
+      `&end=${formatDate(end)}` +
+      '&maj=on' +
+      '&min=on' +
+      '&mf=on' +
+      '&ss=on' +
+      '&s=on' +
+      '&i=off' +
+      '&lg=s';
+
+    const response =
+      await fetch(url);
+
+    if (!response.ok) {
+      throw new Error(
+        'Não foi possível consultar o Hebcal.'
+      );
+    }
+
+    return await response.json();
+  }
+
+
+  /*
+   * Consulta apenas futuras parashot.
+   *
+   * Isso é usado quando o Shabat atual
+   * possui leitura especial de um feriado
+   * e, portanto, não existe uma
+   * Parashat HaShavua regular.
+   */
+  async function getUpcomingParashot(
+    start,
+    end
+  ) {
+    const url =
+      'https://www.hebcal.com/hebcal' +
+      '?v=1' +
+      '&cfg=json' +
+      `&start=${formatDate(start)}` +
+      `&end=${formatDate(end)}` +
+      '&s=on' +
+      '&i=off' +
+      '&lg=s';
+
+    const response =
+      await fetch(url);
+
+    if (!response.ok) {
+      throw new Error(
+        'Não foi possível consultar a próxima parashat.'
+      );
+    }
+
+    const data =
+      await response.json();
+
+    return data.items.filter(
+      (item) =>
+        item.category === 'parashat'
+    );
+  }
+
+
+  /*
+   * Decide quais eventos especiais
+   * merecem aparecer na Home.
+   */
+  function getSpecialEvents(items) {
+    return items.filter(
+      (item) => {
+        if (
+          item.category !== 'holiday'
+        ) {
+          return false;
+        }
+
+        return [
+          'major',
+          'minor',
+          'fast',
+          'shabbat',
+        ].includes(item.subcat);
+      }
+    );
+  }
+
+
+  /*
+   * Exibe os eventos judaicos especiais
+   * encontrados naquela semana.
+   */
+  function renderSpecialEvents(events) {
+    if (
+      !special ||
+      !specialContent
+    ) {
+      return;
+    }
+
+    if (events.length === 0) {
+      special.hidden = true;
+      return;
+    }
+
+    special.hidden = false;
+    specialContent.textContent = '';
+
+    const list =
+      document.createElement('div');
+
+    list.className =
+      'weekly-parashah__event-list';
+
+    for (const event of events) {
+      const item =
+        document.createElement('div');
+
+      item.className =
+        'weekly-parashah__event';
+
+      const title =
+        document.createElement('strong');
+
+      title.textContent =
+        translateHoliday(
+          event.title
+        );
+
+      item.append(title);
+
+      const formattedDate =
+        formatEventDate(
+          event.date
+        );
+
+      if (formattedDate) {
+        const date =
+          document.createElement('span');
+
+        date.className =
+          'weekly-parashah__event-date';
+
+        date.textContent =
+          formattedDate;
+
+        item.append(date);
+      }
+
+      list.append(item);
+    }
+
+    specialContent.append(list);
+  }
+
+
+  /*
+   * Verifica se já existe no Graciosa
+   * Ovelha uma página publicada para
+   * determinada parashat.
+   */
+  async function getParashahPage(
+    event
+  ) {
+    const name =
+      event.title.replace(
+        /^Parashat\s+/i,
+        ''
+      );
+
+    const reading =
+      event.leyning?.torah ?? '';
+
+    const englishBook =
+      Object.keys(
+        bookMap
+      ).find(
+        (book) =>
+          reading.startsWith(book)
+      );
+
+    if (!englishBook) {
+      return {
+        name,
+        href: null,
+        published: false,
+      };
+    }
+
+    const book =
+      bookMap[englishBook];
+
+    const slug =
+      slugify(name);
+
+    const href =
+      `/parashot/${book}/${slug}/`;
+
+    let published = false;
 
     try {
-      const today = new Date();
+      const check =
+        await fetch(
+          href,
+          {
+            method: 'HEAD',
+          }
+        );
 
+      published = check.ok;
+    }
+    catch {
+      published = false;
+    }
+
+    return {
+      name,
+      href,
+      published,
+    };
+  }
+
+
+  /*
+   * Exibe uma parashat.
+   *
+   * Se ela estiver publicada:
+   *
+   * Parashat Ha'azinu · Ler estudo →
+   *
+   * Se ainda estiver draft:
+   *
+   * Parashat Ha'azinu · em breve
+   */
+  async function renderParashah(
+    event,
+    labelText
+  ) {
+    if (
+      !content ||
+      !label
+    ) {
+      return;
+    }
+
+    label.textContent =
+      labelText;
+
+    const page =
+      await getParashahPage(
+        event
+      );
+
+    content.textContent = '';
+
+    const title =
+      document.createElement(
+        'strong'
+      );
+
+    title.textContent =
+      `Parashat ${page.name}`;
+
+    content.append(title);
+
+    content.append(
+      document.createTextNode(
+        ' · '
+      )
+    );
+
+    if (
+      page.published &&
+      page.href
+    ) {
+      const anchor =
+        document.createElement('a');
+
+      anchor.href =
+        page.href;
+
+      anchor.textContent =
+        'Ler estudo →';
+
+      content.append(anchor);
+    }
+    else {
+      const note =
+        document.createElement(
+          'span'
+        );
+
+      note.className =
+        'weekly-parashah__soon';
+
+      note.textContent =
+        'em breve';
+
+      content.append(note);
+    }
+  }
+
+
+  /*
+   * Função principal.
+   */
+  async function loadCalendar() {
+    if (!content) {
+      return;
+    }
+
+    try {
+      const today =
+        new Date();
+
+
+      /*
+       * Descobre domingo e sábado
+       * da semana atual.
+       */
       const sunday =
         new Date(today);
+
+      sunday.setHours(
+        12,
+        0,
+        0,
+        0
+      );
 
       sunday.setDate(
         today.getDate() -
         today.getDay()
       );
+
 
       const saturday =
         new Date(sunday);
@@ -68,140 +600,120 @@
         sunday.getDate() + 6
       );
 
-      const url =
-        'https://www.hebcal.com/hebcal' +
-        '?v=1' +
-        '&cfg=json' +
-        `&start=${formatDate(sunday)}` +
-        `&end=${formatDate(saturday)}` +
-        '&s=on' +
-        '&i=off' +
-        '&lg=s';
 
-      const response =
-        await fetch(url);
-
-      if (!response.ok) {
-        throw new Error();
-      }
-
+      /*
+       * Consulta toda a semana.
+       */
       const data =
-        await response.json();
+        await getCalendar(
+          sunday,
+          saturday
+        );
 
-      const event =
+
+      /*
+       * Primeiro mostramos os eventos
+       * especiais da semana.
+       */
+      const specialEvents =
+        getSpecialEvents(
+          data.items
+        );
+
+      renderSpecialEvents(
+        specialEvents
+      );
+
+
+      /*
+       * Agora procuramos uma parashat
+       * regular nesta semana.
+       */
+      const currentParashah =
         data.items.find(
           (item) =>
-            item.category === 'parashat'
+            item.category ===
+            'parashat'
         );
 
-      if (!event) {
-        throw new Error();
-      }
 
-      const name =
-        event.title.replace(
-          /^Parashat\s+/i,
-          ''
+      /*
+       * Semana normal:
+       * existe uma parashat regular.
+       */
+      if (currentParashah) {
+        await renderParashah(
+          currentParashah,
+          'Parashat da semana'
         );
 
-      const reading =
-        event.leyning?.torah ?? '';
+        return;
+      }
 
-      const englishBook =
-        Object.keys(bookMap).find(
-          (book) =>
-            reading.startsWith(book)
+
+      /*
+       * Se chegamos aqui, existe uma
+       * semana sem parashat regular.
+       *
+       * Isso pode acontecer quando
+       * um Yom Tov cai no Shabat.
+       *
+       * Procuramos então a próxima
+       * parashat nos próximos 28 dias.
+       */
+      const futureStart =
+        new Date(saturday);
+
+      futureStart.setDate(
+        saturday.getDate() + 1
+      );
+
+
+      const futureEnd =
+        new Date(futureStart);
+
+      futureEnd.setDate(
+        futureStart.getDate() + 28
+      );
+
+
+      const upcoming =
+        await getUpcomingParashot(
+          futureStart,
+          futureEnd
         );
 
-      if (!englishBook) {
-        throw new Error();
-      }
 
-      const book =
-        bookMap[englishBook];
-
-      const slug =
-        slugify(name);
-
-      const possibleSlugs = [slug];
-
-      const publishedLinks = [];
-
-      for (
-        const parashahSlug
-        of possibleSlugs
-      ) {
-        const href =
-          `/parashot/${book}/${parashahSlug}/`;
-
-        const check =
-          await fetch(
-            href,
-            {
-              method: 'HEAD',
-            }
-          );
-
-        if (check.ok) {
-          publishedLinks.push({
-            href,
-            slug: parashahSlug,
-          });
-        }
-      }
-
-      content.textContent = '';
-
-      const title =
-        document.createElement('strong');
-
-      title.textContent =
-        `Parashat ${name}`;
-
-      content.append(title);
-
-      if (
-        publishedLinks.length > 0
-      ) {
-        const separator =
-          document.createTextNode(' · ');
-
-        content.append(separator);
-
-        publishedLinks.forEach(
-          (link, index) => {
-            if (index > 0) {
-              content.append(
-                document.createTextNode(
-                  ' + '
-                )
-              );
-            }
-
-            const anchor =
-              document.createElement('a');
-
-            anchor.href =
-              link.href;
-
-            anchor.textContent =
-              'Ler estudo →';
-
-            content.append(anchor);
-          }
+      if (upcoming.length > 0) {
+        await renderParashah(
+          upcoming[0],
+          'Próxima parashat'
         );
-      }
-      else {
-        const note =
-          document.createElement('span');
 
-        note.textContent =
-          ' · estudo ainda não publicado';
-
-        content.append(note);
+        return;
       }
+
+
+      /*
+       * Só chegará aqui se realmente
+       * não conseguirmos encontrar
+       * nenhuma parashat.
+       */
+      throw new Error(
+        'Nenhuma parashat encontrada.'
+      );
     }
-    catch {
+    catch (error) {
+      console.error(
+        'Erro ao carregar o calendário:',
+        error
+      );
+
+      if (label) {
+        label.textContent =
+          'Parashot';
+      }
+
       content.innerHTML =
         '<a href="/parashot/">' +
         'Consultar parashot →' +
@@ -209,7 +721,8 @@
     }
   }
 
-  loadParashah();
+
+  loadCalendar();
 </script>
 
 <style>
@@ -217,7 +730,8 @@
     margin: 2rem 0;
     padding: 1.25rem 1.4rem;
 
-    border: 1px solid
+    border:
+      1px solid
       var(--sl-color-gray-5);
 
     border-radius: 0.65rem;
@@ -225,27 +739,71 @@
     background:
       color-mix(
         in srgb,
-        var(--sl-color-accent-low) 35%,
+        var(--sl-color-accent-low)
+        35%,
         transparent
       );
   }
 
+
+  .weekly-parashah__special {
+    padding-bottom: 1.15rem;
+    margin-bottom: 1.15rem;
+
+    border-bottom:
+      1px solid
+      var(--sl-color-gray-5);
+  }
+
+
   .weekly-parashah__label {
-    margin-bottom: 0.35rem;
+    margin-bottom: 0.55rem;
 
     color:
       var(--sl-color-accent-high);
 
     font-size: 0.8rem;
+    font-weight: 700;
+
     letter-spacing: 0.09em;
+
     text-transform: uppercase;
   }
+
 
   .weekly-parashah__content {
     font-size: 1.2rem;
   }
 
-  .weekly-parashah__content a {
-    margin-left: 0.25rem;
-  }
+
+:global(.weekly-parashah__content a) {
+  margin-left: 0.15rem;
+}
+
+
+:global(.weekly-parashah__soon) {
+  opacity: 0.8;
+  font-style: italic;
+}
+
+:global(.weekly-parashah__event-list) {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+:global(.weekly-parashah__event) {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: 0.75rem;
+  row-gap: 0.2rem;
+
+  font-size: 1.1rem;
+}
+
+:global(.weekly-parashah__event-date) {
+  opacity: 0.75;
+  font-size: 0.9rem;
+}
 </style>
