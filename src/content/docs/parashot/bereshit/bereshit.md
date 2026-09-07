@@ -1,5 +1,5 @@
 ---
-title: "Bereshit"
+title: "Parashat Bereshit"
 description: "Estudo da Parashat Bereshit à luz da Cabalá autêntica."
 draft: true
 category: parashat

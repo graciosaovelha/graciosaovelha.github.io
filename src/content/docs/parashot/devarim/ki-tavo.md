@@ -1,5 +1,5 @@
 ---
-title: "Ki Tavo"
+title: "Parashat Ki Tavo"
 description: "Estudo da Parashat Ki Tavo à luz da Cabalá autêntica."
 draft: true
 category: parashat
