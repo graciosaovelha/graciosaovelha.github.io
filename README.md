@@ -27,8 +27,10 @@ Versão 1 da estrutura do site **Graciosa Ovelha**, construída com Astro + Star
 
 ```bash
 npm install
-npm run dev
+npm run dev 
 ```
+
+> http://localhost:4321/
 
 O servidor local indicará o endereço de acesso, normalmente `http://localhost:4321/graciosaovelha/`.
 

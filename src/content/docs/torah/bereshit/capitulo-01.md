@@ -1,5 +1,5 @@
 ---
-title: "Capítulo 1"
+title: "Bereshit — Capítulo 1"
 description: "Uma leitura cabalística de Bereshit — Gênesis 1."
 draft: true
 category: torah

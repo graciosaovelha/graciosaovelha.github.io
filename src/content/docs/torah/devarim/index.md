@@ -11,7 +11,7 @@ No sistema da **Cabala Luriana**, Devarim representa o estágio final da jornada
 
 ---
 
-# 🗣️ **1. “Eleh haDevarim” – As Palavras como Vasos de Luz**
+# **1. “Eleh haDevarim” – As Palavras como Vasos de Luz**
 
 > **"Estas são as palavras que Moisés falou a todo Israel..." (Deuteronômio 1:1)**
 
@@ -22,7 +22,7 @@ Moisés, representando a Sefirá de **Daat (Conhecimento)**, agora transmite sab
 
 ---
 
-# 🧠 **2. O Discurso de Moisés – Daat na Plenitude**
+# **2. O Discurso de Moisés – Daat na Plenitude**
 
 Neste livro, Moisés não atua mais como canal passivo da palavra divina, mas como **profeta que já se unificou com a Vontade Superior**.
 O Arizal ensina que a alma de Moisés é da **raiz de Daat Elyon** — a ponte entre **Chochmá (Sabedoria)** e **Biná (Entendimento)**.
@@ -31,7 +31,7 @@ Seu discurso em Devarim é a **descida final do Daat para Malchut**, fixando as 
 
 ---
 
-# 🧳 **3. A Retrospectiva – Elevar as Centelhas do Passado**
+# **3. A Retrospectiva – Elevar as Centelhas do Passado**
 
 Ao revisar os eventos da peregrinação, Moisés **não está apenas recontando a história — está redimindo-a**.
 Cada episódio relembrado (espias, rebeliões, guerras) é, na linguagem do Arizal, uma forma de **"Hakarat haRa" – reconhecimento do mal passado** — que é o primeiro passo para seu Tikún.
@@ -40,7 +40,7 @@ Assim como o Arizal ensina que **nomes divinos são compostos de letras que desc
 
 ---
 
-# 🏞️ **4. Eretz Israel – Malchut Retificada**
+# **4. Eretz Israel – Malchut Retificada**
 
 Toda a tensão espiritual do livro gira em torno da **entrada na Terra Prometida**.
 Mas, para a Cabalá, **Eretz Israel** não é apenas geografia — é **o mundo retificado de Malchut**, o lugar onde **a luz pode finalmente habitar nos recipientes sem ruptura**.
@@ -49,7 +49,7 @@ Moisés não entra na terra porque ele pertence ao nível de **Ohr Yashar (Luz D
 
 ---
 
-# ⚖️ **5. A Lei como Expressão do Tikún Final**
+# **5. A Lei como Expressão do Tikún Final**
 
 > **"Veja, ponho diante de vós hoje a vida e o bem, a morte e o mal..." (Deuteronômio 30:15)**
 
@@ -60,7 +60,7 @@ Deuteronômio apresenta as **leis reordenadas e ressignificadas**, não como imp
 
 ---
 
-# 🌟 **6. Shemá Yisrael – A Unificação dos Nomes**
+# **6. Shemá Yisrael – A Unificação dos Nomes**
 
 > **"Shemá Israel, Hashem Elokeinu, Hashem Echad" (Deuteronômio 6:4)**
 
@@ -74,7 +74,7 @@ O Zohar diz que quem recita o Shemá com verdadeira intenção **unifica os mund
 
 ---
 
-# ⚔️ **7. As Bênçãos e Maldições – Os Códigos da Recompensa e Correção**
+# **7. As Bênçãos e Maldições – Os Códigos da Recompensa e Correção**
 
 As seções de bênçãos (Devarim 28) e maldições (Tochácha) são lidas na Cabalá como **descrições da circulação de luz pelas Sefirot**.
 Quando há alinhamento, a luz flui de **Kéter até Malchut** — gerando bênçãos.
@@ -84,7 +84,7 @@ Essas porções são também lidas no Zohar como **expurgos espirituais necessá
 
 ---
 
-# 👑 **8. O Cântico de Moisés e sua Morte – Retorno à Origem**
+# **8. O Cântico de Moisés e sua Morte – Retorno à Origem**
 
 O **Cântico de Haazinu (Devarim 32)** é, segundo o Zohar, uma **descida direta da sabedoria superior na forma de poesia sagrada** — cada verso codifica estruturas do mundo de Atzilut.
 
@@ -96,7 +96,7 @@ Moisés morre **no monte Nevo**, que na Cabalá é interpretado como:
 
 ---
 
-# 🧬 **Conclusão Cabalística de Devarim: A Voz da Eternidade**
+# **Conclusão Cabalística de Devarim: A Voz da Eternidade**
 
 **Devarim** é o livro da **transição final**.
 É o momento em que o líder silencia, e o povo deve andar com suas próprias pernas.
