@@ -10,11 +10,7 @@ sidebar:
   order: 85
 ---
 
-<a href="https://drive.google.com/file/d/1uXrEP-7VljQtBanHvWOjnUbOZMUThJAg/view?usp=sharing" target="_blank" rel="noopener noreferrer">🎧 Ouvir áudio</a>
-
-&nbsp;&nbsp;|&nbsp;&nbsp;
-
-<a href="https://drive.google.com/uc?export=download&id=1uXrEP-7VljQtBanHvWOjnUbOZMUThJAg" target="_blank" rel="noopener noreferrer">⬇️ Baixar áudio</a>
+<a href="https://drive.google.com/file/d/1uXrEP-7VljQtBanHvWOjnUbOZMUThJAg/view?usp=sharing" target="_blank" rel="noopener noreferrer">🎧 Ouvir áudio</a> | <a href="https://drive.google.com/uc?export=download&id=1uXrEP-7VljQtBanHvWOjnUbOZMUThJAg" target="_blank" rel="noopener noreferrer">⬇️ Baixar áudio</a>
 
 ---
 

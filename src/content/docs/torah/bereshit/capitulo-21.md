@@ -909,14 +909,11 @@ A força de tensão, distância e projeção passa a caracterizar Yishmael.
 
 Numa leitura simbólica, temos uma força expansiva aprendendo a operar através de tensão e direcionamento.
 
-Continua...
-
-<!-- ---
+---
 
 # BERESHIT 21:21
 
-## “וישב במדבר פארן ותקח לו אמו אשה מארץ מצרים”
-
+> “וישב במדבר פארן ותקח לו אמו אשה מארץ מצרים”  
 > “Habitou no deserto de Paran, e sua mãe tomou para ele uma mulher da terra do Egito.”
 
 ### Retorno ao Egito
@@ -939,25 +936,18 @@ Yishmael, fora da linhagem de Yitzchak, desenvolve outra trajetória.
 
 # BERESHIT 21:22
 
-## “אלהים עמך בכל אשר אתה עשה”
-
+> “אלהים עמך בכל אשר אתה עשה”  
 > “Deus está contigo em tudo o que fazes.”
 
-Avimelech e Pichol observam Avraham e chegam a uma conclusão:
-
-> existe uma Presença acompanhando esse homem.
+Avimelech e Pichol observam Avraham e chegam a uma conclusão, existe uma Presença acompanhando esse homem.
 
 ### O testemunho das nações
 
 A espiritualidade de Avraham torna-se visível até para aqueles que estão fora de sua casa.
 
-Isso revela um princípio:
+Isso revela um princípio: Santidade verdadeira eventualmente produz consequências perceptíveis.
 
-> Santidade verdadeira eventualmente produz consequências perceptíveis.
-
-Não precisa anunciar-se continuamente.
-
-Ela se torna reconhecível através de frutos.
+Não precisa anunciar-se continuamente, ela se torna reconhecível através de frutos.
 
 ### Chessed como testemunho
 
@@ -969,19 +959,14 @@ Agora essa conduta gera reconhecimento externo.
 
 # BERESHIT 21:23
 
-## “ועתה השבעה לי באלהים הנה”
-
+> “ועתה השבעה לי באלהים הנה”  
 > “Agora jura-me aqui por Deus...”
 
 ### Juramento
 
 Avimelech procura segurança.
 
-Chessed precisa tornar-se compromisso.
-
-Boa vontade não é suficiente.
-
-É necessário pacto.
+Chessed precisa tornar-se compromisso, boa vontade não é suficiente, é necessário pacto.
 
 ### Shevuah e sete
 
@@ -993,13 +978,13 @@ Isso se tornará explicitamente importante no nome Be'er Sheva.
 
 As sete sefirot emocionais inferiores são:
 
-Chessed
-Gevurah
-Tiferet
-Netzach
-Hod
-Yesod
-Malchut.
+1. Chessed
+2. Gevurah
+3. Tiferet
+4. Netzach
+5. Hod
+6. Yesod
+7. Malchut.
 
 Assim, “sete” pode representar uma estrutura completa do mundo manifestado.
 
@@ -1009,15 +994,12 @@ Um juramento, nesse sentido simbólico, é algo que procura comprometer a totali
 
 # BERESHIT 21:24
 
-## “ויאמר אברהם אנכי אשבע”
-
+> “ויאמר אברהם אנכי אשבע”  
 > “E Avraham disse: eu jurarei.”
 
 ### Chessed aceita estrutura
 
-Avraham não responde:
-
-> “Confie simplesmente em mim.”
+Avraham não responde: “Confie simplesmente em mim.”
 
 Ele aceita formalizar.
 
@@ -1039,8 +1021,7 @@ Cabalisticamente, isso possui relação com **Malchut**, dimensão onde a expres
 
 # BERESHIT 21:25
 
-## “והוכח אברהם את אבימלך על אדות באר המים”
-
+> “והוכח אברהם את אבימלך על אדות באר המים”  
 > “Avraham repreendeu Avimelech por causa do poço de água que os servos de Avimelech haviam tomado.”
 
 ### Avraham sabe repreender
@@ -1053,13 +1034,9 @@ Bondade não é passividade.
 
 ### O poço é o ponto de conflito
 
-Não brigam por um objeto aleatório.
+Não brigam por um objeto aleatório, brigam por água.
 
-Brigam por água.
-
-No nível espiritual, a disputa é:
-
-> Quem possui acesso ao canal de vitalidade?
+No nível espiritual, a disputa é: Quem possui acesso ao canal de vitalidade?
 
 O poço é infraestrutura de vida.
 
@@ -1075,8 +1052,7 @@ Quando algo essencial ao tikkun é usurpado, estabelecer fronteira pode ser uma 
 
 # BERESHIT 21:26
 
-## “לא ידעתי מי עשה את הדבר הזה”
-
+> “לא ידעתי מי עשה את הדבר הזה”  
 > “Não sei quem fez isso.”
 
 Avimelech afirma desconhecer o ocorrido.
@@ -1101,8 +1077,7 @@ Não se realiza Birur daquilo que nos recusamos a reconhecer.
 
 # BERESHIT 21:27
 
-## “ויקח אברהם צאן ובקר ויתן לאבימלך ויכרתו שניהם ברית”
-
+> “ויקח אברהם צאן ובקר ויתן לאבימלך ויכרתו שניהם ברית”  
 > “Avraham tomou ovelhas e gado, deu-os a Avimelech, e ambos fizeram uma aliança.”
 
 ### Brit — ברית
@@ -1115,28 +1090,19 @@ O pacto transforma potencial conflito em ordem.
 
 ### Dar para estabelecer limite
 
-Avraham dá animais.
-
-É Chessed operando dentro de Gevurah.
+Avraham dá animais, é Chessed operando dentro de Gevurah.
 
 Ele oferece algo para estabelecer uma fronteira clara.
 
 Essa é uma forma elevada de integração.
 
-Não:
-
-> Chessed ou Gevurah.
-
-Mas:
-
-> **Chessed dentro de Gevurah.**
+Não **Chessed** ou **Gevurah**, mas **Chessed dentro de Gevurah.**
 
 ---
 
 # BERESHIT 21:28
 
-## “ויצב אברהם את שבע כבשת הצאן לבדנה”
-
+> “ויצב אברהם את שבע כבשת הצאן לבדנה”  
 > “Avraham colocou sete cordeiras do rebanho separadamente.”
 
 ### Sete
@@ -1157,16 +1123,13 @@ Em leitura simbólica, as sete cordeiras podem evocar as sete sefirot emocionais
 
 A realidade inferior precisa ser ordenada.
 
-O pacto não permanece no invisível.
-
-Ele é marcado no mundo das sete dimensões da vida criada.
+O pacto não permanece no invisível, ele é marcado no mundo das sete dimensões da vida criada.
 
 ---
 
 # BERESHIT 21:29
 
-## “מה הנה שבע כבשת האלה אשר הצבת לבדנה”
-
+> “מה הנה שבע כבשת האלה אשר הצבת לבדנה”  
 > “Que significam estas sete cordeiras que colocaste separadamente?”
 
 ### O símbolo exige interpretação
@@ -1181,16 +1144,13 @@ Avraham então explicará.
 
 O ritual precisa de **kavanah — intenção**.
 
-O gesto externo e sua consciência interna precisam ser conectados.
-
-Caso contrário, o ato corre o risco de transformar-se em mera forma.
+O gesto externo e sua consciência interna precisam ser conectados. Caso contrário, o ato corre o risco de transformar-se em mera forma.
 
 ---
 
 # BERESHIT 21:30
 
-## “את שבע כבשת תקח מידי בעבור תהיה לי לעדה כי חפרתי את הבאר הזאת”
-
+> “את שבע כבשת תקח מידי בעבור תהיה לי לעדה כי חפרתי את הבאר הזאת”  
 > “Estas sete cordeiras receberás de minha mão para que sejam testemunho de que eu cavei este poço.”
 
 ### Testemunho
@@ -1201,79 +1161,49 @@ O invisível recebe uma marca visível.
 
 ### “Eu cavei”
 
-Avraham não afirma ter criado a água.
-
-Ele afirma:
+Avraham não afirma ter criado a água, ele afirma:
 
 > **“Eu cavei o poço.”**
 
 Esse detalhe contém uma verdadeira filosofia cabalística.
 
-O homem não cria o shefa divino.
-
-Ele cava.
-
-Ele remove terra.
-
-Remove obstrução.
-
-Forma o recipiente.
-
-Então a água aparece.
+O homem não cria o shefa divino, ele cava, ele remove terra, remove obstrução, forma o recipiente, e então a água aparece.
 
 ### Avodah
 
 Esse é o papel do serviço espiritual:
 
-> Não fabricar Deus.
+* Não fabricar Deus.
+* Não fabricar a luz.
+* Retirar aquilo que impede sua revelação.
 
-> Não fabricar a luz.
-
-> Retirar aquilo que impede sua revelação.
-
-A pessoa cava o poço.
-
-A fonte pertence ao Criador.
+A pessoa cava o poço, a fonte pertence ao Criador.
 
 ---
 
 # BERESHIT 21:31
 
-## “על כן קרא למקום ההוא באר שבע כי שם נשבעו שניהם”
-
+> “על כן קרא למקום ההוא באר שבע כי שם נשבעו שניהם”  
 > “Por isso chamou aquele lugar Be'er Sheva, pois ali ambos juraram.”
 
 ### באר שבע — Be'er Sheva
 
-O nome comporta simultaneamente as ideias de:
-
-**poço**
-
-e
-
-**sete/juramento.**
+O nome comporta simultaneamente as ideias de **poço** e **sete/juramento.**
 
 Isso é extremamente significativo.
 
 ### Água + limite
 
-O poço representa fluxo.
+O poço representa fluxo, o juramento representa compromisso.
 
-O juramento representa compromisso.
-
-Sete representa estrutura.
-
-Logo, Be'er Sheva representa:
-
-> **fluxo protegido por estrutura.**
+Sete representa estrutura, logo, Be'er Sheva representa **fluxo protegido por estrutura.**
 
 Esse é o tikkun de todo o capítulo.
 
 ### Avraham e Yitzchak
 
-Avraham = água/Chessed.
-
-Yitzchak = limite/Gevurah.
+* Avraham = água/Chessed.
+* Yitzchak = limite/Gevurah.
 
 Be'er Sheva contém ambos.
 
@@ -1291,31 +1221,14 @@ Assim Be'er Sheva torna-se imagem de uma Malchut adequadamente constituída, cap
 
 # BERESHIT 21:32
 
-## “ויכרתו ברית בבאר שבע”
-
+> “ויכרתו ברית בבאר שבע”  
 > “Fizeram uma aliança em Be'er Sheva.”
 
 ### O conflito torna-se pacto
 
-Primeiro:
-
-disputa.
-
-Depois:
-
-confrontação.
-
-Depois:
-
-esclarecimento.
-
-Depois:
-
-testemunho.
-
-Finalmente:
-
-pacto.
+* Primeiro: disputa.
+* Depois: confrontação -> esclarecimento -> testemunho.
+* Finalmente: pacto.
 
 Esse é um modelo completo de tikkun.
 
@@ -1327,11 +1240,11 @@ A aliança estabelece uma relação correta entre diferentes.
 
 Isto é importante.
 
-Unidade não significa ausência de fronteira.
+Unidade não significa ausência de fronteira, unidade verdadeira é relação correta entre identidades diferenciadas.
 
-Unidade verdadeira é relação correta entre identidades diferenciadas.
+Continua...
 
----
+<!-- ---
 
 # BERESHIT 21:33
 

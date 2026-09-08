@@ -9,11 +9,7 @@ sidebar:
   order: 86
 ---
 
-<a href="" target="_blank" rel="noopener noreferrer">🎧 Ouvir áudio</a>
-
-&nbsp;&nbsp;|&nbsp;&nbsp;
-
-<a href="" target="_blank" rel="noopener noreferrer">⬇️ Baixar áudio</a>
+<a href="" target="_blank" rel="noopener noreferrer">🎧 Ouvir áudio</a> | <a href="" target="_blank" rel="noopener noreferrer">⬇️ Baixar áudio</a>
 
 ---
 
