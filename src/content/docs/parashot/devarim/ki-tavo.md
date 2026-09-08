@@ -7,13 +7,11 @@ book: devarim
 parashah: "Ki Tavo"
 ---
 
-<a
-  href="https://drive.google.com/file/d/1UkRKzir6UufqP14KXf3mya2GBv-YqfHI/view?usp=sharing"
-  target="_blank"
-  rel="noopener noreferrer"
->
-  ⬇️ Baixar áudio
-</a>
+<a href="https://drive.google.com/file/d/1UkRKzir6UufqP14KXf3mya2GBv-YqfHI/view?usp=sharing" target="_blank" rel="noopener noreferrer">🎧 Ouvir áudio</a>
+
+&nbsp;&nbsp;|&nbsp;&nbsp;
+
+<a href="https://drive.google.com/file/d/1UkRKzir6UufqP14KXf3mya2GBv-YqfHI" target="_blank" rel="noopener noreferrer">⬇️ Baixar áudio</a>
 
 ---
 
