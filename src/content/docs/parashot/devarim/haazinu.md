@@ -1,7 +1,7 @@
 ---
 title: "Parashat Ha’azinu"
 description: "Estudo da Parashat Ha’azinu à luz da Cabalá autêntica."
-draft: false
+draft: true
 category: parashat
 book: devarim
 parashah: "Ha’azinu"
@@ -9,9 +9,19 @@ sidebar:
   order: 86
 ---
 
+<a
+  href=""
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  ⬇️ Baixar áudio
+</a>
+
+---
+
 **Parashat Ha’azinu** está em **Devarim/Deuteronômio 32:1–52**.
 
-- <a href="/torah/devarim/capitulo-32/" target="_blank" rel="noopener noreferrer">Devarim — Capítulo 32</a> `SEG`
+- <a href="/torah/devarim/capitulo-32/" target="_blank" rel="noopener noreferrer">Devarim — Capítulo 32</a>  
 
 O nome **Ha’azinu** significa:
 

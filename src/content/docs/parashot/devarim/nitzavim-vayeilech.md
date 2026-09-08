@@ -9,14 +9,24 @@ sidebar:
   order: 85
 ---
 
+<a
+  href="https://drive.google.com/file/d/1uXrEP-7VljQtBanHvWOjnUbOZMUThJAg/view?usp=sharing"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  ⬇️ Baixar áudio
+</a>
+
+---
+
 **Nitzavim–Vayeilech** abrange:
 
 > **Nitzavim:** Devarim/Deuteronômio 29:9–30:20  
 > **Vayeilech:** Devarim/Deuteronômio 31:1–30
 
-- <a href="/torah/devarim/capitulo-29/" target="_blank" rel="noopener noreferrer">Devarim — Capítulo 29</a> `SEG`
-- <a href="/torah/devarim/capitulo-30/" target="_blank" rel="noopener noreferrer">Devarim — Capítulo 30</a> `TER`
-- <a href="/torah/devarim/capitulo-31/" target="_blank" rel="noopener noreferrer">Devarim — Capítulo 31</a> `QUA`
+- <a href="/torah/devarim/capitulo-29/" target="_blank" rel="noopener noreferrer">Devarim — Capítulo 29</a>  
+- <a href="/torah/devarim/capitulo-30/" target="_blank" rel="noopener noreferrer">Devarim — Capítulo 30</a>  
+- <a href="/torah/devarim/capitulo-31/" target="_blank" rel="noopener noreferrer">Devarim — Capítulo 31</a>  
 
 Em algumas traduções, a numeração do início de Nitzavim aparece como **Deuteronômio 29:10**, por diferença na divisão dos versículos.
 

@@ -7,6 +7,16 @@ book: devarim
 parashah: "Ki Tavo"
 ---
 
+<a
+  href="https://drive.google.com/file/d/1UkRKzir6UufqP14KXf3mya2GBv-YqfHI/view?usp=sharing"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  ⬇️ Baixar áudio
+</a>
+
+---
+
 **Parashat Ki Tavo** está em **Devarim/Deuteronômio 26:1–29:8**. Em algumas edições, por diferença na divisão dos versículos, o final aparece como **Deuteronômio 29:9**.
 
 - <a href="/torah/devarim/capitulo-26/" target="_blank" rel="noopener noreferrer">Devarim — Capítulo 26</a> `SEG`

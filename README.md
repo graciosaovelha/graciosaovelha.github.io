@@ -30,9 +30,7 @@ npm install
 npm run dev 
 ```
 
-> http://localhost:4321/
-
-O servidor local indicará o endereço de acesso, normalmente `http://localhost:4321/graciosaovelha/`.
+> O servidor local indicará o endereço de acesso, normalmente `http://localhost:4321/graciosaovelha/` ou só `http://localhost:4321/`.
 
 Para conferir a versão de produção:
 
