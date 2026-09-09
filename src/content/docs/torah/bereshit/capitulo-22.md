@@ -1,13 +1,13 @@
 ---
 title: "Bereshit — Capítulo 22"
 description: "Estudo de Bereshit, capítulo 22, à luz da Cabalá autêntica."
-draft: true
+draft: false
 category: torah
 book: bereshit
 chapter: 22
 ---
 
-<!-- # 1. Introdução: como a Cabalá lê a Akeidá
+# 1. Introdução: como a Cabalá lê a Akeidá
 
 Bereshit 22 é um dos capítulos mais densos de toda a Torah. No plano narrativo, ele relata a prova de Avraham: Deus ordena que ele leve seu filho Yitzchak à terra de Moriah e o faça subir como uma *olah*. Avraham obedece, prepara o altar e chega ao instante em que ergue a faca. Nesse momento, um mensageiro divino impede o ato. Um carneiro é oferecido no lugar de Yitzchak, e Avraham recebe novamente a promessa de descendência e bênção.
 
@@ -36,23 +36,14 @@ Essas correspondências não devem ser entendidas como fórmulas matemáticas r�
 
 O paradoxo do capítulo é justamente este:
 
-**Avraham, o homem de Chesed, precisa empunhar o instrumento da Gevurah.**
-
-E:
-
-**Yitzchak, personificação da Gevurah, precisa entregar-se completamente.**
+* **Avraham, o homem de Chesed, precisa empunhar o instrumento da Gevurah.**
+* **Yitzchak, personificação da Gevurah, precisa entregar-se completamente.**
 
 Assim, na Akeidá, Chesed aprende a conter em si Gevurah, enquanto Gevurah aprende a submeter-se a uma vontade superior.
 
-Não ocorre simplesmente uma vitória de Chesed sobre Gevurah.
+Não ocorre simplesmente uma vitória de Chesed sobre Gevurah, ocorre uma **integração**.
 
-Ocorre uma **integração**.
-
-Em linguagem cabalística:
-
-> **התכללות — hitkalelut**
-
-isto é, a inclusão de uma sefirá dentro da outra.
+Em linguagem cabalística: **התכללות — hitkalelut**, isto é, a inclusão de uma sefirá dentro da outra.
 
 A Akeidá é, portanto, uma gigantesca operação de **tikkun**, retificação.
 
@@ -60,11 +51,7 @@ A Akeidá é, portanto, uma gigantesca operação de **tikkun**, retificação.
 
 # 2. O significado cabalístico da palavra “Akeidá”
 
-A palavra hebraica:
-
-**עקדה — Akeidá**
-
-significa literalmente **amarração**, **ligação** ou **atamento**.
+A palavra hebraica **עקדה — Akeidá** significa literalmente **amarração**, **ligação** ou **atamento**.
 
 A Torah não chama o acontecimento de “sacrifício de Isaac”. Yitzchak não é sacrificado.
 
@@ -72,21 +59,15 @@ A palavra tradicional é **Akeidá**, porque o ponto essencial é que ele é **a
 
 Esse detalhe é profundamente cabalístico.
 
-A força de Gevurah não deve ser destruída.
-
-Ela precisa ser **atada, disciplinada e integrada**.
+A força de Gevurah não deve ser destruída, ela precisa ser **atada, disciplinada e integrada**.
 
 Uma pessoa sem Gevurah seria incapaz de estabelecer limites, exercer autocontrole, resistir ao mal ou praticar justiça.
 
-O problema não é Gevurah.
-
-O problema é Gevurah sem integração.
+O problema não é Gevurah, o problema é Gevurah sem integração.
 
 Da mesma forma, Chesed sem Gevurah pode transformar-se em permissividade, indulgência ou amor incapaz de estabelecer limites.
 
-A Akeidá ensina que:
-
-> **o Chesed verdadeiro contém Gevurah, e a Gevurah retificada serve ao Chesed.**
+A Akeidá ensina que: **o Chesed verdadeiro contém Gevurah, e a Gevurah retificada serve ao Chesed.**
 
 Esse princípio será essencial para compreender praticamente todos os versículos seguintes.
 
@@ -96,70 +77,42 @@ Esse princípio será essencial para compreender praticamente todos os versícul
 
 > **“E aconteceu depois destas coisas que Elohim pôs Avraham à prova; e disse-lhe: ‘Avraham!’ E ele respondeu: ‘Hineni — eis-me aqui.’”**
 
-## Peshat — sentido literal
+### Peshat — sentido literal
 
 O capítulo começa com:
 
-**ויהי אחר הדברים האלה — Vayehi achar hadevarim ha-eleh**
-
-“E aconteceu depois destas coisas...”
+> **ויהי אחר הדברים האלה — Vayehi achar hadevarim ha-eleh**  
+> “E aconteceu depois destas coisas...”
 
 A Torah conecta a Akeidá aos acontecimentos anteriores da vida de Avraham.
 
-A expressão:
-
-**והאלהים נסה את אברהם — veha-Elohim nissah et Avraham**
-
-significa que Elohim submeteu Avraham a uma prova.
+A expressão **והאלהים נסה את אברהם — veha-Elohim nissah et Avraham**, significa que Elohim submeteu Avraham a uma prova.
 
 O objetivo bíblico de uma prova divina não é fornecer a Deus uma informação que Ele desconhecia. Na tradição judaica, uma das explicações fundamentais é que a prova permite que uma qualidade potencial existente no indivíduo se manifeste concretamente.
 
-Avraham possuía fé.
+Avraham possuía fé, agora essa fé seria transformada de potencial em realidade vivida.
 
-Agora essa fé seria transformada de potencial em realidade vivida.
+### O Nome Elohim
 
-## O Nome Elohim
+É extremamente significativo que o capítulo comece utilizando o Nome **Elohim — אלהים**.
 
-É extremamente significativo que o capítulo comece utilizando o Nome:
-
-**Elohim — אלהים**
-
-Na linguagem cabalística, Elohim está frequentemente associado a:
-
-* julgamento;
-* medida;
-* limite;
-* contração;
-* Gevurah;
-* Din.
+Na linguagem cabalística, Elohim está frequentemente associado a julgamento, medida, limite, contração, Gevurah e Din.
 
 A história começa, portanto, sob a atmosfera de **Din**.
 
 Não é ainda o Nome YHVH que interrompe a ação.
 
-Primeiro o homem entra na experiência do julgamento.
+Primeiro o homem entra na experiência do julgamento, somente depois o julgamento será transformado.
 
-Somente depois o julgamento será transformado.
-
-Temos aqui uma espécie de arquitetura espiritual:
-
-**Elohim → prova → Gevurah → Akeidá → transformação → YHVH.**
+Temos aqui uma espécie de arquitetura espiritual: **Elohim → prova → Gevurah → Akeidá → transformação → YHVH.**
 
 O capítulo começa com Din e caminha para Rachamim.
 
-## “Nissah” — a prova como elevação
+### “Nissah” — a prova como elevação
 
-A palavra:
+A palavra **נסה — nissah**, significa “provou”.
 
-**נסה — nissah**
-
-significa “provou”.
-
-A tradição homilética também percebe proximidade com:
-
-**נס — nes**
-
-que pode significar uma bandeira ou algo elevado e visível.
+A tradição homilética também percebe proximidade com **נס — nes**, que pode significar uma bandeira ou algo elevado e visível.
 
 Nesse sentido espiritual, uma prova pode servir como uma **elevação**.
 
@@ -169,43 +122,29 @@ Numa formulação compatível com a linguagem do Arizal, podemos dizer que deter
 
 A prova amplia o recipiente.
 
-Avraham não está simplesmente sendo “avaliado”.
+Avraham não está simplesmente sendo “avaliado”, ele está sendo **transformado em um recipiente para um grau superior de revelação**.
 
-Ele está sendo **transformado em um recipiente para um grau superior de revelação**.
+### “Avraham!”
 
-## “Avraham!”
+Deus chama seu nome, e Avraham responde:
 
-Deus chama seu nome.
+> **הנני — Hineni**  
+> “Eis-me aqui.”
 
-E Avraham responde:
+*Hineni* não é simplesmente uma indicação de localização física, é a linguagem da disponibilidade total.
 
-**הנני — Hineni**
+Não significa apenas “Estou aqui.”, espiritualmente significa:
 
-“Eis-me aqui.”
-
-*Hineni* não é simplesmente uma indicação de localização física.
-
-É a linguagem da disponibilidade total.
-
-Não significa apenas:
-
-> “Estou aqui.”
-
-Espiritualmente significa:
-
-> “Não estou escondendo nenhuma parte de mim.”
-
+> “Não estou escondendo nenhuma parte de mim.”  
 > “Estou disponível diante de Ti.”
 
-Na Akeidá, essa palavra aparecerá novamente.
+Na Akeidá, essa palavra aparecerá novamente, ela é a postura interior necessária para todo o processo.
 
-Ela é a postura interior necessária para todo o processo.
+Antes de qualquer grande transformação espiritual existe o *Hineni*: **presença sem fuga.**
 
-Antes de qualquer grande transformação espiritual existe o *Hineni*:
+Continua...
 
-**presença sem fuga.**
-
----
+<!-- ---
 
 # Bereshit 22:2
 

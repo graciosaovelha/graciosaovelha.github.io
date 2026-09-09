@@ -144,7 +144,7 @@ O Deus do mundo, o Deus eterno, o Deus presente inclusive dentro daquilo que par
 
 ---
 
-# BERESHIT 21:1
+# Bereshit 21:1
 
 > “וה׳ פקד את שרה כאשר אמר”  
 > **“E HaShem visitou Sarah conforme havia dito.”**
@@ -219,7 +219,7 @@ Yitzchak, a força de Gevurah, não surge separado da misericórdia, a verdadeir
 
 ---
 
-# BERESHIT 21:2
+# Bereshit 21:2
 
 > “ותהר ותלד שרה לאברהם בן לזקניו למועד אשר דבר אתו אלהים”  
 > “Sarah concebeu e deu a Avraham um filho em sua velhice, no tempo determinado que Elohim lhe havia falado.”
@@ -265,7 +265,7 @@ O próprio representante de Gevurah nasce por meio de um processo no qual a Gevu
 
 ---
 
-# BERESHIT 21:3
+# Bereshit 21:3
 
 > “ויקרא אברהם את שם בנו הנולד לו אשר ילדה לו שרה יצחק”  
 > “Avraham chamou o nome de seu filho, que lhe nascera, que Sarah lhe dera, Yitzchak.”
@@ -302,7 +302,7 @@ Isso não significa banalizar sofrimento, significa que, da perspectiva superior
 
 ---
 
-# BERESHIT 21:4
+# Bereshit 21:4
 
 > “וימל אברהם את יצחק בנו בן שמנת ימים כאשר צוה אתו אלהים”  
 > “Avraham circuncidou Yitzchak, seu filho, aos oito dias, conforme Elohim lhe havia ordenado.”
@@ -347,7 +347,7 @@ Caso contrário, Gevurah pode tornar-se crueldade.
 
 ---
 
-# BERESHIT 21:5
+# Bereshit 21:5
 
 > “ואברהם בן מאת שנה בהולד לו את יצחק בנו”  
 > “Avraham tinha cem anos quando lhe nasceu Yitzchak, seu filho.”
@@ -376,7 +376,7 @@ A bondade amadurecida produz limite.
 
 ---
 
-# BERESHIT 21:6
+# Bereshit 21:6
 
 > “צחק עשה לי אלהים כל השמע יצחק לי”  
 > “E Sarah disse: Elohim fez riso para mim; todo aquele que ouvir rirá comigo.”
@@ -422,7 +422,7 @@ Uma pessoa que atravessa uma transformação real gera consciência também ao s
 
 ---
 
-# BERESHIT 21:7
+# Bereshit 21:7
 
 > “מי מלל לאברהם היניקה בנים שרה”  
 > “Quem teria dito a Avraham que Sarah amamentaria filhos?”
@@ -456,7 +456,7 @@ Esse é um princípio profundo: **O verdadeiro receptor espiritual termina torna
 
 ---
 
-# BERESHIT 21:8
+# Bereshit 21:8
 
 > “ויגדל הילד ויגמל ויעש אברהם משתה גדול ביום הגמל את יצחק”  
 > “O menino cresceu e foi desmamado, e Avraham fez um grande banquete no dia em que Yitzchak foi desmamado.”
@@ -487,7 +487,7 @@ Quando Yitzchak amadurece, torna-se necessária uma separação entre ele e Yish
 
 ---
 
-# BERESHIT 21:9
+# Bereshit 21:9
 
 > “ותרא שרה את בן הגר המצרית אשר ילדה לאברהם מצחק”  
 > “Sarah viu o filho de Hagar, a egípcia, que ela dera a Avraham, metzachek.”
@@ -529,7 +529,7 @@ Não porque Chessed seja mau, mas porque Chessed sem Gevurah pode sufocar a pró
 
 ---
 
-# BERESHIT 21:10
+# Bereshit 21:10
 
 > “גרש האמה הזאת ואת בנה כי לא יירש בן האמה הזאת עם בני עם יצחק”  
 > “Expulsa esta serva e seu filho, porque o filho desta serva não herdará com meu filho, com Yitzchak.”
@@ -567,7 +567,7 @@ Algumas forças podem existir, mas não podem herdar o trono.
 
 ---
 
-# BERESHIT 21:11
+# Bereshit 21:11
 
 > “וירע הדבר מאד בעיני אברהם על אודת בנו”  
 > “E a coisa pareceu muito má aos olhos de Avraham por causa de seu filho.”
@@ -600,7 +600,7 @@ Tiferet sabe integrar, mas não existe verdadeira integração antes da diferenc
 
 ---
 
-# BERESHIT 21:12
+# Bereshit 21:12
 
 > “כל אשר תאמר אליך שרה שמע בקלה כי ביצחק יקרא לך זרע”  
 > “Tudo o que Sarah te disser, escuta sua voz, pois através de Yitzchak será chamada tua descendência.”
@@ -639,7 +639,7 @@ Chessed sozinho não completa o tikkun.
 
 ---
 
-# BERESHIT 21:13
+# Bereshit 21:13
 
 > “וגם את בן האמה לגוי אשימנו כי זרעך הוא”  
 > “Também o filho da serva farei uma nação, porque tua descendência ele é.”
@@ -668,7 +668,7 @@ Uma força pode ser legítima numa posição subordinada e destrutiva quando ocu
 
 ---
 
-# BERESHIT 21:14
+# Bereshit 21:14
 
 > “וישכם אברהם בבקר... ויתן אל הגר... וישלחה”  
 > “Avraham levantou-se cedo pela manhã... deu pão e água a Hagar... e a enviou.”
@@ -703,7 +703,7 @@ O grande tikkun será encontrar o poço.
 
 ---
 
-# BERESHIT 21:15
+# Bereshit 21:15
 
 > “ויכלו המים מן החמת ותשלך את הילד תחת אחד השיחם”  
 > “A água do odre terminou, e ela colocou o menino debaixo de um dos arbustos.”
@@ -724,7 +724,7 @@ A crise rompe a autossuficiência.
 
 ---
 
-# BERESHIT 21:16
+# Bereshit 21:16
 
 > “כמטחוי קשת... אל אראה במות הילד”  
 > “Ela sentou-se à distância de um tiro de arco... pois disse: não quero ver a morte do menino.”
@@ -751,7 +751,7 @@ Este ponto prepara o versículo 19.
 
 ---
 
-# BERESHIT 21:17
+# Bereshit 21:17
 
 > “וישמע אלהים את קול הנער”  
 > “E Elohim ouviu a voz do menino.”
@@ -794,7 +794,7 @@ O encontro divino ocorre no ponto real em que a pessoa está, não no personagem
 
 ---
 
-# BERESHIT 21:18
+# Bereshit 21:18
 
 > “קומי שאי את הנער והחזיקי את ידך בו” 
 > “Levanta-te, ergue o menino e fortalece tua mão nele.”
@@ -821,7 +821,7 @@ Milagre sem integração pode desaparecer da consciência.
 
 ---
 
-# BERESHIT 21:19
+# Bereshit 21:19
 
 > “ויפקח אלהים את עיניה ותרא באר מים”  
 > **“E Elohim abriu os olhos dela, e ela viu um poço de água.”**
@@ -882,7 +882,7 @@ Essas duas frases descrevem estados espirituais completamente diferentes.
 
 ---
 
-# BERESHIT 21:20
+# Bereshit 21:20
 
 > “ויהי אלהים את הנער ויגדל”  
 > “E Elohim estava com o menino, e ele cresceu.”
@@ -911,7 +911,7 @@ Numa leitura simbólica, temos uma força expansiva aprendendo a operar através
 
 ---
 
-# BERESHIT 21:21
+# Bereshit 21:21
 
 > “וישב במדבר פארן ותקח לו אמו אשה מארץ מצרים”  
 > “Habitou no deserto de Paran, e sua mãe tomou para ele uma mulher da terra do Egito.”
@@ -934,7 +934,7 @@ Yishmael, fora da linhagem de Yitzchak, desenvolve outra trajetória.
 
 ---
 
-# BERESHIT 21:22
+# Bereshit 21:22
 
 > “אלהים עמך בכל אשר אתה עשה”  
 > “Deus está contigo em tudo o que fazes.”
@@ -957,7 +957,7 @@ Agora essa conduta gera reconhecimento externo.
 
 ---
 
-# BERESHIT 21:23
+# Bereshit 21:23
 
 > “ועתה השבעה לי באלהים הנה”  
 > “Agora jura-me aqui por Deus...”
@@ -992,7 +992,7 @@ Um juramento, nesse sentido simbólico, é algo que procura comprometer a totali
 
 ---
 
-# BERESHIT 21:24
+# Bereshit 21:24
 
 > “ויאמר אברהם אנכי אשבע”  
 > “E Avraham disse: eu jurarei.”
@@ -1019,7 +1019,7 @@ Cabalisticamente, isso possui relação com **Malchut**, dimensão onde a expres
 
 ---
 
-# BERESHIT 21:25
+# Bereshit 21:25
 
 > “והוכח אברהם את אבימלך על אדות באר המים”  
 > “Avraham repreendeu Avimelech por causa do poço de água que os servos de Avimelech haviam tomado.”
@@ -1050,7 +1050,7 @@ Quando algo essencial ao tikkun é usurpado, estabelecer fronteira pode ser uma 
 
 ---
 
-# BERESHIT 21:26
+# Bereshit 21:26
 
 > “לא ידעתי מי עשה את הדבר הזה”  
 > “Não sei quem fez isso.”
@@ -1075,7 +1075,7 @@ Não se realiza Birur daquilo que nos recusamos a reconhecer.
 
 ---
 
-# BERESHIT 21:27
+# Bereshit 21:27
 
 > “ויקח אברהם צאן ובקר ויתן לאבימלך ויכרתו שניהם ברית”  
 > “Avraham tomou ovelhas e gado, deu-os a Avimelech, e ambos fizeram uma aliança.”
@@ -1100,7 +1100,7 @@ Não **Chessed** ou **Gevurah**, mas **Chessed dentro de Gevurah.**
 
 ---
 
-# BERESHIT 21:28
+# Bereshit 21:28
 
 > “ויצב אברהם את שבע כבשת הצאן לבדנה”  
 > “Avraham colocou sete cordeiras do rebanho separadamente.”
@@ -1127,7 +1127,7 @@ O pacto não permanece no invisível, ele é marcado no mundo das sete dimensõe
 
 ---
 
-# BERESHIT 21:29
+# Bereshit 21:29
 
 > “מה הנה שבע כבשת האלה אשר הצבת לבדנה”  
 > “Que significam estas sete cordeiras que colocaste separadamente?”
@@ -1148,7 +1148,7 @@ O gesto externo e sua consciência interna precisam ser conectados. Caso contrá
 
 ---
 
-# BERESHIT 21:30
+# Bereshit 21:30
 
 > “את שבע כבשת תקח מידי בעבור תהיה לי לעדה כי חפרתי את הבאר הזאת”  
 > “Estas sete cordeiras receberás de minha mão para que sejam testemunho de que eu cavei este poço.”
@@ -1181,7 +1181,7 @@ A pessoa cava o poço, a fonte pertence ao Criador.
 
 ---
 
-# BERESHIT 21:31
+# Bereshit 21:31
 
 > “על כן קרא למקום ההוא באר שבע כי שם נשבעו שניהם”  
 > “Por isso chamou aquele lugar Be'er Sheva, pois ali ambos juraram.”
@@ -1219,7 +1219,7 @@ Assim Be'er Sheva torna-se imagem de uma Malchut adequadamente constituída, cap
 
 ---
 
-# BERESHIT 21:32
+# Bereshit 21:32
 
 > “ויכרתו ברית בבאר שבע”  
 > “Fizeram uma aliança em Be'er Sheva.”
@@ -1246,7 +1246,7 @@ Continua...
 
 <!-- ---
 
-# BERESHIT 21:33
+# Bereshit 21:33
 
 ## “ויטע אשל בבאר שבע ויקרא שם בשם ה׳ אל עולם”
 
@@ -1340,7 +1340,7 @@ Procura revelar a Unidade dentro dela.
 
 ---
 
-# BERESHIT 21:34
+# Bereshit 21:34
 
 ## “ויגר אברהם בארץ פלשתים ימים רבים”
 
@@ -1746,7 +1746,7 @@ O tikkun culmina na proclamação da Unidade divina dentro do mundo.
 
 ---
 
-# BERESHIT 21 E A DINÂMICA CHESSED–GEVURAH–TIFERET
+# Bereshit 21 E A DINÂMICA CHESSED–GEVURAH–TIFERET
 
 Uma chave adicional para o capítulo aparece quando observamos toda a sequência patriarcal.
 

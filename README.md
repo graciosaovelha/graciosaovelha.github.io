@@ -30,7 +30,7 @@ npm install
 npm run dev 
 ```
 
-> O servidor local indicará o endereço de acesso, normalmente `http://localhost:4321/graciosaovelha/` ou só `http://localhost:4321/`.
+> O servidor local indicará o endereço de acesso, normalmente `http://localhost:4321/`.
 
 Para conferir a versão de produção:
 
@@ -45,7 +45,7 @@ Esta V1 pressupõe:
 
 - usuário/organização do GitHub: `graciosaovelha`;
 - repositório: `graciosaovelha`;
-- URL final: `https://graciosaovelha.github.io/graciosaovelha/`.
+- URL final: `https://graciosaovelha.github.io`.
 
 Se algum desses nomes for diferente, altere as constantes `SITE`, `BASE` e `REPOSITORY` em `astro.config.mjs` antes de publicar.
 
