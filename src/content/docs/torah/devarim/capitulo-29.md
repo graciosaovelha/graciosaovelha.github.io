@@ -2,6 +2,7 @@
 title: "Devarim — Capítulo 29"
 description: "Estudo de Devarim, capítulo 29, à luz da Cabalá autêntica."
 draft: false
+status: em-andamento
 category: torah
 book: devarim
 chapter: 29

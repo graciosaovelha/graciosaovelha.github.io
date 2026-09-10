@@ -25,6 +25,7 @@ const categorySchema = z.enum([
 
 const graciosaOvelhaSchema = z.object({
   category: categorySchema.optional(),
+
   book: bookSchema.optional(),
 
   chapter: z
@@ -33,12 +34,23 @@ const graciosaOvelhaSchema = z.object({
     .positive()
     .optional(),
 
-  parashah: z.string().optional(),
+  parashah: z
+    .string()
+    .optional(),
+
+  status: z
+    .enum([
+      'em-andamento',
+      'em-revisao',
+      'concluido',
+    ])
+    .optional(),
 });
 
 export const collections = {
   docs: defineCollection({
     loader: docsLoader(),
+
     schema: docsSchema({
       extend: graciosaOvelhaSchema,
     }),

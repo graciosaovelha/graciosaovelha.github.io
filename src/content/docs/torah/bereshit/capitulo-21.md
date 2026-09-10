@@ -2,6 +2,7 @@
 title: "Bereshit — Capítulo 21"
 description: "Estudo de Bereshit, capítulo 21, à luz da Cabalá autêntica."
 draft: false
+status: em-andamento
 category: torah
 book: bereshit
 chapter: 21

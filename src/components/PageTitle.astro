@@ -1,12 +1,45 @@
 ---
 type ExtraData = {
-  category?: 'torah' | 'parashat' | 'institucional';
+  category?:
+    | 'torah'
+    | 'parashat'
+    | 'institucional';
+
+  status?:
+    | 'em-andamento'
+    | 'em-revisao'
+    | 'concluido';
 };
 
 const data =
   Astro.locals.starlightRoute.entry.data as
     typeof Astro.locals.starlightRoute.entry.data &
     ExtraData;
+
+const statusLabels = {
+  'em-andamento': {
+    title: 'Conteúdo em andamento',
+    description:
+      'Este estudo ainda está sendo desenvolvido e pode receber novos trechos ou alterações.',
+  },
+
+  'em-revisao': {
+    title: 'Conteúdo em revisão',
+    description:
+      'Este estudo já está estruturalmente completo, mas ainda está passando por revisão.',
+  },
+
+  concluido: {
+    title: 'Conteúdo concluído',
+    description:
+      'Este estudo foi finalizado e revisado.',
+  },
+};
+
+const status =
+  data.status
+    ? statusLabels[data.status]
+    : undefined;
 
 const categoryLabels = {
   torah: 'Torah',
@@ -32,3 +65,70 @@ const category =
     </span>
   </div>
 )}
+
+{
+  status &&
+  data.category === 'torah' &&
+  data.status !== 'concluido' && (
+    <div
+      class:list={[
+        'content-status',
+        `content-status--${data.status}`,
+      ]}
+    >
+      <strong>
+        {status.title}
+      </strong>
+
+      <span>
+        {status.description}
+      </span>
+    </div>
+  )
+}
+
+<style>
+  .content-status {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+
+    margin-top: 1rem;
+    padding: 0.9rem 1rem;
+
+    border: 1px solid
+      var(--sl-color-gray-5);
+
+    border-left-width: 4px;
+    border-radius: 0.4rem;
+
+    background:
+      var(--sl-color-gray-6);
+  }
+
+  .content-status strong {
+    font-size: 0.95rem;
+  }
+
+  .content-status span {
+    color:
+      var(--sl-color-gray-2);
+
+    font-size: 0.9rem;
+  }
+
+  .content-status--em-andamento {
+    border-left-color:
+      var(--sl-color-orange);
+  }
+
+  .content-status--em-revisao {
+    border-left-color:
+      var(--sl-color-accent-high);
+  }
+
+  .content-status--concluido {
+    border-left-color:
+      var(--sl-color-green);
+  }
+</style>

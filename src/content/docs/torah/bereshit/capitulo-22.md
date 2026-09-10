@@ -2,6 +2,7 @@
 title: "Bereshit — Capítulo 22"
 description: "Estudo de Bereshit, capítulo 22, à luz da Cabalá autêntica."
 draft: false
+status: em-andamento
 category: torah
 book: bereshit
 chapter: 22
@@ -142,9 +143,7 @@ Na Akeidá, essa palavra aparecerá novamente, ela é a postura interior necess�
 
 Antes de qualquer grande transformação espiritual existe o *Hineni*: **presença sem fuga.**
 
-Continua...
-
-<!-- ---
+---
 
 # Bereshit 22:2
 
@@ -152,27 +151,18 @@ Continua...
 
 Este talvez seja um dos versículos mais desconcertantes da Torah.
 
-## A progressão das palavras
+### A progressão das palavras
 
-Deus não diz imediatamente “Yitzchak”.
+Deus não diz imediatamente “Yitzchak”, o texto apresenta uma sequência:
 
-O texto apresenta uma sequência:
+1. **teu filho**
+2. **teu único**
+3. **aquele que amas**
+4. **Yitzchak**
 
-**teu filho**
+A tradição rabínica percebe nisso uma intensificação progressiva. Espiritualmente, cada expressão remove uma camada.
 
-**teu único**
-
-**aquele que amas**
-
-**Yitzchak**
-
-A tradição rabínica percebe nisso uma intensificação progressiva.
-
-Espiritualmente, cada expressão remove uma camada.
-
-Avraham não está sendo confrontado apenas com a perda de uma pessoa.
-
-Ele está sendo confrontado com:
+Avraham não está sendo confrontado apenas com a perda de uma pessoa, ele está sendo confrontado com:
 
 * sua continuidade;
 * sua promessa;
@@ -182,107 +172,63 @@ Ele está sendo confrontado com:
 
 Yitzchak havia sido prometido.
 
-Portanto, a prova não coloca apenas o amor de Avraham contra Deus.
+Portanto, a prova não coloca apenas o amor de Avraham contra Deus, ela coloca uma palavra divina aparentemente contra outra palavra divina.
 
-Ela coloca uma palavra divina aparentemente contra outra palavra divina.
-
-Deus havia dito que a continuidade de Avraham viria por meio de Yitzchak.
-
-Agora Deus diz:
+Deus havia dito que a continuidade de Avraham viria por meio de Yitzchak, agora Deus diz:
 
 > “Faça-o subir.”
 
-A verdadeira prova é, portanto, mais profunda:
-
-**Avraham obedecerá apenas quando compreender?**
-
-Ou continuará ligado ao Divino mesmo quando sua razão não consegue conciliar o que está acontecendo?
+A verdadeira prova é, portanto, mais profunda: **Avraham obedecerá apenas quando compreender?**, ou continuará ligado ao Divino mesmo quando sua razão não consegue conciliar o que está acontecendo?
 
 Isso não é uma rejeição da razão.
 
-A Torah constantemente exige compreensão.
+A Torah constantemente exige compreensão, mas a Akeidá toca um ponto em que a percepção humana encontra o limite daquilo que consegue abarcar.
 
-Mas a Akeidá toca um ponto em que a percepção humana encontra o limite daquilo que consegue abarcar.
+### “Lech lecha”
 
-## “Lech lecha”
+Deus diz novamente: **לך לך — lech lecha**
 
-Deus diz novamente:
-
-**לך לך — lech lecha**
-
-A mesma expressão utilizada no início da jornada de Avraham:
-
-> “Lech lecha...”
-
-em Bereshit 12.
+A mesma expressão utilizada no início da jornada de Avraham: “Lech lecha...”, em Bereshit 12.
 
 Há uma simetria extraordinária.
 
-No começo, Avraham precisa abandonar sua terra.
+No começo, Avraham precisa abandonar sua terra. Agora precisa abandonar sua segurança espiritual mais profunda.
 
-Agora precisa abandonar sua segurança espiritual mais profunda.
+A primeira jornada separou Avraham de seu **passado**, a Akeidá o separa de sua pretensão de controlar o **futuro**.
 
-A primeira jornada separou Avraham de seu **passado**.
+A leitura mística frequentemente ouve em *lech lecha*: “Vai para ti.”
 
-A Akeidá o separa de sua pretensão de controlar o **futuro**.
+Isto é, viaja até tua raiz. Atravessa todas as camadas externas da identidade até descobrir quem és diante de Deus.
 
-A leitura mística frequentemente ouve em *lech lecha*:
+Na primeira vez, Avraham abandona uma geografia. Na segunda, precisa transcender uma estrutura interior.
 
-> “Vai para ti.”
+### Moriah
 
-Isto é:
-
-> Viaja até tua raiz.
-
-> Atravessa todas as camadas externas da identidade até descobrir quem és diante de Deus.
-
-Na primeira vez, Avraham abandona uma geografia.
-
-Na segunda, precisa transcender uma estrutura interior.
-
-## Moriah
-
-A tradição identifica Moriah com o local do futuro Beit HaMikdash, o Templo de Jerusalém, conforme II Crônicas 3:1.
-
-Isso transforma a Akeidá no arquétipo de todo o serviço sacrificial posterior.
+A tradição identifica Moriah com o local do futuro Beit HaMikdash, o Templo de Jerusalém, conforme II Crônicas 3:1. Isso transforma a Akeidá no arquétipo de todo o serviço sacrificial posterior.
 
 O local onde o homem está disposto a entregar tudo a Deus se torna, posteriormente, o lugar em que Israel oferece *korbanot*.
 
-Mas há um detalhe decisivo:
-
-**o ser humano não é sacrificado.**
-
-Um animal ocupará seu lugar.
+Mas há um detalhe decisivo: **o ser humano não é sacrificado**, um animal ocupará seu lugar.
 
 Esse movimento está no coração da mensagem do capítulo.
 
-## “Faça-o subir”
+### “Faça-o subir”
 
-A Torah utiliza:
+A Torah utiliza **והעלהו — veha'alehu**, da raiz:
 
-**והעלהו — veha'alehu**
-
-da raiz:
-
-**עלה — alah**
-
-“subir”.
+> **עלה — alah**  
+> “subir”.
 
 É a mesma raiz de:
 
-**עולה — olah**
-
-a oferta que “sobe”.
+> **עולה — olah**  
+> a oferta que “sobe”.
 
 A linguagem contém um mistério.
 
-Yitzchak realmente **sobe** espiritualmente.
+Yitzchak realmente **sobe** espiritualmente, mas não precisa morrer para isso.
 
-Mas não precisa morrer para isso.
-
-A subida é real.
-
-A morte física não é o objetivo.
+A subida é real. A morte física não é o objetivo.
 
 Esse princípio é essencial para a leitura mística correta da Akeidá.
 
@@ -294,13 +240,9 @@ A verdadeira entrega é a transformação do ser, não sua destruição.
 
 > **“E Avraham levantou-se cedo pela manhã, selou seu jumento, tomou consigo dois de seus jovens e Yitzchak, seu filho; rachou a lenha da olah, levantou-se e foi ao lugar que Elohim lhe havia dito.”**
 
-## A prontidão de Avraham
+### A prontidão de Avraham
 
-Avraham se levanta:
-
-**בבקר — baboker**
-
-cedo pela manhã.
+Avraham se levanta **בבקר — baboker**, cedo pela manhã.
 
 A tradição enfatiza sua **zerizut**, prontidão.
 
@@ -310,41 +252,25 @@ Do ponto de vista interior, isso revela que sua ação não é produto de um imp
 
 Ele dorme durante a noite, desperta e segue adiante.
 
-## O jumento — chamor e chomer
+### O jumento — chamor e chomer
 
-A palavra:
+A palavra **חמור — chamor**, significa jumento.
 
-**חמור — chamor**
+A tradição mística e homilética frequentemente associa *chamor* a **חומר — chomer** (matéria, materialidade).
 
-significa jumento.
+Assim, “selar o jumento” pode ser lido simbolicamente como colocar a dimensão material sob direção espiritual.
 
-A tradição mística e homilética frequentemente associa *chamor* a:
-
-**חומר — chomer**
-
-matéria, materialidade.
-
-Assim, “selar o jumento” pode ser lido simbolicamente como:
-
-> colocar a dimensão material sob direção espiritual.
-
-A Cabalá não ensina que a matéria é intrinsecamente má.
-
-Esse seria um pensamento estranho ao judaísmo.
+A Cabalá não ensina que a matéria é intrinsecamente má, esse seria um pensamento estranho ao judaísmo.
 
 O objetivo é que o *chomer*, a materialidade, seja governado por propósito.
 
-A santidade não consiste em fugir da existência física.
+A santidade não consiste em fugir da existência física, consiste em fazer da matéria um instrumento do serviço divino.
 
-Consiste em fazer da matéria um instrumento do serviço divino.
-
-Avraham não mata o jumento.
-
-Ele **o sela e o dirige**.
+Avraham não mata o jumento, ele **o sela e o dirige**.
 
 Esta é precisamente a relação cabalística ideal com a dimensão material.
 
-## A madeira
+### A madeira
 
 Avraham corta pessoalmente a lenha.
 
@@ -352,22 +278,11 @@ A preparação ocorre antes da chegada.
 
 Espiritualmente, isso representa a necessidade de preparar o *kli* antes da elevação.
 
-Não existe trabalho espiritual real apenas por entusiasmo espontâneo.
+Não existe trabalho espiritual real apenas por entusiasmo espontâneo, há preparação, organização, ação e disciplina.
 
-Há:
+O Chesed de Avraham começa a incorporar Gevurah. Ele, conhecido por acolher visitantes e derramar bondade, torna-se metódico e restritivo.
 
-* preparação;
-* organização;
-* ação;
-* disciplina.
-
-O Chesed de Avraham começa a incorporar Gevurah.
-
-Ele, conhecido por acolher visitantes e derramar bondade, torna-se metódico e restritivo.
-
-Já vemos a *hitkalelut*:
-
-**Gevurah dentro de Chesed.**
+Já vemos a *hitkalelut*: **Gevurah dentro de Chesed.**
 
 ---
 
@@ -375,15 +290,12 @@ Já vemos a *hitkalelut*:
 
 > **“No terceiro dia, Avraham levantou os olhos e viu o lugar de longe.”**
 
-## O terceiro dia
+### O terceiro dia
 
-A Torah poderia simplesmente dizer que Avraham chegou ao local.
+A Torah poderia simplesmente dizer que Avraham chegou ao local. Em vez disso, informa:
 
-Em vez disso, informa:
-
-**ביום השלישי — bayom hashlishi**
-
-“no terceiro dia”.
+> **ביום השלישי — bayom hashlishi**  
+> “no terceiro dia”.
 
 Na linguagem simbólica das sefirot inferiores, uma leitura natural vê:
 
@@ -395,43 +307,28 @@ Tiferet é a qualidade que harmoniza direita e esquerda.
 
 Assim, a chegada no **terceiro dia** pode ser contemplada como uma indicação de que a tensão entre Chesed e Gevurah está se encaminhando para uma terceira realidade: a harmonização.
 
-É importante não afirmar que o número três neste versículo “significa exclusivamente Tiferet”. A Torah possui várias camadas numerológicas.
+É importante não afirmar que o número três neste versículo “significa exclusivamente Tiferet”. A Torah possui várias camadas numerológicas. Mas como leitura cabalística, a correspondência é extremamente apropriada ao movimento geral do capítulo.
 
-Mas como leitura cabalística, a correspondência é extremamente apropriada ao movimento geral do capítulo.
+### “Levantou os olhos”
 
-## “Levantou os olhos”
+> **וישא אברהם את עיניו — vayissa Avraham et einav**  
+> Avraham “elevou seus olhos”.
 
-**וישא אברהם את עיניו — vayissa Avraham et einav**
-
-Avraham “elevou seus olhos”.
-
-Na Torah, levantar os olhos frequentemente indica mais do que visão física.
-
-Há uma passagem de consciência.
+Na Torah, levantar os olhos frequentemente indica mais do que visão física, há uma passagem de consciência.
 
 Antes de enxergar o “lugar”, Avraham precisa elevar a visão.
 
-A espiritualidade bíblica não consiste somente em chegar a lugares sagrados.
+A espiritualidade bíblica não consiste somente em chegar a lugares sagrados. é preciso desenvolver olhos capazes de percebê-los.
 
-É preciso desenvolver olhos capazes de percebê-los.
+### “De longe”
 
-## “De longe”
+Avraham vê **מרחק — merachok** (“de longe”).
 
-Avraham vê:
-
-**מרחק — merachok**
-
-“de longe”.
-
-Há aqui uma imagem fundamental da experiência espiritual.
-
-O sagrado foi percebido, mas ainda não foi alcançado.
+Há aqui uma imagem fundamental da experiência espiritual. O sagrado foi percebido, mas ainda não foi alcançado.
 
 Isso corresponde a um estado em que existe *or makif*, linguagem que a tradição cabalística utiliza para uma luz que circunda o recipiente, isto é, uma realidade espiritual percebida, mas ainda não interiorizada.
 
-Avraham consegue contemplar o objetivo.
-
-Ainda precisa atravessar a distância.
+Avraham consegue contemplar o objetivo. Ainda precisa atravessar a distância.
 
 ---
 
@@ -439,83 +336,50 @@ Ainda precisa atravessar a distância.
 
 > **“E Avraham disse aos seus jovens: permanecei aqui com o jumento; eu e o jovem iremos até lá, nos prostraremos e voltaremos a vós.”**
 
-## Os jovens permanecem com o jumento
+### Os jovens permanecem com o jumento
 
 A tradição rabínica identifica os dois acompanhantes, em algumas leituras, com Yishmael e Eliezer.
 
-Independentemente dessa identificação, narrativamente eles permanecem abaixo.
+Independentemente dessa identificação, narrativamente eles permanecem abaixo. Avraham e Yitzchak prosseguem sozinhos.
 
-Avraham e Yitzchak prosseguem sozinhos.
-
-O simbolismo é claro:
-
-há níveis da experiência espiritual que não podem ser realizados por procuração.
+O simbolismo é claro, há níveis da experiência espiritual que não podem ser realizados por procuração.
 
 O jumento permanece com eles.
 
-Na leitura *chamor/chomer*, a materialidade permanece em determinado nível enquanto pai e filho realizam uma ascensão interior.
+Na leitura *chamor/chomer*, a materialidade permanece em determinado nível enquanto pai e filho realizam uma ascensão interior. Isso não significa abandonar permanentemente a matéria.
 
-Isso não significa abandonar permanentemente a matéria.
+Observe o que ocorrerá depois, Avraham retornará.
 
-Observe o que ocorrerá depois:
-
-Avraham retornará.
-
-O movimento da Torah não é:
-
-**matéria → fuga espiritual.**
-
-É:
-
-**matéria → ascensão → transformação → retorno.**
+O movimento da Torah não é: **matéria → fuga espiritual** é **matéria → ascensão → transformação → retorno**.
 
 Essa é uma estrutura essencial do tikkun.
 
-## “Nós iremos... e retornaremos”
+### “Nós iremos... e retornaremos”
 
 Avraham diz:
 
-**ונשתחוה ונשובה — venishtachaveh venashuvah**
-
-“nos prostraremos e voltaremos.”
+> **ונשתחוה ונשובה — venishtachaveh venashuvah**  
+> “nos prostraremos e voltaremos.”
 
 Plural.
 
-Ele não diz:
+Ele não diz: “Eu voltarei.”, diz: “Voltaremos.”
 
-> “Eu voltarei.”
+No peshat, pode ser simplesmente a forma como Avraham fala aos servos sem revelar a natureza da missão, mas a tradição percebe aqui uma espécie de profecia involuntária.
 
-Diz:
+Avraham pronuncia uma verdade maior do que sua consciência imediata: **os dois retornarão.**
 
-> “Voltaremos.”
-
-No peshat, pode ser simplesmente a forma como Avraham fala aos servos sem revelar a natureza da missão.
-
-Mas a tradição percebe aqui uma espécie de profecia involuntária.
-
-Avraham pronuncia uma verdade maior do que sua consciência imediata:
-
-**os dois retornarão.**
-
-## Prostração
+### Prostração
 
 A palavra traduzida como adoração envolve literalmente prostrar-se.
 
-A prostração simboliza:
+A prostração simboliza: **bitul — ביטול**, anulação do ego diante de uma realidade superior.
 
-**bitul — ביטול**
-
-anulação do ego diante de uma realidade superior.
-
-O verdadeiro centro da Akeidá não é a morte.
-
-É o *bitul*.
+O verdadeiro centro da Akeidá não é a morte, é o *bitul*.
 
 Avraham e Yitzchak precisam chegar ao ponto em que nenhum dos dois coloca sua identidade individual acima da vontade divina.
 
-A Cabalá, porém, não entende *bitul* como desaparecimento psicológico ou destruição da personalidade.
-
-É a libertação da fantasia de que o eu é absolutamente autônomo.
+A Cabalá, porém, não entende *bitul* como desaparecimento psicológico ou destruição da personalidade, é a libertação da fantasia de que o eu é absolutamente autônomo.
 
 ---
 
@@ -525,7 +389,7 @@ A Cabalá, porém, não entende *bitul* como desaparecimento psicológico ou des
 
 Este é um dos versículos cabalisticamente mais poderosos do capítulo.
 
-## Yitzchak carrega a madeira
+### Yitzchak carrega a madeira
 
 Yitzchak carrega sobre si a madeira destinada à oferta.
 
@@ -533,88 +397,58 @@ No nível narrativo, isso intensifica o drama.
 
 No nível espiritual, Yitzchak — Gevurah — carrega o próprio instrumento de sua elevação.
 
-O ser humano frequentemente carrega dentro de si precisamente a matéria de sua retificação.
+O ser humano frequentemente carrega dentro de si precisamente a matéria de sua retificação. 
 
 Aquilo que mais o desafia pode tornar-se o material de seu tikkun.
 
-## O fogo
+### O fogo
 
-Avraham leva:
+Avraham leva **האש — ha-esh**, o fogo.
 
-**האש — ha-esh**
+Fogo é uma imagem clássica de Gevurah. Ele consome, diferencia, purifica, restringe e transforma.
 
-o fogo.
-
-Fogo é uma imagem clássica de Gevurah.
-
-Ele:
-
-* consome;
-* diferencia;
-* purifica;
-* restringe;
-* transforma.
-
-Mas quem está segurando o fogo?
-
-**Avraham.**
+Mas quem está segurando o fogo? **Avraham**.
 
 Chesed está carregando Gevurah.
 
 Este detalhe expressa de forma extraordinária o segredo da Akeidá.
 
-Avraham não deixa de ser Chesed.
+Avraham não deixa de ser Chesed, mas Chesed agora incorpora fogo.
 
-Mas Chesed agora incorpora fogo.
-
-## A faca
+### A faca
 
 O instrumento de corte representa separação.
 
-Cortar significa estabelecer uma fronteira:
-
-isto termina aqui, aquilo começa ali.
+Cortar significa estabelecer uma fronteira: isto termina aqui, aquilo começa ali.
 
 Essa é precisamente a linguagem espiritual de Gevurah.
 
-Assim, Avraham segura simultaneamente:
-
-* fogo;
-* faca.
+Assim, Avraham segura simultaneamente **fogo** e **faca**.
 
 Dois símbolos de Din nas mãos do patriarca de Chesed.
 
-A Cabalá não vê nisso uma perversão de Avraham.
-
-Vê uma **maturação de Chesed**.
+A Cabalá não vê nisso uma perversão de Avraham. vê uma **maturação de Chesed**.
 
 Bondade incapaz de colocar limites ainda não atingiu sua forma completa.
 
-## “E os dois caminharam juntos”
+### “E os dois caminharam juntos”
 
 A Torah enfatiza:
 
-**וילכו שניהם יחדו — vayelchu shneihem yachdav**
-
-“e os dois caminharam juntos”.
+> **וילכו שניהם יחדו — vayelchu shneihem yachdav**  
+> “e os dois caminharam juntos”.
 
 Essa frase será repetida.
 
-No sod, temos aqui:
+No sod, temos aqui: **Chesed + Gevurah caminhando em unidade**.
 
-**Chesed + Gevurah caminhando em unidade.**
-
-Não estão ainda fundidos.
-
-Continuam sendo duas forças.
-
-Mas caminham:
-
-**yachdav — juntas.**
+Não estão ainda fundidos, continuam sendo duas forças. Mas caminham **yachdav — juntas**.
 
 Essa é a direção da retificação.
 
----
+Continua...
+
+<!-- ---
 
 # Bereshit 22:7
 
