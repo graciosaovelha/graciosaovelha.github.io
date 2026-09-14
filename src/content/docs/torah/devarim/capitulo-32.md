@@ -1,7 +1,7 @@
 ---
 title: "Devarim — Capítulo 32"
 description: "Estudo de Devarim, capítulo 32, à luz da Cabalá autêntica."
-draft: true
+draft: false
 category: torah
 book: devarim
 chapter: 32
