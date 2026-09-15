@@ -864,42 +864,31 @@ Ha’azinu ensina:
 
 Em linguagem simples: **lembre-se de Quem o sustentou, especialmente quando já não sente necessidade de pedir.**
 
-<!-----
+---
 
 # 42. O que trabalhar em si nesta semana
 
-## 1. Escutar sem preparar defesa
+### 1. Escutar sem preparar defesa
 
 Escolha uma orientação, crítica ou verdade que tem dificuldade de receber.
 
 Não aceite tudo automaticamente, mas escute antes de se justificar.
 
----
+### 2. Escolher entre chuva e orvalho
 
-## 2. Escolher entre chuva e orvalho
-
-Pergunte se sua correção precisa de:
-
-- um limite firme;
-- ou uma prática pequena e constante.
+Pergunte se sua correção precisa de um limite firme ou uma prática pequena e constante.
 
 Nem tudo precisa ser resolvido pela mesma intensidade.
 
----
-
-## 3. Identificar sua Rocha
+### 3. Identificar sua Rocha
 
 Observe onde está depositando segurança.
 
-Pergunte:
-
-**se isso mudar, perderei completamente meu centro?**
+Pergunte: **se isso mudar, perderei completamente meu centro?**
 
 Trabalhe para que sua segurança não dependa apenas de aprovação, dinheiro, controle ou desempenho.
 
----
-
-## 4. Revisar sua história com gratidão e verdade
+### 4. Revisar sua história com gratidão e verdade
 
 Recorde:
 
@@ -910,27 +899,19 @@ Recorde:
 
 Não conte sua história apenas pela queda nem apenas pelo sucesso.
 
----
-
-## 5. Vigiar o esquecimento na abundância
+### 5. Vigiar o esquecimento na abundância
 
 Quando algo estiver bem, faça uma pausa para agradecer.
 
 Não espere uma crise para recuperar a ligação.
 
----
+### 6. Identificar um ídolo interior
 
-## 6. Identificar um ídolo interior
-
-Pergunte:
-
-**o que estou esperando que resolva tudo por mim?**
+Pergunte: **o que estou esperando que resolva tudo por mim?**
 
 Devolva essa coisa ao seu lugar correto.
 
----
-
-## 7. Manter uma ligação no ocultamento
+### 7. Manter uma ligação no ocultamento
 
 Escolha uma prática pequena para manter mesmo quando não sentir inspiração.
 
@@ -942,21 +923,15 @@ Pode ser:
 - um ato de bondade;
 - uma revisão noturna.
 
----
-
-## 8. Corrigir sem destruir
+### 8. Corrigir sem destruir
 
 Escolha um erro que precisa de consequência e reparo, mas não de humilhação permanente.
 
----
-
-## 9. Transformar um ensinamento em vida
+### 9. Transformar um ensinamento em vida
 
 Escolha apenas uma frase de Ha’azinu e coloque-a em prática.
 
----
-
-## 10. Aceitar o limite da própria missão
+### 10. Aceitar o limite da própria missão
 
 Reconheça aquilo que depende de você e aquilo que será continuado por outros ou pelo tempo.
 
@@ -964,309 +939,191 @@ Reconheça aquilo que depende de você e aquilo que será continuado por outros 
 
 # 43. Exercício prático da manhã
 
-1. O que preciso escutar com mais profundidade hoje?
+### 1. O que preciso escutar com mais profundidade hoje?
 
-O que essa pergunta quer dizer:
 Pense numa orientação, necessidade, verdade ou sentimento que você vem ouvindo superficialmente ou evitando.
 
-Exemplo simples:
-“Preciso ouvir que estou assumindo tarefas demais.”
-“Preciso prestar atenção a uma orientação que sempre adio.”
-“Preciso escutar alguém antes de preparar minha resposta.”
+- “Preciso ouvir que estou assumindo tarefas demais.”
+- “Preciso prestar atenção a uma orientação que sempre adio.”
+- “Preciso escutar alguém antes de preparar minha resposta.”
 
-2. Minha correção de hoje precisa ser chuva ou orvalho?
+### 2. Minha correção de hoje precisa ser chuva ou orvalho?
 
-O que essa pergunta quer dizer:
 Alguns padrões precisam de um limite claro e imediato. Outros mudam melhor com prática suave e contínua.
 
-Exemplo simples:
-“Preciso de chuva: encerrar uma conversa prejudicial.”
-“Preciso de orvalho: estudar cinco minutos com constância.”
-“Preciso de um limite firme com uma distração, mas de paciência com meu processo.”
+- “Preciso de chuva: encerrar uma conversa prejudicial.”
+- “Preciso de orvalho: estudar cinco minutos com constância.”
+- “Preciso de um limite firme com uma distração, mas de paciência com meu processo.”
 
-3. Qual é minha Rocha hoje?
+### 3. Qual é minha Rocha hoje?
 
-O que essa pergunta quer dizer:
 Observe em que pretende apoiar sua segurança e direção durante o dia.
 
-Exemplo simples:
-“Não quero depender apenas da aprovação.”
-“Quero lembrar que meu valor não muda com um erro.”
-“Vou fazer minha parte sem tratar meu controle como segurança absoluta.”
+- “Não quero depender apenas da aprovação.”
+- “Quero lembrar que meu valor não muda com um erro.”
+- “Vou fazer minha parte sem tratar meu controle como segurança absoluta.”
 
-4. Que cuidado recebido no meu “deserto” preciso recordar?
+### 4. Que cuidado recebido no meu “deserto” preciso recordar?
 
-O que essa pergunta quer dizer:
 Lembre-se de uma fase difícil em que recebeu ajuda, força ou proteção.
 
-Exemplo simples:
-“Alguém me orientou quando eu estava perdido.”
-“Consegui continuar mesmo sem saber o resultado.”
-“Uma porta se abriu quando eu não via caminho.”
+- “Alguém me orientou quando eu estava perdido.”
+- “Consegui continuar mesmo sem saber o resultado.”
+- “Uma porta se abriu quando eu não via caminho.”
 
-5. Que bênção corre o risco de me fazer esquecer a Fonte?
+### 5. Que bênção corre o risco de me fazer esquecer a Fonte?
 
-O que essa pergunta quer dizer:
 Pense em algo bom que está começando a parecer apenas “seu”, sem gratidão ou responsabilidade.
 
-Exemplo simples:
-“Estou tratando meu conhecimento como superioridade.”
-“Recebi estabilidade e diminuí minha prática espiritual.”
-“Estou esquecendo quem colaborou com meu resultado.”
+- “Estou tratando meu conhecimento como superioridade.”
+- “Recebi estabilidade e diminuí minha prática espiritual.”
+- “Estou esquecendo quem colaborou com meu resultado.”
 
-6. Que força limitada estou tratando como absoluta?
+### 6. Que força limitada estou tratando como absoluta?
 
-O que essa pergunta quer dizer:
 Identifique um “ídolo interior”: algo importante, mas que está ocupando espaço exagerado.
 
-Exemplo simples:
-“A opinião dos outros está decidindo meu valor.”
-“Estou tratando dinheiro como se resolvesse tudo.”
-“Quero controlar o futuro para me sentir seguro.”
+- “A opinião dos outros está decidindo meu valor.”
+- “Estou tratando dinheiro como se resolvesse tudo.”
+- “Quero controlar o futuro para me sentir seguro.”
 
-7. Que pequena ligação manterei mesmo se não sentir inspiração?
+### 7. Que pequena ligação manterei mesmo se não sentir inspiração?
 
-O que essa pergunta quer dizer:
 Escolha uma prática sustentável para momentos de frieza ou distração.
 
-Exemplo simples:
-“Vou recitar uma oração curta.”
-“Vou estudar um pequeno trecho.”
-“Vou agradecer por uma coisa concreta.”
-“Vou controlar uma palavra.”
+- “Vou recitar uma oração curta.”
+- “Vou estudar um pequeno trecho.”
+- “Vou agradecer por uma coisa concreta.”
+- “Vou controlar uma palavra.”
 
-8. Onde preciso corrigir sem me humilhar?
+### 8. Onde preciso corrigir sem me humilhar?
 
-O que essa pergunta quer dizer:
 Escolha um erro que precisa de responsabilidade e reparo, mas não de condenação total.
 
-Exemplo simples:
-“Preciso pedir desculpa, não repetir que sou uma pessoa horrível.”
-“Preciso reorganizar minha rotina, não abandonar todo o caminho.”
-“Preciso assumir a consequência sem viver preso à vergonha.”
+- “Preciso pedir desculpa, não repetir que sou uma pessoa horrível.”
+- “Preciso reorganizar minha rotina, não abandonar todo o caminho.”
+- “Preciso assumir a consequência sem viver preso à vergonha.”
 
-9. Que ensinamento transformarei em ação hoje?
+### 9. Que ensinamento transformarei em ação hoje?
 
-O que essa pergunta quer dizer:
 Escolha uma frase da parashá e dê a ela uma forma concreta.
 
-Exemplo simples:
-“‘Lembra-te dos dias antigos’: vou agradecer a quem me ensinou.”
-“‘A Rocha’: não tomarei uma decisão apenas pelo medo.”
-“‘Não é palavra vazia’: vou praticar um ensinamento.”
+- “‘Lembra-te dos dias antigos’: vou agradecer a quem me ensinou.”
+- “‘A Rocha’: não tomarei uma decisão apenas pelo medo.”
+- “‘Não é palavra vazia’: vou praticar um ensinamento.”
 
-10. Qual parte da missão é minha e qual preciso entregar?
+### 10. Qual parte da missão é minha e qual preciso entregar?
 
-O que essa pergunta quer dizer:
 Separe responsabilidade de controle. Faça sua parte sem imaginar que precisa determinar todo o resultado.
 
-Exemplo simples:
-“Minha parte é conversar com verdade; a resposta do outro não está sob meu controle.”
-“Minha parte é estudar; não preciso saber hoje onde isso terminará.”
-“Minha parte é preparar, mesmo que outra pessoa conclua.”
+- “Minha parte é conversar com verdade; a resposta do outro não está sob meu controle.”
+- “Minha parte é estudar; não preciso saber hoje onde isso terminará.”
+- “Minha parte é preparar, mesmo que outra pessoa conclua.”
 
 ---
 
 # 44. Exercício prático da noite
 
-1. Escutei de verdade ou apenas esperei para responder?
+### 1. Escutei de verdade ou apenas esperei para responder?
 
-O que essa pergunta quer dizer:
 Observe se permitiu que uma pessoa, orientação ou situação realmente chegasse até você.
 
-Exemplo de resposta:
-“Ouvi uma crítica sem interromper.”
-“Preparei minha defesa enquanto o outro falava.”
-“Percebi uma verdade que eu estava evitando.”
+- “Ouvi uma crítica sem interromper.”
+- “Preparei minha defesa enquanto o outro falava.”
+- “Percebi uma verdade que eu estava evitando.”
 
-2. Usei chuva ou orvalho na medida correta?
+### 2. Usei chuva ou orvalho na medida correta?
 
-O que essa pergunta quer dizer:
 Veja se foi firme onde precisava de limite e paciente onde precisava de processo.
 
-Exemplo de resposta:
-“Coloquei um limite claro.”
-“Fui duro demais com algo que precisava de tempo.”
-“Usei paciência como desculpa para não agir.”
+- “Coloquei um limite claro.”
+- “Fui duro demais com algo que precisava de tempo.”
+- “Usei paciência como desculpa para não agir.”
 
-3. Onde procurei segurança hoje?
+### 3. Onde procurei segurança hoje?
 
-O que essa pergunta quer dizer:
 Identifique o que funcionou como sua Rocha prática.
 
-Exemplo de resposta:
-“Procurei aprovação o dia inteiro.”
-“Consegui manter meus valores mesmo inseguro.”
-“Tentei controlar tudo para me sentir seguro.”
+- “Procurei aprovação o dia inteiro.”
+- “Consegui manter meus valores mesmo inseguro.”
+- “Tentei controlar tudo para me sentir seguro.”
 
-4. Lembrei de algum cuidado recebido?
+### 4. Lembrei de algum cuidado recebido?
 
-O que essa pergunta quer dizer:
 Veja se sua memória trouxe gratidão ou se viveu como se estivesse completamente sozinho.
 
-Exemplo de resposta:
-“Lembrei de uma ajuda e isso me fortaleceu.”
-“Esqueci de agradecer.”
-“Reconheci que já fui sustentado em momentos difíceis.”
+- “Lembrei de uma ajuda e isso me fortaleceu.”
+- “Esqueci de agradecer.”
+- “Reconheci que já fui sustentado em momentos difíceis.”
 
-5. A bênção me aproximou ou me fez esquecer?
+### 5. A bênção me aproximou ou me fez esquecer?
 
-O que essa pergunta quer dizer:
 Observe como reagiu às coisas boas do dia.
 
-Exemplo de resposta:
-“Agradeci e compartilhei.”
-“Recebi algo bom e imediatamente quis mais.”
-“Meu sucesso alimentou comparação.”
+- “Agradeci e compartilhei.”
+- “Recebi algo bom e imediatamente quis mais.”
+- “Meu sucesso alimentou comparação.”
 
-6. Que ídolo interior tentou governar?
+### 6. Que ídolo interior tentou governar?
 
-O que essa pergunta quer dizer:
 Perceba qual força limitada exigiu confiança absoluta.
 
-Exemplo de resposta:
-“A aprovação governou minhas escolhas.”
-“O medo de perder controle tomou o centro.”
-“Consegui usar o dinheiro como recurso, não como identidade.”
+- “A aprovação governou minhas escolhas.”
+- “O medo de perder controle tomou o centro.”
+- “Consegui usar o dinheiro como recurso, não como identidade.”
 
-7. Mantive alguma ligação durante a frieza?
+### 7. Mantive alguma ligação durante a frieza?
 
-O que essa pergunta quer dizer:
 Veja se permaneceu fiel a uma pequena prática mesmo sem emoção ou entusiasmo.
 
-Exemplo de resposta:
-“Estudei um pouco mesmo sem vontade.”
-“Fiz uma oração curta.”
-“Abandonei tudo porque não senti inspiração.”
-“Pratiquei bondade mesmo estando cansado.”
+- “Estudei um pouco mesmo sem vontade.”
+- “Fiz uma oração curta.”
+- “Abandonei tudo porque não senti inspiração.”
+- “Pratiquei bondade mesmo estando cansado.”
 
-8. Corrigi ou apenas me condenei?
+### 8. Corrigi ou apenas me condenei?
 
-O que essa pergunta quer dizer:
 Observe se sua resposta ao erro produziu reparação ou apenas vergonha.
 
-Exemplo de resposta:
-“Assumi e reparei.”
-“Fiquei me atacando, mas não mudei nada.”
-“Minimizei o erro para não sentir desconforto.”
+- “Assumi e reparei.”
+- “Fiquei me atacando, mas não mudei nada.”
+- “Minimizei o erro para não sentir desconforto.”
 
-9. Que palavra da Torá se tornou vida hoje?
+### 9. Que palavra da Torá se tornou vida hoje?
 
-O que essa pergunta quer dizer:
 Procure uma ação em que um ensinamento realmente apareceu.
 
-Exemplo de resposta:
-“Lembrei da Rocha e não reagi pelo medo.”
-“Transformei gratidão em mensagem para alguém.”
-“Evitei uma fala porque quis manter a ligação.”
+- “Lembrei da Rocha e não reagi pelo medo.”
+- “Transformei gratidão em mensagem para alguém.”
+- “Evitei uma fala porque quis manter a ligação.”
 
-10. Aceitei algum limite da minha missão?
+### 10. Aceitei algum limite da minha missão?
 
-O que essa pergunta quer dizer:
 Veja se conseguiu fazer sua parte e soltar aquilo que não controla.
 
-Exemplo de resposta:
-“Falei com verdade e deixei o outro responder no tempo dele.”
-“Tentei controlar o resultado.”
-“Reconheci que outra pessoa continuará uma tarefa que comecei.”
+- “Falei com verdade e deixei o outro responder no tempo dele.”
+- “Tentei controlar o resultado.”
+- “Reconheci que outra pessoa continuará uma tarefa que comecei.”
 
-11. Onde percebi ocultamento e como respondi?
+### 11. Onde percebi ocultamento e como respondi?
 
-O que essa pergunta quer dizer:
 Observe um momento de distância, confusão ou falta de sentido e veja o que fez.
 
-Exemplo de resposta:
-“Senti frieza, mas mantive uma oração curta.”
-“Transformei a distância em desistência.”
-“Pedi ajuda em vez de me isolar.”
+- “Senti frieza, mas mantive uma oração curta.”
+- “Transformei a distância em desistência.”
+- “Pedi ajuda em vez de me isolar.”
 
-12. Que nota do meu dia ainda não compreendo?
+### 12. Que nota do meu dia ainda não compreendo?
 
-O que essa pergunta quer dizer:
 Reconheça algo confuso sem forçar uma explicação imediata. Essa parte pode ainda não revelar seu lugar na canção.
 
-Exemplo simples:
-“Não entendo por que essa conversa aconteceu assim.”
-“Ainda não sei o sentido desta espera.”
-“Posso registrar a pergunta sem inventar uma resposta.”
+- “Não entendo por que essa conversa aconteceu assim.”
+- “Ainda não sei o sentido desta espera.”
+- “Posso registrar a pergunta sem inventar uma resposta.”
 
 ---
 
-# 45. Versão curta para usar todos os dias
-
-## Pela manhã
-
-**1. O que preciso escutar?**
-Que verdade ou orientação estou evitando?
-
-**2. Preciso de chuva ou orvalho?**
-Limite firme ou prática gradual?
-
-**3. Qual é minha Rocha?**
-Onde colocarei minha segurança?
-
-**4. Que cuidado preciso recordar?**
-Onde fui sustentado no deserto?
-
-**5. Que bênção pode gerar esquecimento?**
-Onde preciso praticar gratidão?
-
-**6. Que ídolo interior preciso recolocar no lugar?**
-O que está governando demais?
-
-**7. Que ligação pequena manterei?**
-O que farei mesmo sem inspiração?
-
-**8. O que precisa de correção sem humilhação?**
-Que erro pede reparo, não condenação?
-
-**9. Que palavra virará ação?**
-Qual ensinamento praticarei?
-
-**10. Qual é minha parte?**
-O que devo fazer e o que preciso entregar?
-
-## À noite
-
-**1. Escutei de verdade?**
-Compreendi antes de responder?
-
-**2. Usei a medida correta?**
-Fui firme ou paciente no lugar certo?
-
-**3. Onde busquei segurança?**
-O que funcionou como minha Rocha?
-
-**4. Lembrei do cuidado recebido?**
-Minha memória trouxe gratidão?
-
-**5. A bênção aproximou ou afastou?**
-Recebi com consciência?
-
-**6. Que ídolo tentou governar?**
-Aprovação, dinheiro, controle ou imagem?
-
-**7. Mantive ligação na frieza?**
-Fui fiel a uma pequena prática?
-
-**8. Corrigi ou me condenei?**
-Minha resposta ao erro gerou reparação?
-
-**9. Que palavra virou vida?**
-Onde a Torá apareceu na ação?
-
-**10. Aceitei meus limites?**
-Fiz minha parte sem controlar tudo?
-
-**11. Como respondi ao ocultamento?**
-Mantive algum ponto de ligação?
-
-**12. Que nota ainda não compreendo?**
-Que pergunta posso entregar sem resposta imediata?
-
----
-
-# 46. Frase-chave da semana
+# 45. Frase-chave da semana
 
 **“Dai ouvidos”: escute sua história até reconhecer nela a Rocha, o esquecimento e o caminho de retorno.**
 
@@ -1300,4 +1157,3 @@ Do ponto de vista da cabalá, esta semana pede um trabalho de **memória e unifi
 A grande pergunta de Ha’azinu é:
 
 **ao escutar a canção inteira da minha vida, consigo reconhecer onde esqueci a Fonte e qual pequeno movimento pode me fazer retornar?**
--->
