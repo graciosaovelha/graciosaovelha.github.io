@@ -214,25 +214,23 @@ Quando observamos apenas os Kelim quebrados, vemos oposição. Quando ascendemos
 
 Não existem dois poderes.
 
-<!-----
+---
 
 # Devarim 32:5
 
-## “Shichet lo, lo banav mumam...”
+> “Shichet lo, lo banav mumam...”  
 
-## Peshat
+### Peshat
 
 A corrupção pertence aos filhos rebeldes, e não a Deus.
 
 A deformidade moral não procede da perfeição do Criador, mas da resposta humana.
 
-## Sod
+### Sod
 
 Aqui aparece o problema cabalístico do recipiente.
 
-A luz, em sua raiz, é una.
-
-A diferença encontra-se na maneira como é recebida.
+A luz, em sua raiz, é una, a diferença encontra-se na maneira como é recebida.
 
 Isso é fundamental para compreender as *kelipot*.
 
@@ -240,10 +238,10 @@ A kelipah não possui existência autônoma diante de Deus. Ela recebe vitalidad
 
 Um mesmo *shefa* pode ser usado para:
 
-generosidade ou arrogância,
-sabedoria ou manipulação,
-riqueza ou exploração,
-poder ou serviço.
+- generosidade ou arrogância,
+- sabedoria ou manipulação,
+- riqueza ou exploração,
+- poder ou serviço.
 
 O defeito está no **Kli**, isto é, no recipiente que distorce a finalidade da energia recebida.
 
@@ -251,11 +249,10 @@ O defeito está no **Kli**, isto é, no recipiente que distorce a finalidade da 
 
 # Devarim 32:6
 
-## “Ha-l’YHWH tigmelu zot, am naval velo chacham?”
+> “Ha-l’YHWH tigmelu zot, am naval velo chacham?”  
+> **“É assim que retribuís a YHWH, povo insensato e sem sabedoria?”**
 
-**“É assim que retribuís a YHWH, povo insensato e sem sabedoria?”**
-
-## Peshat
+### Peshat
 
 Israel responde à bondade divina com ingratidão.
 
@@ -263,64 +260,44 @@ Moshe recorda:
 
 > “Não é Ele teu Pai, que te adquiriu? Ele te fez e estabeleceu.”
 
-## Sod
+### Sod
 
 O pecado fundamental descrito aqui é **esquecer a raiz**.
 
-Na Cabalá, toda realidade criada existe por recepção.
-
-Nenhuma Sefirá inferior produz independentemente sua própria luz.
+Na Cabalá, toda realidade criada existe por recepção. Nenhuma Sefirá inferior produz independentemente sua própria luz.
 
 Malchut é perfeita justamente quando reconhece sua condição de recipiente e transforma a recepção em manifestação do superior.
 
-Quando o receptor pensa:
-
-> “Isto começa em mim.”
-
-ocorre separação.
+Quando o receptor pensa: “Isto começa em mim.”, ocorre separação.
 
 É a raiz espiritual do ego.
 
-A pergunta de Moshe é, então:
-
-Como pode o recipiente esquecer o Doador?
+A pergunta de Moshe é, então: Como pode o recipiente esquecer o Doador?
 
 ---
 
 # Devarim 32:7
 
-## “Zechor yemot olam; binu shenot dor vador...”
+> “Zechor yemot olam; binu shenot dor vador...”  
+> **“Recorda os dias antigos; compreende os anos de geração após geração.”**
 
-**“Recorda os dias antigos; compreende os anos de geração após geração.”**
-
-## Peshat
+### Peshat
 
 Israel deve estudar sua história.
 
 A experiência das gerações anteriores possui significado espiritual.
 
-## Sod
+### Sod
 
-Existem aqui dois verbos diferentes:
-
-**Zechor — lembra.**
-**Binu — compreende.**
+Existem aqui dois verbos diferentes: **Zechor — lembra** e **Binu — compreende**.
 
 “Binu” aproxima-se linguisticamente de **Binah**, entendimento.
 
-Memória espiritual não consiste apenas em armazenar fatos.
-
-É necessário **elevar a memória até Binah**, discernindo o padrão escondido nos acontecimentos.
+Memória espiritual não consiste apenas em armazenar fatos, é necessário **elevar a memória até Binah**, discernindo o padrão escondido nos acontecimentos.
 
 A história torna-se Torah.
 
-Uma pessoa espiritualmente desperta pergunta não apenas:
-
-> “O que aconteceu comigo?”
-
-mas:
-
-> “Que estrutura está se repetindo?”
+Uma pessoa espiritualmente desperta pergunta não apenas: “O que aconteceu comigo?”, mas: “Que estrutura está se repetindo?”.
 
 Esse movimento transforma memória em *tikkun*.
 
@@ -328,17 +305,16 @@ Esse movimento transforma memória em *tikkun*.
 
 # Devarim 32:8
 
-## “Behanchel Elyon goyim... yatzev gevulot amim lemispar benei Yisrael.”
+> “Behanchel Elyon goyim... yatzev gevulot amim lemispar benei Yisrael.”  
+> **“Quando o Altíssimo deu às nações sua herança... estabeleceu os limites dos povos segundo o número dos filhos de Israel.”**
 
-**“Quando o Altíssimo deu às nações sua herança... estabeleceu os limites dos povos segundo o número dos filhos de Israel.”**
-
-## Peshat
+### Peshat
 
 A Torah apresenta a distribuição das nações dentro da providência divina.
 
 Israel ocupa uma posição particular nessa organização.
 
-## Sod
+### Sod
 
 A tradição judaica frequentemente fala de **setenta nações**, paralelas às setenta raízes coletivas da humanidade.
 
@@ -352,61 +328,49 @@ Israel é descrito, no versículo seguinte, como pertencendo diretamente à por�
 
 A mensagem esotérica é a diferenciação dos canais de providência.
 
-Todos recebem do Uno.
-
-Mas os caminhos pelos quais o *shefa* se particulariza não são idênticos.
+Todos recebem do Uno, mas os caminhos pelos quais o *shefa* se particulariza não são idênticos.
 
 ---
 
 # Devarim 32:9
 
-## “Ki chelek YHWH amo; Yaakov chevel nachalato.”
+> “Ki chelek YHWH amo; Yaakov chevel nachalato.”  
+> **“Pois a porção de YHWH é Seu povo; Yaakov é o cordão de Sua herança.”**
 
-**“Pois a porção de YHWH é Seu povo; Yaakov é o cordão de Sua herança.”**
-
-## Peshat
+### Peshat
 
 Israel pertence especialmente à aliança divina.
 
-## Sod
+### Sod
 
-A palavra extraordinária aqui é:
-
-> **Chevel — corda, cordão.**
+A palavra extraordinária aqui é: **Chevel — corda, cordão.**
 
 A imagem sugere uma ligação entre alto e baixo.
 
 A alma funciona como um “cordão” pelo qual a vida superior se prolonga até o mundo inferior.
 
-No modelo cabalístico, isso recorda a cadeia:
-
-**Atzilut → Beriah → Yetzirah → Assiyah.**
+No modelo cabalístico, isso recorda a cadeia: **Atzilut → Beriah → Yetzirah → Assiyah.**
 
 A existência humana ocupa o nível inferior, mas sua raiz está acima.
 
-O verdadeiro drama do pecado não é “irritar um Deus distante”.
-
-É produzir uma perturbação na relação entre **raiz e ramo**.
+O verdadeiro drama do pecado não é “irritar um Deus distante”, é produzir uma perturbação na relação entre **raiz e ramo**.
 
 ---
 
 # Devarim 32:10
 
-## “Yimtza’ehu be’eretz midbar, uvetohu yelel yeshimon...”
+> “Yimtza’ehu be’eretz midbar, uvetohu yelel yeshimon...”  
+> **“Encontrou-o numa terra desértica, num vazio de desolação...”**
 
-**“Encontrou-o numa terra desértica, num vazio de desolação...”**
-
-## Peshat
+### Peshat
 
 A referência imediata é ao deserto pelo qual Israel foi conduzido.
 
 Deus cercou, instruiu e protegeu o povo.
 
-## Sod
+### Sod
 
-A Torah emprega a palavra:
-
-> **Tohu.**
+A Torah emprega a palavra **Tohu**.
 
 Ela recorda imediatamente Bereshit:
 
@@ -416,37 +380,26 @@ O deserto torna-se, portanto, uma imagem de realidade ainda não organizada.
 
 Na Cabalá lurianista, **Olam HaTohu** está associado a luzes intensas e recipientes incapazes de integrar adequadamente essas forças.
 
-O deserto de Ha’azinu pode assim ser lido como a condição interior do ser humano antes do *tikkun*:
+O deserto de Ha’azinu pode assim ser lido como a condição interior do ser humano antes do *tikkun*: energia existe, desejo existe, potencial existe, mas não existe ainda integração.
 
-energia existe,
-desejo existe,
-potencial existe,
-
-mas não existe ainda integração.
-
-Deus “cerca”, “instrui” e “guarda”.
-
-Isto é: transforma **tohu em tikkun**.
+Deus “cerca”, “instrui” e “guarda”. Isto é: transforma **tohu em tikkun**.
 
 ---
 
 # Devarim 32:11
 
-## “Kenesher ya’ir kino... yifros kenafav yikachehu...”
+> “Kenesher ya’ir kino... yifros kenafav yikachehu...”  
+> **“Como a águia desperta seu ninho... estende suas asas e toma seus filhotes...”**
 
-**“Como a águia desperta seu ninho... estende suas asas e toma seus filhotes...”**
-
-## Peshat
+### Peshat
 
 Deus conduz Israel cuidadosamente, como a águia protege seus filhotes.
 
-## Sod
+### Sod
 
 A imagem das **asas** possui enorme força mística.
 
-As asas ocultam e revelam ao mesmo tempo.
-
-Elas protegem o inferior da intensidade do superior.
+As asas ocultam e revelam ao mesmo tempo. Elas protegem o inferior da intensidade do superior.
 
 Essa é precisamente uma das funções dos **levushim**, “vestimentas” espirituais.
 
@@ -454,12 +407,7 @@ Uma revelação totalmente sem vestimenta poderia ultrapassar a capacidade do re
 
 Por isso Deus não simplesmente “arranca” Israel do ninho.
 
-A águia:
-
-desperta,
-paira,
-abre as asas,
-recebe.
+A águia desperta, paira, abre as asas, recebe.
 
 Esse é um modelo de transformação espiritual.
 
@@ -469,15 +417,14 @@ O verdadeiro Mestre desperta o recipiente sem destruí-lo.
 
 # Devarim 32:12
 
-## “YHWH badad yanchenu; ve’ein imo el nechar.”
+> “YHWH badad yanchenu; ve’ein imo el nechar.”  
+> **“YHWH sozinho o conduziu, e nenhum deus estranho estava com Ele.”**
 
-**“YHWH sozinho o conduziu, e nenhum deus estranho estava com Ele.”**
-
-## Peshat
+### Peshat
 
 A libertação e a condução de Israel não são atribuídas a outras divindades.
 
-## Sod
+### Sod
 
 Este é um dos pilares monoteístas do cântico.
 
@@ -487,62 +434,48 @@ Mesmo quando a Cabalá fala de anjos, Sefirot, Partzufim ou mundos, jamais cria 
 
 > **“YHWH badad” — YHWH sozinho.**
 
-Toda multiplicidade existe dentro da Unidade.
-
-Quanto mais elevada a compreensão cabalística, menos dualista ela se torna.
+Toda multiplicidade existe dentro da Unidade. Quanto mais elevada a compreensão cabalística, menos dualista ela se torna.
 
 ---
 
 # Devarim 32:13
 
-## “Yarkivehu al bamotei aretz...”
+> “Yarkivehu al bamotei aretz...”  
+> **“Fê-lo cavalgar sobre as alturas da terra...”**
 
-**“Fê-lo cavalgar sobre as alturas da terra...”**
-
-## Peshat
+### Peshat
 
 Israel recebe domínio, produção agrícola e prosperidade.
 
 Do rochedo vêm mel e óleo.
 
-## Sod
+### Sod
 
-Encontramos um paradoxo místico:
-
-> mel da rocha,
-> óleo da pedra.
-
-Aquilo que aparentemente é rígido contém doçura e unção.
+Encontramos um paradoxo místico: mel da rocha, óleo da pedra. Aquilo que aparentemente é rígido contém doçura e unção.
 
 Esse é um grande princípio de *hamtakat ha-dinim* — **adoçamento dos julgamentos**.
 
 A “pedra”, símbolo de rigidez e Din, pode esconder óleo.
 
-O objetivo espiritual não é simplesmente eliminar Gevurah.
-
-É revelar a Chesed escondida dentro dela.
+O objetivo espiritual não é simplesmente eliminar Gevurah, é revelar a Chesed escondida dentro dela.
 
 ---
 
 # Devarim 32:14
 
-## “Chem’at bakar vachalev tzon...”
+> “Chem’at bakar vachalev tzon...”
 
-## Peshat
+### Peshat
 
 O versículo descreve a abundância recebida: manteiga, leite, gordura, trigo e vinho.
 
-## Sod
+### Sod
 
 A enumeração representa uma plenitude de *shefa*.
 
-Mas existe um perigo.
+Mas existe um perigo. Quanto maior o fluxo, maior precisa ser o recipiente.
 
-Quanto maior o fluxo, maior precisa ser o recipiente.
-
-A Cabalá não ensina que abundância material seja intrinsecamente impura.
-
-O problema começa quando a bênção deixa de apontar para sua Fonte.
+A Cabalá não ensina que abundância material seja intrinsecamente impura. O problema começa quando a bênção deixa de apontar para sua Fonte.
 
 O versículo seguinte mostrará exatamente esse colapso.
 
@@ -550,95 +483,70 @@ O versículo seguinte mostrará exatamente esse colapso.
 
 # Devarim 32:15
 
-## “Vayishman Yeshurun vayiv’at... vayitosh Eloah asahu.”
+> “Vayishman Yeshurun vayiv’at... vayitosh Eloah asahu.”  
+> **“Yeshurun engordou e recalcitrou... abandonou o Deus que o fez.”**
 
-**“Yeshurun engordou e recalcitrou... abandonou o Deus que o fez.”**
-
-## Peshat
+### Peshat
 
 A prosperidade produz complacência.
 
 Israel, satisfeito, esquece Deus.
 
-## Sod
+### Sod
 
 Este é um dos versículos mais importantes para compreender a dinâmica das *kelipot*.
 
-A abundância desce para produzir santidade.
-
-Mas o recipiente apropria-se dela.
+A abundância desce para produzir santidade, mas o recipiente apropria-se dela.
 
 O *shefa* deixa de ser percebido como fluxo e passa a ser percebido como propriedade do ego.
 
-O mecanismo é:
+O mecanismo é: **receber → esquecer a Fonte → apropriar-se → separar-se → alimentar as exterioridades**.
 
-**receber → esquecer a Fonte → apropriar-se → separar-se → alimentar as exterioridades.**
+Na linguagem lurianista, a energia divina pode descer e ser capturada por estruturas que a utilizam para sustentar separação. Isso é o que significa espiritualmente “engordar e recalcitrar”.
 
-Na linguagem lurianista, a energia divina pode descer e ser capturada por estruturas que a utilizam para sustentar separação.
-
-Isso é o que significa espiritualmente “engordar e recalcitrar”.
-
-O problema não é a abundância.
-
-É a abundância sem *bitul*, sem autoanulação diante da Fonte.
+O problema não é a abundância, é a abundância sem *bitul*, sem autoanulação diante da Fonte.
 
 ---
 
 # Devarim 32:16
 
-## “Yakniuhu bezarim; beto’evot yach’isuhu.”
+> “Yakniuhu bezarim; beto’evot yach’isuhu.”  
+> **“Provocaram-No com estranhos; com abominações causaram indignação.”**
 
-**“Provocaram-No com estranhos; com abominações causaram indignação.”**
-
-## Peshat
+### Peshat
 
 Israel volta-se à idolatria.
 
-## Sod
+### Sod
 
 “Estranho” significa aquilo que foi separado de sua raiz.
 
-Na Cabalá, a *Sitra Achra*, o “Outro Lado”, não é outro Deus.
+Na Cabalá, a *Sitra Achra*, o “Outro Lado”, não é outro Deus, é precisamente a experiência de uma realidade que se percebe **como se estivesse fora da Unidade**.
 
-É precisamente a experiência de uma realidade que se percebe **como se estivesse fora da Unidade**.
+A idolatria interior começa quando algo relativo é transformado em absoluto: dinheiro, poder, desejo, ideologia, imagem própria.
 
-A idolatria interior começa quando algo relativo é transformado em absoluto:
-
-dinheiro,
-poder,
-desejo,
-ideologia,
-imagem própria.
-
-É possível abandonar Deus sem pronunciar o nome de outro deus.
-
-Basta atribuir independência absoluta a algo criado.
+É possível abandonar Deus sem pronunciar o nome de outro deus, basta atribuir independência absoluta a algo criado.
 
 ---
 
 # Devarim 32:17
 
-## “Yizbechu lashedim lo Eloah...”
+> “Yizbechu lashedim lo Eloah...”  
+> **“Sacrificaram a demônios que não são Deus...”**
 
-**“Sacrificaram a demônios que não são Deus...”**
-
-## Peshat
+### Peshat
 
 O versículo condena cultos idólatras e forças estranhas.
 
-## Sod
+### Sod
 
 A tradição cabalística reconhece categorias de forças chamadas *shedim* e *chitzonim*, mas elas jamais são poderes equivalentes a Deus.
 
-O princípio é mais profundo:
-
-> aquilo que recebe atenção, desejo e ação humana recebe alimentação espiritual.
+O princípio é mais profundo: aquilo que recebe atenção, desejo e ação humana recebe alimentação espiritual.
 
 Sacrificar às *kelipot* significa transferir a força da consciência para estruturas de separação.
 
-Cada ato possui uma direção.
-
-Ou reconduz centelhas à santidade, ou reforça seu aprisionamento.
+Cada ato possui uma direção: Ou reconduz centelhas à santidade, ou reforça seu aprisionamento.
 
 Essa é uma forma de compreender o **birur** lurianista.
 
@@ -646,143 +554,110 @@ Essa é uma forma de compreender o **birur** lurianista.
 
 # Devarim 32:18
 
-## “Tzur yeladcha teshi; vatishkach El mecholelecha.”
+> “Tzur yeladcha teshi; vatishkach El mecholelecha.”  
+> **“Esqueceste a Rocha que te gerou e esqueceste o Deus que te formou.”**
 
-**“Esqueceste a Rocha que te gerou e esqueceste o Deus que te formou.”**
-
-## Peshat
+### Peshat
 
 Israel esquece o Criador que lhe deu existência.
 
-## Sod
+### Sod
 
-Há uma imagem surpreendentemente maternal:
+Há uma imagem surpreendentemente maternal: **“Tzur yeladcha” — a Rocha que te deu nascimento.**
 
-> **“Tzur yeladcha” — a Rocha que te deu nascimento.**
-
-A “Rocha” não aparece apenas como dureza, mas como matriz de geração.
-
-Isso impede uma leitura simplista das polaridades masculino/feminino na Cabalá.
+A “Rocha” não aparece apenas como dureza, mas como matriz de geração. Isso impede uma leitura simplista das polaridades masculino/feminino na Cabalá.
 
 A Fonte divina transcende todas essas categorias, ainda que elas sejam usadas simbolicamente nas Sefirot.
 
-O pecado fundamental novamente é **shichechah — esquecimento**.
-
-Esquecer a Fonte significa perder a consciência da continuidade entre superior e inferior.
+O pecado fundamental novamente é **shichechah — esquecimento**. Esquecer a Fonte significa perder a consciência da continuidade entre superior e inferior.
 
 ---
 
 # Devarim 32:19
 
-## “Vayar YHWH vayin’atz...”
+> “Vayar YHWH vayin’atz...”  
+> **“YHWH viu e rejeitou, por causa da provocação de Seus filhos e filhas.”**
 
-**“YHWH viu e rejeitou, por causa da provocação de Seus filhos e filhas.”**
-
-## Peshat
+### Peshat
 
 A infidelidade gera julgamento.
 
-## Sod
+### Sod
 
 O texto inicia a transição de **panim** para **achorayim**.
 
-Quando existe alinhamento, a relação é de “Face”.
-
-Quando existe separação, o fluxo continua existindo, mas de maneira escondida, indireta.
+Quando existe alinhamento, a relação é de “Face”. Quando existe separação, o fluxo continua existindo, mas de maneira escondida, indireta.
 
 A Cabalá chama esse estado simbolicamente de **achorayim — costas**.
 
-Deus não deixa de sustentar a criação.
-
-Mas a criação deixa de experimentar diretamente Sua Face.
+Deus não deixa de sustentar a criação, Mas a criação deixa de experimentar diretamente Sua Face.
 
 ---
 
 # Devarim 32:20
 
-## “Astirah fanai mehem...”
+> “Astirah fanai mehem...”  
+> **“Esconderei Minha Face deles.”**
 
-**“Esconderei Minha Face deles.”**
-
-## Peshat
+### Peshat
 
 Deus permitirá que Israel experimente as consequências de sua infidelidade.
 
-## Sod — Hester Panim
+### Sod — Hester Panim
 
-Este é um dos conceitos centrais de Ha’azinu:
+Este é um dos conceitos centrais de Ha’azinu: **הסתר פנים — Hester Panim — ocultamento da Face**.
 
-**הסתר פנים — Hester Panim — ocultamento da Face.**
-
-Não significa ausência de Deus.
-
-Se Deus estivesse realmente ausente, nada poderia existir.
+Não significa ausência de Deus. Se Deus estivesse realmente ausente, nada poderia existir.
 
 A ocultação significa que a presença permanece sustentando a realidade, porém não é percebida de maneira direta.
 
 Na Cabalá lurianista isso encontra forte analogia com a lógica do **Tzimtzum**.
 
-O Tzimtzum não deve ser imaginado ingenuamente como Deus “saindo de um lugar”.
+O Tzimtzum não deve ser imaginado ingenuamente como Deus “saindo de um lugar”, é uma linguagem para explicar como a infinitude pode tornar possível um domínio no qual a criatura experimente aparente independência.
 
-É uma linguagem para explicar como a infinitude pode tornar possível um domínio no qual a criatura experimente aparente independência.
-
-Da mesma maneira:
-
-**Hester Panim é presença sob ocultação.**
+Da mesma maneira: **Hester Panim é presença sob ocultação**.
 
 ---
 
 # Devarim 32:21
 
-## “Hem kin’uni velo-El... va’ani akni’em belo-am.”
+> “Hem kin’uni velo-El... va’ani akni’em belo-am.”
+> **“Eles Me provocaram com aquilo que não é deus... e Eu os provocarei por meio de um não-povo.”**
 
-**“Eles Me provocaram com aquilo que não é deus... e Eu os provocarei por meio de um não-povo.”**
-
-## Peshat
+### Peshat
 
 Existe uma correspondência entre a ação de Israel e a resposta histórica que recebe.
 
-## Sod
+### Sod
 
 O princípio é **midah keneged midah**, medida por medida.
 
-Israel atribui realidade absoluta ao que não possui realidade independente.
+Israel atribui realidade absoluta ao que não possui realidade independente. Como consequência, enfrenta forças que parecem possuir autonomia.
 
-Como consequência, enfrenta forças que parecem possuir autonomia.
+A percepção exterior torna-se um espelho da desordem interior. 
 
-A percepção exterior torna-se um espelho da desordem interior.
-
-Isso é profundamente cabalístico:
-
-**a realidade inferior reflete configurações espirituais superiores e interiores.**
+Isso é profundamente cabalístico, **a realidade inferior reflete configurações espirituais superiores e interiores**.
 
 ---
 
 # Devarim 32:22
 
-## “Ki esh kadchah ve’api...”
+> “Ki esh kadchah ve’api...”
+> **“Pois um fogo se acendeu em Minha ira e arderá até as profundezas...”**
 
-**“Pois um fogo se acendeu em Minha ira e arderá até as profundezas...”**
-
-## Peshat
+### Peshat
 
 Imagem da intensidade do julgamento divino.
 
-## Sod
+### Sod
 
 **Fogo** corresponde frequentemente à linha da **Gevurah**.
 
-Água expande.
+Água expande, fogo restringe, consome e separa.
 
-Fogo restringe, consome e separa.
+Mas Gevurah não é mal. Sem Gevurah, Chesed seria expansão sem limite.
 
-Mas Gevurah não é mal.
-
-Sem Gevurah, Chesed seria expansão sem limite.
-
-O problema aparece quando Gevurah se encontra desligada da harmonização de Tiferet.
-
-Então os **dinim**, julgamentos, tornam-se severos.
+O problema aparece quando Gevurah se encontra desligada da harmonização de Tiferet. Então os **dinim**, julgamentos, tornam-se severos.
 
 A restauração exige não destruir Gevurah, mas **adoçá-la em sua raiz**.
 
@@ -790,23 +665,20 @@ A restauração exige não destruir Gevurah, mas **adoçá-la em sua raiz**.
 
 # Devarim 32:23
 
-## “Aspeh aleimo ra’ot; chitzai achaleh bam.”
+> “Aspeh aleimo ra’ot; chitzai achaleh bam.”  
+> **“Acumularei males sobre eles; Minhas flechas consumirei contra eles.”**
 
-**“Acumularei males sobre eles; Minhas flechas consumirei contra eles.”**
-
-## Peshat
+### Peshat
 
 As “flechas” representam calamidades.
 
-## Sod
+### Sod
 
 Uma flecha é força concentrada dirigida a um ponto.
 
 Cabalisticamente, a imagem pode representar um **Din canalizado**.
 
-Nada no cântico é caótico.
-
-Até o julgamento possui medida e direção.
+Nada no cântico é caótico. Até o julgamento possui medida e direção.
 
 Esse é o significado profundo de 32:4:
 
@@ -818,65 +690,46 @@ Mesmo quando a criatura percebe fragmentação, a raiz do processo permanece ord
 
 # Devarim 32:24
 
-## “Mezei ra’av, ulechumei reshef...”
+> “Mezei ra’av, ulechumei reshef...”
 
-## Peshat
+### Peshat
 
 Fome, peste e outros males atingem o povo.
 
-## Sod
+### Sod
 
-A fome é particularmente significativa.
+A fome é particularmente significativa, pois ela representa ausência de *shefa* no recipiente.
 
-Ela representa ausência de *shefa* no recipiente.
-
-Na realidade espiritual, a alma pode possuir muitas coisas e ainda assim estar faminta.
-
-Por quê?
+Na realidade espiritual, a alma pode possuir muitas coisas e ainda assim estar faminta. Por quê?
 
 Porque quantidade de energia não substitui conexão com a Fonte.
 
-Uma civilização pode ter:
-
-riqueza,
-informação,
-tecnologia,
-poder,
-
-e ainda sofrer fome espiritual.
+Uma civilização pode ter riqueza, informação, tecnologia, poder e ainda sofrer fome espiritual.
 
 ---
 
 # Devarim 32:25
 
-## “Michutz teshakel cherev, umechadarim eimah.”
+> “Michutz teshakel cherev, umechadarim eimah.”
+> **“Por fora a espada tirará filhos; por dentro haverá terror.”**
 
-**“Por fora a espada tirará filhos; por dentro haverá terror.”**
-
-## Peshat
+### Peshat
 
 O sofrimento ocorre tanto exterior quanto interiormente.
 
-## Sod
+### Sod
 
-O versículo apresenta:
-
-**Chutz — exterior.**
-**Chadarim — câmaras interiores.**
+O versículo apresenta: **Chutz — exterior** e **Chadarim — câmaras interiores**.
 
 O colapso espiritual também possui essas duas dimensões.
 
-Existe ameaça exterior.
-
-Mas existe igualmente fragmentação interior.
+Existe ameaça exterior, mas existe igualmente fragmentação interior.
 
 A tradição cabalística considera o interior e o exterior interdependentes.
 
-O *tikkun* verdadeiro não se limita a derrotar um inimigo externo.
+O *tikkun* verdadeiro não se limita a derrotar um inimigo externo, precisa reparar também o **cheder**, a câmara da consciência.
 
-Precisa reparar também o **cheder**, a câmara da consciência.
-
----
+<!-----
 
 # Devarim 32:26
 
