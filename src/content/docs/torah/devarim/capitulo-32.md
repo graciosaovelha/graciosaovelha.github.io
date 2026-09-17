@@ -729,19 +729,18 @@ A tradição cabalística considera o interior e o exterior interdependentes.
 
 O *tikkun* verdadeiro não se limita a derrotar um inimigo externo, precisa reparar também o **cheder**, a câmara da consciência.
 
-<!-----
+---
 
 # Devarim 32:26
 
-## “Amarti af’eihem; ashbitah me’enosh zichram.”
+> “Amarti af’eihem; ashbitah me’enosh zichram.”  
+> **“Eu disse: dispersá-los-ei; faria cessar sua memória entre os homens.”**
 
-**“Eu disse: dispersá-los-ei; faria cessar sua memória entre os homens.”**
-
-## Peshat
+### Peshat
 
 A destruição total aparece como possibilidade do julgamento.
 
-## Sod
+### Sod
 
 A dispersão física representa a dispersão das centelhas.
 
@@ -751,9 +750,7 @@ Partes que deveriam integrar uma unidade encontram-se afastadas.
 
 O exílio histórico de Israel torna-se, na literatura cabalística posterior, imagem e instrumento de um processo de **birur**.
 
-As centelhas encontram-se dispersas.
-
-O povo igualmente se dispersa.
+As centelhas encontram-se dispersas. O povo igualmente se dispersa.
 
 A reunião das centelhas acompanha a reunião da consciência.
 
@@ -761,19 +758,17 @@ A reunião das centelhas acompanha a reunião da consciência.
 
 # Devarim 32:27
 
-## “Lulei ka’as oyev agur...”
+> “Lulei ka’as oyev agur...”
 
-## Peshat
+### Peshat
 
 Deus não permite a destruição completa, para que os inimigos não concluam que sua própria força venceu Israel independentemente de Deus.
 
-## Sod
+### Sod
 
 Aqui a misericórdia já começa a aparecer dentro do julgamento.
 
-Se a ocultação fosse absoluta, produziria uma mentira metafísica:
-
-> pareceria que existem poderes independentes de Deus.
+Se a ocultação fosse absoluta, produziria uma mentira metafísica, pareceria que existem poderes independentes de Deus.
 
 A preservação de Israel preserva também o testemunho da Unidade.
 
@@ -783,28 +778,23 @@ O *tikkun* começa quando o julgamento encontra seu próprio limite.
 
 # Devarim 32:28
 
-## “Ki goy ovad etzot hemah; ve’ein bahem tevunah.”
+> “Ki goy ovad etzot hemah; ve’ein bahem tevunah.”
+> **“Pois são uma nação sem conselho e não há neles entendimento.”**
 
-**“Pois são uma nação sem conselho e não há neles entendimento.”**
-
-## Peshat
+### Peshat
 
 Falta discernimento espiritual.
 
-## Sod
+### Sod
 
 Novamente aparece a ideia de **Tevunah**, ligada semanticamente a Binah.
 
-A raiz do problema não é falta de dados.
+A raiz do problema não é falta de dados, é falta de capacidade de relacioná-los à origem e ao fim.
 
-É falta de capacidade de relacioná-los à origem e ao fim.
+Binah vê desenvolvimento. Ela pergunta:
 
-Binah vê desenvolvimento.
-
-Ela pergunta:
-
-> De onde veio isto?
-> Para onde isto leva?
+- De onde veio isto?
+- Para onde isto leva?
 
 Sem Binah, a pessoa vive apenas no instante do desejo.
 
@@ -812,31 +802,26 @@ Sem Binah, a pessoa vive apenas no instante do desejo.
 
 # Devarim 32:29
 
-## “Lu chachmu yaskilu zot; yavinu le’acharitam.”
+> “Lu chachmu yaskilu zot; yavinu le’acharitam.”  
+> **“Quem dera fossem sábios e compreendessem isto; discerniriam seu fim.”**
 
-**“Quem dera fossem sábios e compreendessem isto; discerniriam seu fim.”**
-
-## Peshat
+### Peshat
 
 A verdadeira sabedoria consiste em compreender as consequências.
 
-## Sod
+### Sod
 
 O texto reúne níveis cognitivos:
 
-**Chochmah — sabedoria.**
-**Haskalah — percepção.**
-**Binah — entendimento.**
+- **Chochmah — sabedoria.**
+- **Haskalah — percepção.**
+- **Binah — entendimento.**
 
-E tudo converge para:
-
-> **Acharit — o fim.**
+E tudo converge para: **Acharit — o fim**.
 
 A Cabalá pensa constantemente em termos de raiz e finalidade.
 
-Conhecer uma coisa não é apenas saber sua aparência presente.
-
-É perceber sua raiz e seu destino.
+Conhecer uma coisa não é apenas saber sua aparência presente, é perceber sua raiz e seu destino.
 
 A verdadeira Chochmah enxerga o resultado contido na semente.
 
@@ -844,41 +829,33 @@ A verdadeira Chochmah enxerga o resultado contido na semente.
 
 # Devarim 32:30
 
-## “Eichah yirdof echad elef, ushenayim yanisu revavah...”
+> “Eichah yirdof echad elef, ushenayim yanisu revavah...”  
+> **“Como poderia um perseguir mil, e dois fazer fugir dez mil, se sua Rocha não os tivesse vendido?”**
 
-**“Como poderia um perseguir mil, e dois fazer fugir dez mil, se sua Rocha não os tivesse vendido?”**
+### Peshat
 
-## Peshat
+Uma derrota desproporcional não é atribuída simplesmente à força militar inimiga, ela indica a retirada da proteção divina.
 
-Uma derrota desproporcional não é atribuída simplesmente à força militar inimiga.
+### Sod
 
-Ela indica a retirada da proteção divina.
-
-## Sod
-
-Quando o fluxo entre os níveis é interrompido, a estrutura inferior perde força.
-
-Não porque a Fonte tenha deixado de existir, mas porque o canal se encontra obstruído.
+Quando o fluxo entre os níveis é interrompido, a estrutura inferior perde força. Não porque a Fonte tenha deixado de existir, mas porque o canal se encontra obstruído.
 
 Essa é outra formulação de **Hester Panim**.
 
-A fraqueza do recipiente não prova a força absoluta do inimigo.
-
-Ela revela uma ruptura na conexão com sua raiz.
+A fraqueza do recipiente não prova a força absoluta do inimigo, ela revela uma ruptura na conexão com sua raiz.
 
 ---
 
 # Devarim 32:31
 
-## “Ki lo keTzureinu tzuram; ve’oyveinu pelilim.”
+> “Ki lo keTzureinu tzuram; ve’oyveinu pelilim.”  
+> **“Pois a rocha deles não é como nossa Rocha; nossos próprios inimigos podem julgá-lo.”**
 
-**“Pois a rocha deles não é como nossa Rocha; nossos próprios inimigos podem julgá-lo.”**
-
-## Peshat
+### Peshat
 
 Os deuses das nações não podem ser comparados a YHWH.
 
-## Sod
+### Sod
 
 A palavra **Tzur** reaparece.
 
@@ -886,45 +863,36 @@ A Torah contrasta a Fonte verdadeira com os poderes derivados.
 
 A idolatria ocorre quando um ramo é confundido com a raiz.
 
-Isso também pode acontecer psicologicamente.
+Isso também pode acontecer psicologicamente. Uma pessoa pode pensar:
 
-Uma pessoa pode pensar:
+- “Meu dinheiro me sustenta.”
+- “Meu cargo me sustenta.”
+- “Minha inteligência me sustenta.”
 
-“Meu dinheiro me sustenta.”
-“Meu cargo me sustenta.”
-“Minha inteligência me sustenta.”
-
-Esses fatores podem ser canais.
-
-Mas o canal não é a Fonte.
+Esses fatores podem ser canais, mas o canal não é a Fonte.
 
 ---
 
 # Devarim 32:32
 
-## “Ki migefen Sedom gafnam...”
+> “Ki migefen Sedom gafnam...”  
+> **“Pois da videira de Sodoma é sua videira...”**
 
-**“Pois da videira de Sodoma é sua videira...”**
-
-## Peshat
+### Peshat
 
 A corrupção moral das nações inimigas é comparada à produção venenosa de Sodoma.
 
-## Sod
+### Sod
 
-A videira recebe água e transforma-a em vinho.
-
-Assim, torna-se metáfora perfeita do **recipiente transformador**.
+A videira recebe água e transforma-a em vinho. Assim, torna-se metáfora perfeita do **recipiente transformador**.
 
 Se a raiz receptora está corrompida, aquilo que deveria tornar-se vinho de santidade transforma-se em veneno.
 
 É o mesmo *shefa* sendo processado por Kelim diferentes.
 
-O problema novamente não está na vida que vem da Fonte.
+O problema novamente não está na vida que vem da Fonte, está na forma da recepção.
 
-Está na forma da recepção.
-
----
+<!-----
 
 # Devarim 32:33
 
