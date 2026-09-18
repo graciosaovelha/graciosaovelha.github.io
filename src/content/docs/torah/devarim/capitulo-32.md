@@ -892,27 +892,22 @@ Se a raiz receptora está corrompida, aquilo que deveria tornar-se vinho de sant
 
 O problema novamente não está na vida que vem da Fonte, está na forma da recepção.
 
-<!-----
+---
 
 # Devarim 32:33
 
-## “Chamat taninim yeinam; verosh petanim achzar.”
+> “Chamat taninim yeinam; verosh petanim achzar.”  
+> **“Seu vinho é veneno de serpentes...”**
 
-**“Seu vinho é veneno de serpentes...”**
-
-## Peshat
+### Peshat
 
 Continua a metáfora do fruto corrupto.
 
-## Sod
+### Sod
 
-Vinho é um símbolo complexo na tradição mística.
+Vinho é um símbolo complexo na tradição mística. Ele pode representar revelação de segredos, daí a conhecida relação entre **yayin** (vinho) e **sod** (segredo), ambos com valor numérico 70.
 
-Ele pode representar revelação de segredos — daí a conhecida relação entre **yayin**, vinho, e **sod**, segredo, ambos com valor numérico 70.
-
-Mas aquilo que poderia revelar interioridade pode também intoxicar.
-
-O mesmo vale para conhecimento esotérico.
+Mas aquilo que poderia revelar interioridade pode também intoxicar. O mesmo vale para conhecimento esotérico.
 
 Cabalá usada para humildade, temor e retificação pode servir à santidade.
 
@@ -922,27 +917,18 @@ Conhecimento místico usado para vaidade, poder ou fantasia pode alimentar preci
 
 # Devarim 32:34
 
-## “Halo hu kamus imadi; chatum be’otzerotai.”
+> “Halo hu kamus imadi; chatum be’otzerotai.”  
+> **“Não está isto guardado comigo, selado em Meus tesouros?”**
 
-**“Não está isto guardado comigo, selado em Meus tesouros?”**
+### Peshat
 
-## Peshat
+O julgamento não foi esquecido, está reservado sob a soberania divina.
 
-O julgamento não foi esquecido.
+### Sod
 
-Está reservado sob a soberania divina.
+A palavra **Chatum — selado** evoca forças que existem potencialmente, mas ainda não foram manifestadas.
 
-## Sod
-
-A palavra:
-
-> **Chatum — selado**
-
-evoca forças que existem potencialmente, mas ainda não foram manifestadas.
-
-Na Cabalá, nem tudo que está na raiz desce imediatamente ao mundo da ação.
-
-Existem níveis de ocultação.
+Na Cabalá, nem tudo que está na raiz desce imediatamente ao mundo da ação. Existem níveis de ocultação.
 
 O julgamento pode estar “selado”, isto é, contido em seu nível superior até o momento de sua manifestação.
 
@@ -952,15 +938,14 @@ Nada escapa da ordem do Ein Sof.
 
 # Devarim 32:35
 
-## “Li nakam veshilem...”
+> “Li nakam veshilem...”  
+> **“A Mim pertencem a vingança e a retribuição.”**
 
-**“A Mim pertencem a vingança e a retribuição.”**
-
-## Peshat
+### Peshat
 
 O julgamento último pertence a Deus.
 
-## Sod
+### Sod
 
 Este versículo limita o ego humano.
 
@@ -968,43 +953,30 @@ O ser humano não pode transformar Din divino em licença para vingança pessoal
 
 Na estrutura das Sefirot, **Gevurah precisa permanecer integrada**.
 
-Quando o ego se apropria do julgamento, Gevurah separa-se de Chesed e Tiferet.
+Quando o ego se apropria do julgamento, Gevurah separa-se de Chesed e Tiferet. Então justiça transforma-se em crueldade.
 
-Então justiça transforma-se em crueldade.
-
-A frase:
-
-> “A Mim pertence a vingança”
-
-é, misticamente, uma proibição da apropriação egoica do Din.
+A frase: “A Mim pertence a vingança” é, misticamente, uma proibição da apropriação egoica do Din.
 
 ---
 
 # Devarim 32:36
 
-## “Ki yadin YHWH amo; ve’al avadav yitnecham...”
+> “Ki yadin YHWH amo; ve’al avadav yitnecham...”  
+> **“Pois YHWH julgará Seu povo e terá compaixão de Seus servos...”**
 
-**“Pois YHWH julgará Seu povo e terá compaixão de Seus servos...”**
-
-## Peshat
+### Peshat
 
 O julgamento não é o último estágio.
 
 Quando Israel chega à extrema fraqueza, Deus intervém.
 
-## Sod
+### Sod
 
-Aqui ocorre uma inversão fundamental.
+Aqui ocorre uma inversão fundamental: **Din começa a revelar Rachamim dentro de si**.
 
-**Din começa a revelar Rachamim dentro de si.**
+O objetivo do julgamento divino não é destruição pela destruição, é correção.
 
-O objetivo do julgamento divino não é destruição pela destruição.
-
-É correção.
-
-Na Cabalá isso corresponde ao princípio de:
-
-**hamtakat ha-dinim — adoçamento dos julgamentos.**
+Na Cabalá isso corresponde ao princípio de **hamtakat ha-dinim — adoçamento dos julgamentos**.
 
 O Din retorna à sua raiz superior e revela que também servia ao processo de reparação.
 
@@ -1012,50 +984,39 @@ O Din retorna à sua raiz superior e revela que também servia ao processo de re
 
 # Devarim 32:37
 
-## “Ve’amar: ei eloheimo, tzur chasayu vo?”
+> “Ve’amar: ei eloheimo, tzur chasayu vo?”  
+> **“E dirá: Onde estão seus deuses, a rocha em que confiavam?”**
 
-**“E dirá: Onde estão seus deuses, a rocha em que confiavam?”**
-
-## Peshat
+### Peshat
 
 Os ídolos demonstram sua impotência.
 
-## Sod
+### Sod
 
 O teste final de toda idolatria é sua capacidade de sustentar a existência quando os suportes exteriores desmoronam.
 
-As “rochas” falsas funcionam enquanto as condições as favorecem.
+As “rochas” falsas funcionam enquanto as condições as favorecem, mas não possuem existência absoluta.
 
-Mas não possuem existência absoluta.
-
-O processo de *birur* inclui descobrir:
-
-> o que é raiz
-> e o que é apenas instrumento.
+O processo de *birur* inclui descobrir o que é raiz e o que é apenas instrumento.
 
 ---
 
 # Devarim 32:38
 
-## “Asher chelev zevacheimo yochelu... yakumu veyezruchem.”
+> “Asher chelev zevacheimo yochelu... yakumu veyezruchem.”  
+> **“Aqueles que comiam a gordura de seus sacrifícios... que se levantem agora e vos ajudem.”**
 
-**“Aqueles que comiam a gordura de seus sacrifícios... que se levantem agora e vos ajudem.”**
-
-## Peshat
+### Peshat
 
 Moshe ironiza os ídolos que receberam sacrifícios, mas não podem salvar seus adoradores.
 
-## Sod
+### Sod
 
 Existe aqui o conceito de **alimentação espiritual**.
 
-O que alimentamos com nossa atenção cresce na estrutura da consciência.
+O que alimentamos com nossa atenção cresce na estrutura da consciência. Mas nenhuma construção do ego pode fornecer salvação última.
 
-Mas nenhuma construção do ego pode fornecer salvação última.
-
-A *kelipah* recebe.
-
-Ela não é a Fonte.
+A *kelipah* recebe, ela não é a Fonte.
 
 Quando o fluxo diminui, sua impotência é revelada.
 
@@ -1063,21 +1024,20 @@ Quando o fluxo diminui, sua impotência é revelada.
 
 # Devarim 32:39
 
-## “Re’u atah ki Ani, Ani Hu, ve’ein Elohim imadi; Ani amit va’achayeh, machatzti va’Ani erpa...”
+> “Re’u atah ki Ani, Ani Hu, ve’ein Elohim imadi; Ani amit va’achayeh, machatzti va’Ani erpa...”  
+> **“Vede agora que Eu, Eu sou Ele; não há deus comigo. Eu faço morrer e faço viver; Eu feri e Eu curarei...”**
 
-**“Vede agora que Eu, Eu sou Ele; não há deus comigo. Eu faço morrer e faço viver; Eu feri e Eu curarei...”**
-
-# O centro místico de Ha’azinu
+### O centro místico de Ha’azinu
 
 Este talvez seja o versículo mais importante de todo o capítulo.
 
-## Peshat
+### Peshat
 
 Deus declara Sua absoluta soberania.
 
 Vida e morte, ferida e cura, julgamento e restauração encontram-se sob Sua autoridade.
 
-## Sod
+### Sod
 
 A frase:
 
@@ -1085,93 +1045,74 @@ A frase:
 
 é extraordinária.
 
-### Ani — “Eu”
+#### Ani — “Eu”
 
 Na linguagem cabalística, **Ani** pode estar associado a **Malchut**, a dimensão na qual a presença torna-se revelada como “eu” no limite da manifestação.
 
-### Hu — “Ele”
+#### Hu — “Ele”
 
 **Hu**, “Ele”, sugere aquilo que permanece oculto, transcendente e não diretamente apreendido.
 
 Assim, uma leitura mística possível percebe:
 
-> **Ani — o Deus manifestado.**
-> **Hu — o Deus oculto.**
+- **Ani — o Deus manifestado.**
+- **Hu — o Deus oculto.**
 
-E a Torah declara:
+E a Torah declara: **Ani Hu**.
 
-> **Ani Hu.**
-
-O manifesto e o oculto não são duas divindades.
-
-A Malchut e sua raiz são um único processo de revelação do Ein Sof.
+O manifesto e o oculto não são duas divindades. A Malchut e sua raiz são um único processo de revelação do Ein Sof.
 
 Mais ainda:
 
-> “Eu faço morrer e faço viver.”
+> “Eu faço morrer e faço viver.”  
 > “Eu feri e Eu curarei.”
 
 A linguagem quebra o dualismo psicológico.
 
-Normalmente o homem diz:
-
-“o bem vem de Deus”
-e
-“o mal deve vir de outra coisa”.
+Normalmente o homem diz: “o bem vem de Deus” e “o mal deve vir de outra coisa”.
 
 Ha’azinu rejeita essa divisão metafísica.
 
-Não significa que crueldade humana deixe de ser moralmente má.
-
-Significa que **nenhuma força possui existência ontológica independente de Deus**.
+Não significa que crueldade humana deixe de ser moralmente má, significa que **nenhuma força possui existência ontológica independente de Deus**.
 
 Até o Din, em sua raiz última, está incluído na Unidade.
 
-Esse é precisamente o tipo de mistério que ressoa com a **Idra Zuta do Zohar em Ha’azinu**: quanto mais profundamente se ascende às raízes das configurações divinas, mais as aparentes polaridades convergem em unidade.
+Esse é precisamente o tipo de mistério que ressoa com a **Idra Zuta do Zohar em Ha’azinu**. Quanto mais profundamente se ascende às raízes das configurações divinas, mais as aparentes polaridades convergem em unidade.
 
-### “Eu faço morrer e faço viver”
+#### “Eu faço morrer e faço viver”
 
-Também sugere o processo lurianista:
-
-**bitul → reconstrução.**
+Também sugere o processo lurianista: **bitul → reconstrução**.
 
 Existem estados nos quais uma configuração precisa cessar para que outra possa nascer.
 
 Morte e vida tornam-se não apenas eventos biológicos, mas arquétipos espirituais.
 
-### “Eu feri e Eu curarei”
+#### “Eu feri e Eu curarei”
 
 O mesmo “Eu” está nos dois lados.
 
-Assim, a cura profunda não apaga necessariamente a história da ferida.
-
-Ela revela uma dimensão na qual até a ferida foi integrada no caminho de transformação.
+Assim, a cura profunda não apaga necessariamente a história da ferida, ela revela uma dimensão na qual até a ferida foi integrada no caminho de transformação.
 
 ---
 
 # Devarim 32:40
 
-## “Ki esa el shamayim yadi; ve’amarti chai anochi le’olam.”
+> “Ki esa el shamayim yadi; ve’amarti chai anochi le’olam.”
+> **“Pois levantarei Minha mão aos céus e direi: Eu vivo para sempre.”**
 
-**“Pois levantarei Minha mão aos céus e direi: Eu vivo para sempre.”**
-
-## Peshat
+### Peshat
 
 Imagem de juramento divino e eternidade.
 
-## Sod
+### Sod
 
 A “mão levantada ao céu” representa o retorno da ação à sua raiz superior.
 
-A mão é instrumento de realização.
-
-Elevá-la ao céu significa reconectar **Assiyah**, ação, ao mundo superior.
+A mão é instrumento de realização. Elevá-la ao céu significa reconectar **Assiyah**, ação, ao mundo superior.
 
 > **“Chai Anochi le’olam.”**
 
-A vida criada aparece e desaparece.
-
-A Fonte da vida permanece.
+A vida criada aparece e desaparece, mas a Fonte da vida permanece.
 
 O *tikkun* depende dessa lembrança.
 
@@ -1179,41 +1120,33 @@ O *tikkun* depende dessa lembrança.
 
 # Devarim 32:41
 
-## “Im shanoti berak charbi, vetochez bemishpat yadi...”
+> “Im shanoti berak charbi, vetochez bemishpat yadi...”  
+> **“Quando Eu afiar o relâmpago de Minha espada e Minha mão tomar o julgamento...”**
 
-**“Quando Eu afiar o relâmpago de Minha espada e Minha mão tomar o julgamento...”**
-
-## Peshat
+### Peshat
 
 Deus executará justiça contra Seus adversários.
 
-## Sod
+### Sod
 
-Espada é outro símbolo de **Gevurah**.
-
-Mas o texto diz que ela está nas mãos de Deus.
-
-Esse detalhe é essencial.
+Espada é outro símbolo de **Gevurah**, mas o texto diz que ela está nas mãos de Deus. Esse detalhe é essencial.
 
 O Din permanece incluído na Unidade.
 
-Uma Gevurah desconectada de sua origem parece crueldade.
-
-Uma Gevurah unida à raiz torna-se limite necessário ao *tikkun*.
+Uma Gevurah desconectada de sua origem parece crueldade, mas uma Gevurah unida à raiz torna-se limite necessário ao *tikkun*.
 
 ---
 
 # Devarim 32:42
 
-## “Ashkir chitzai midam...”
+> “Ashkir chitzai midam...”  
+> **“Embriagarei Minhas flechas de sangue...”**
 
-**“Embriagarei Minhas flechas de sangue...”**
-
-## Peshat
+### Peshat
 
 Linguagem poética severa referente ao julgamento dos opressores.
 
-## Sod
+### Sod
 
 No plano místico, não se deve transformar esse versículo numa celebração humana da violência.
 
@@ -1227,55 +1160,41 @@ Essa é a kelipah mais profunda.
 
 # Devarim 32:43
 
-## “Harninu goyim amo... vechiper admato amo.”
+> “Harninu goyim amo... vechiper admato amo.”  
+> **“Alegrai-vos, ó nações, com Seu povo... e Ele fará expiação por Sua terra e Seu povo.”**
 
-**“Alegrai-vos, ó nações, com Seu povo... e Ele fará expiação por Sua terra e Seu povo.”**
-
-## Peshat
+### Peshat
 
 O cântico termina sua parte profética com restauração, justiça e expiação.
 
-## Sod
+### Sod
 
-Observe onde Ha’azinu termina:
+Observe onde Ha’azinu termina: não na destruição, mas em **kapparah — expiação/reconciliação**.
 
-não na destruição,
-mas em **kapparah — expiação/reconciliação**.
-
-E a expiação envolve:
-
-> **admato — Sua terra**
-> **amo — Seu povo**
+E a expiação envolve **admato — Sua terra** e **amo — Seu povo**.
 
 Na Cabalá, a terra corresponde naturalmente a **Malchut**.
 
-O tikkun não fica no céu.
+O tikkun não fica no céu, a própria “terra” precisa ser reparada.
 
-A própria “terra” precisa ser reparada.
-
-A finalidade do processo não é escapar da materialidade.
-
-É fazer da materialidade um recipiente para a presença divina.
+A finalidade do processo não é escapar da materialidade, é fazer da materialidade um recipiente para a presença divina.
 
 Essa é uma diferença crucial entre Cabalá e espiritualidades puramente escapistas.
 
-O objetivo último não é abandonar Malchut.
-
-É **unificar Malchut com sua Fonte**.
+O objetivo último não é abandonar Malchut, é **unificar Malchut com sua Fonte**.
 
 ---
 
 # Devarim 32:44
 
-## Moshe e Hoshea/Yehoshua proclamam o cântico
+> “Vayavo Moshe vaydaber et-kol-divrei hashirah-hazot be'oznei ha'am hu vehoshea bin-nun.”  
+> **“Moshe veio e pronunciou todas as palavras deste cântico aos ouvidos do povo, ele e Hoshea filho de Nun.”**
 
-**“Moshe veio e pronunciou todas as palavras deste cântico aos ouvidos do povo, ele e Hoshea filho de Nun.”**
-
-## Peshat
+### Peshat
 
 Moshe transmite Ha’azinu diante do povo juntamente com Yehoshua.
 
-## Sod
+### Sod
 
 A presença simultânea de Moshe e Yehoshua possui significado profundo.
 
@@ -1283,22 +1202,13 @@ Na tradição mística, **Moshe** pode representar níveis elevados de **Da’at
 
 Yehoshua está fortemente associado à recepção e transmissão.
 
-A tradição compara:
+A tradição compara Moshe ao **sol** e Yehoshua à **lua**.
 
-Moshe ao **sol**,
-Yehoshua à **lua**.
+O sol produz luz aparente, a lua recebe e transmite.
 
-O sol produz luz aparente.
+Novamente encontramos **Mashpia → Mekabel**.
 
-A lua recebe e transmite.
-
-Novamente encontramos:
-
-**Mashpia → Mekabel.**
-
-Moshe não entrará fisicamente na Terra.
-
-Yehoshua entrará.
+Moshe não entrará fisicamente na Terra, mas Yehoshua entrará.
 
 A revelação precisa passar do nível de “sol” para “lua”, do conhecimento superior para **Malchut**, realização concreta.
 
@@ -1306,25 +1216,22 @@ A revelação precisa passar do nível de “sol” para “lua”, do conhecime
 
 # Devarim 32:45
 
-## “Vayechal Moshe ledaber et kol hadevarim ha’eleh el kol Yisrael.”
+> “Vayechal Moshe ledaber et kol hadevarim ha’eleh el kol Yisrael.”  
+> **“Moshe terminou de falar todas estas palavras a todo Israel.”**
 
-**“Moshe terminou de falar todas estas palavras a todo Israel.”**
-
-## Peshat
+### Peshat
 
 A recitação do cântico é concluída.
 
-## Sod
+### Sod
 
 Existe um princípio espiritual no ato de **terminar a fala**.
 
 Enquanto a ideia permanece em Chochmah, ela é ponto.
 
-Em Binah, expande-se.
+Em Binah, expande-se, nas Middot, torna-se impulso.
 
-Nas Middot, torna-se impulso.
-
-Em Malchut — associada à **fala** — finalmente torna-se manifestação.
+Em Malchut, associada à **fala**, finalmente torna-se manifestação.
 
 Moshe “termina de falar”.
 
@@ -1334,41 +1241,32 @@ A revelação agora está entregue ao recipiente coletivo chamado Israel.
 
 # Devarim 32:46
 
-## “Simu levavchem lechol hadevarim...”
+> “Simu levavchem lechol hadevarim...”  
+> **“Ponde vossos corações em todas as palavras que hoje testemunho contra vós.”**
 
-**“Ponde vossos corações em todas as palavras que hoje testemunho contra vós.”**
-
-## Peshat
+### Peshat
 
 Moshe exige atenção interior, não apenas audição superficial.
 
-## Sod
+### Sod
 
-A expressão central é:
-
-> **Simu levavchem — colocai vosso coração.**
+A expressão central é: **Simu levavchem — colocai vosso coração**.
 
 **Lev — לב — coração** possui valor numérico **32**.
 
 Na tradição do *Sefer Yetzirah*, encontramos os **32 Netivot Chochmah — Trinta e Dois Caminhos da Sabedoria**.
 
-Essa associação é particularmente bonita aqui, desde que não confundamos isso com a numeração moderna do “capítulo 32”: a divisão bíblica em capítulos não pertence à estrutura original da Torah e, portanto, não se deve construir um argumento cabalístico sobre o número moderno do capítulo.
+Essa associação é particularmente bonita aqui, desde que não confundamos isso com a numeração moderna do “capítulo 32”. A divisão bíblica em capítulos não pertence à estrutura original da Torah e, portanto, não se deve construir um argumento cabalístico sobre o número moderno do capítulo.
 
 Mas o próprio **lev = 32** é uma associação tradicional legítima.
 
-Moshe não diz apenas:
-
-> “memorizem”.
-
-Ele diz:
-
-> “coloquem no coração.”
+Moshe não diz apenas: “memorizem”. Ele diz: “coloquem no coração”.
 
 Conhecimento sem coração permanece desconectado.
 
 O tikkun exige integração entre mente e Middot.
 
----
+<!-----
 
 # Devarim 32:47
 
