@@ -677,21 +677,73 @@
       );
 
 
-      const upcoming =
-        await getUpcomingParashot(
-          futureStart,
-          futureEnd
-        );
+/*
+ * Consulta também os eventos futuros,
+ * porque Vezot Haberachah é lida em
+ * Simchat Torá e não aparece como uma
+ * parashat regular de Shabat.
+ */
+const futureCalendar =
+  await getCalendar(
+    futureStart,
+    futureEnd
+  );
 
+const simchatTorah =
+  futureCalendar.items.find(
+    (item) =>
+      item.category === 'holiday' &&
+      item.title === 'Simchat Torah'
+  );
 
-      if (upcoming.length > 0) {
-        await renderParashah(
-          upcoming[0],
-          'Próxima parashat'
-        );
+const upcoming =
+  futureCalendar.items.filter(
+    (item) =>
+      item.category === 'parashat'
+  );
 
-        return;
-      }
+/*
+ * Se Simchat Torá acontecer antes da
+ * próxima parashat regular, Vezot
+ * Haberachah é a próxima porção do ciclo.
+ */
+if (
+  simchatTorah &&
+  (
+    upcoming.length === 0 ||
+    simchatTorah.date <
+      upcoming[0].date
+  )
+) {
+  const vezotHaberachah = {
+    title:
+      'Parashat Vezot Haberachah',
+
+    date:
+      simchatTorah.date,
+
+    leyning: {
+      torah:
+        'Deuteronomy 33:1-34:12',
+    },
+  };
+
+  await renderParashah(
+    vezotHaberachah,
+    'Próxima parashat'
+  );
+
+  return;
+}
+
+if (upcoming.length > 0) {
+  await renderParashah(
+    upcoming[0],
+    'Próxima parashat'
+  );
+
+  return;
+}
 
 
       /*
