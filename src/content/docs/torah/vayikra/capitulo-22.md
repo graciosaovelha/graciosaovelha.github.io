@@ -132,23 +132,21 @@ Em termos mais simples, uma energia que deveria servir à santidade acaba alimen
 
 Esse é um dos temas centrais de todo o capítulo.
 
-<!-----
+---
 
 # Vayikra 22:3
 
 O descendente de Aharon que se aproximar das coisas sagradas enquanto estiver ritualmente impuro será separado da presença divina.
 
-## Peshat
+### Peshat
 
 O Cohen impuro não pode consumir ou aproximar-se daquilo que exige estado de pureza.
 
 O texto utiliza uma linguagem severa de **karet**, corte espiritual.
 
-Não se trata simplesmente de uma regra de higiene.
+Não se trata simplesmente de uma regra de higiene. A categoria de *tumah* na Torah é uma categoria ritual e espiritual específica.
 
-A categoria de *tumah* na Torah é uma categoria ritual e espiritual específica.
-
-## Tumah não significa “pessoa má”
+### Tumah não significa “pessoa má”
 
 Este ponto é essencial.
 
@@ -158,29 +156,20 @@ Uma pessoa podia tornar-se ritualmente impura por processos naturais, inclusive 
 
 Portanto:
 
-**Taharah = pureza ritual.**
-
-**Tumah = estado ritual de impedimento.**
+- **Taharah = pureza ritual.**
+- **Tumah = estado ritual de impedimento.**
 
 Não se deve traduzir isso simplesmente como “bondade” e “maldade”.
 
-## O segredo cabalístico
+### O segredo cabalístico
 
-Santidade significa intensidade.
-
-Quanto maior a intensidade de uma luz, mais preciso precisa ser seu recipiente.
+Santidade significa intensidade. Quanto maior a intensidade de uma luz, mais preciso precisa ser seu recipiente.
 
 Essa é uma das grandes ideias que podem ser extraídas do pensamento lurianico.
 
-Imagine uma corrente elétrica.
+Imagine uma corrente elétrica, quanto maior a voltagem, maior a necessidade de um circuito adequado.
 
-Quanto maior a voltagem, maior a necessidade de um circuito adequado.
-
-O problema não está na eletricidade.
-
-O problema não está necessariamente no aparelho.
-
-O problema pode estar na incompatibilidade entre ambos naquele momento.
+O problema não está na eletricidade, o problema não está necessariamente no aparelho, o problema pode estar na incompatibilidade entre ambos naquele momento.
 
 É assim que podemos entender espiritualmente a proibição.
 
@@ -190,21 +179,17 @@ Quando se encontra em estado de tumah, sua configuração ritual mudou temporari
 
 A mesma luz que normalmente seria elevada através dele não deve entrar naquele recipiente.
 
-## Karet
+### Karet
 
 A ideia de “corte” pode ser contemplada cabalisticamente como interrupção de um canal.
 
-A alma vive da conexão.
-
-Santidade é conexão.
+A alma vive da conexão, e santidade é conexão.
 
 O pecado que produz *karet* é descrito como uma ruptura profunda no fluxo dessa conexão.
 
-Isso não significa a destruição absoluta da essência da alma.
+Isso não significa a destruição absoluta da essência da alma, significa um rompimento grave do canal através do qual determinado nível da vida espiritual se manifesta.
 
-Significa um rompimento grave do canal através do qual determinado nível da vida espiritual se manifesta.
-
----
+<!-----
 
 # Vayikra 22:4
 

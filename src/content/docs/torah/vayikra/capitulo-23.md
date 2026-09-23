@@ -76,35 +76,25 @@ Assim como o Mishkan é um espaço preparado para a Presença Divina, o *Mo'ed* 
 
 O tempo torna-se um **Kli**, um recipiente.
 
-<!-----
+---
 
 # Versículo 2
 
 > “Fala aos filhos de Israel e dize-lhes: os tempos determinados de HaShem, que proclamareis como santas convocações, estes são os Meus tempos determinados.”
 
-## Peshat
+### Peshat
 
 Israel deve proclamar os dias estabelecidos como *Mikraei Kodesh*, convocações sagradas.
 
-A palavra utilizada é:
+A palavra utilizada é **מועדי — Moadai**, “Meus tempos determinados”.
 
-**מועדי — Moadai**, “Meus tempos determinados”.
+### O segredo de Mo'ed
 
-## O segredo de Mo'ed
+A palavra **Mo'ed** não significa simplesmente “feriado”. Ela deriva de uma raiz associada a **encontro**, **designação**, **tempo marcado**.
 
-A palavra **Mo'ed** não significa simplesmente “feriado”.
+O Mishkan possuía o **Ohel Mo'ed**, a Tenda do Encontro. Da mesma maneira, uma festa é um **encontro no tempo**.
 
-Ela deriva de uma raiz associada a **encontro**, **designação**, **tempo marcado**.
-
-O Mishkan possuía o **Ohel Mo'ed**, a Tenda do Encontro.
-
-Da mesma maneira, uma festa é um **encontro no tempo**.
-
-Existe, portanto:
-
-* um lugar de encontro;
-* uma alma que encontra;
-* e um momento de encontro.
+Existe, portanto um lugar de encontro, uma alma que encontra e um momento de encontro.
 
 Na terminologia cabalística, isso pode ser relacionado ao princípio de **Olam, Shanah, Nefesh**:
 
@@ -114,17 +104,11 @@ Na terminologia cabalística, isso pode ser relacionado ao princípio de **Olam,
 
 A santidade deve penetrar as três dimensões.
 
-### “Que proclamareis”
+#### “Que proclamareis”
 
 Existe aqui outro profundo segredo.
 
-HaShem chama esses dias de:
-
-> “Meus tempos determinados”
-
-mas simultaneamente diz:
-
-> “que vós proclamareis”.
+HaShem chama esses dias de: “Meus tempos determinados”, mas simultaneamente diz: “que vós proclamareis”.
 
 Há uma cooperação entre o Alto e o baixo.
 
@@ -132,13 +116,12 @@ A santidade provém de cima, mas Israel precisa criar o **Kli** para recebê-la.
 
 É um princípio recorrente na Cabalá:
 
-**Itaruta de-Le'ela** — despertar vindo do Alto.
-
-**Itaruta de-Letata** — despertar vindo de baixo.
+- **Itaruta de-Le'ela** — despertar vindo do Alto.
+- **Itaruta de-Letata** — despertar vindo de baixo.
 
 O encontro pleno exige ambos.
 
----
+<!-----
 
 # Versículo 3
 

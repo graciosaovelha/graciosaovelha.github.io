@@ -164,7 +164,7 @@ O toque do shofar ajuda simbolicamente a trazer uma consciência superior capaz 
 
 Rosh Hashaná, portanto, não é a eliminação do julgamento, é sua elevação.
 
-<!-----
+---
 
 ## Bamidbar 29:2
 
@@ -172,31 +172,23 @@ Rosh Hashaná, portanto, não é a eliminação do julgamento, é sua elevação
 
 ### Peshat
 
-O *Musaf* de Rosh Hashaná contém:
-
-* um novilho;
-* um carneiro;
-* sete cordeiros.
-
-Todos devem ser íntegros.
+O *Musaf* de Rosh Hashaná contém: um novilho, um carneiro e sete cordeiros. Todos devem ser íntegros.
 
 ### Um, um e sete
 
-Observe a estrutura:
-
-**1 + 1 + 7.**
+Observe a estrutura: **1 + 1 + 7.**
 
 O sete coloca novamente diante de nós a estrutura das sete *middot* inferiores.
 
 Os sete cordeiros podem ser contemplados como um processo de retificação da totalidade emocional da pessoa:
 
-* amor;
-* temor;
-* compaixão;
-* persistência;
-* humildade;
-* ligação;
-* receptividade.
+1. amor;
+2. temor;
+3. compaixão;
+4. persistência;
+5. humildade;
+6. ligação;
+7. receptividade.
 
 Não é necessário identificar mecanicamente cada cordeiro com uma Sefirá específica para perceber o princípio: a totalidade do sete deve ser apresentada diante da Unidade.
 
@@ -212,19 +204,13 @@ No sod, oferecer essa força significa não destruí-la, mas recolocá-la sob um
 
 O carneiro possui uma relação inevitavelmente evocativa com a **Akedat Yitzchak**, o sacrifício de Isaac, particularmente significativa em Rosh Hashaná.
 
-O shofar também recorda o carneiro oferecido no lugar de Isaac.
+O shofar também recorda o carneiro oferecido no lugar de Isaac, este que corresponde, na estrutura das Sefirot, a **Gevurah**.
 
-Isaac corresponde, na estrutura das Sefirot, a **Gevurah**.
+Assim, Rosh Hashaná contém repetidamente o tema: **Gevurah deve ser adoçada, não abolida.**
 
-Assim, Rosh Hashaná contém repetidamente o tema:
+Sem Gevurah não existe limite, disciplina ou justiça. Mas Gevurah separada de Chesed torna-se severidade destrutiva.
 
-**Gevurah deve ser adoçada, não abolida.**
-
-Sem Gevurah não existe limite, disciplina ou justiça.
-
-Mas Gevurah separada de Chesed torna-se severidade destrutiva.
-
----
+<!-----
 
 ## Bamidbar 29:3
 
