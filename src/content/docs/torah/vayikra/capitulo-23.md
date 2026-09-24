@@ -121,17 +121,17 @@ A santidade provém de cima, mas Israel precisa criar o **Kli** para recebê-la.
 
 O encontro pleno exige ambos.
 
-<!-----
+---
 
 # Versículo 3
 
 > “Seis dias será feito trabalho, mas no sétimo dia é Shabat de completo repouso, santa convocação...”
 
-## Peshat
+### Peshat
 
-Durante seis dias realiza-se trabalho. O sétimo é Shabat e nele a *melachá* é proibida.
+Durante seis dias realiza-se trabalho, mas o sétimo é Shabat e nele a *melachá* é proibida.
 
-## O Shabat como raiz de todas as festas
+### O Shabat como raiz de todas as festas
 
 É significativo que a Torá comece a lista das festas com o **Shabat**.
 
@@ -146,62 +146,38 @@ Os seis dias representam as seis direções da manifestação e também podem se
 5. Hod;
 6. Yesod.
 
-Essas seis sefirot constituem fundamentalmente a estrutura de **Zeir Anpin**.
-
-O sétimo corresponde a **Malchut**.
+Essas seis sefirot constituem fundamentalmente a estrutura de **Zeir Anpin**. O sétimo corresponde a **Malchut**.
 
 Assim:
 
-> seis dias → Zeir Anpin
-> sétimo dia → Malchut
+- seis dias → Zeir Anpin
+- sétimo dia → Malchut
 
-Durante os seis dias, a energia flui através das seis extremidades.
-
-No Shabat, aquilo que foi produzido converge para Malchut.
+Durante os seis dias, a energia flui através das seis extremidades. No Shabat, aquilo que foi produzido converge para Malchut.
 
 Por isso os cabalistas frequentemente entendem o Shabat como um momento de **Yichud**, união.
 
-### O segredo do repouso
+#### O segredo do repouso
 
-Repousar não significa simplesmente “não fazer nada”.
+Repousar não significa simplesmente “não fazer nada”. No plano espiritual, significa cessar a atividade de **construção exterior** para permitir uma **ascensão interior**.
 
-No plano espiritual, significa cessar a atividade de **construção exterior** para permitir uma **ascensão interior**.
+Durante a semana, o homem trabalha na multiplicidade. No Shabat, ele retorna à unidade.
 
-Durante a semana, o homem trabalha na multiplicidade.
-
-No Shabat, ele retorna à unidade.
-
-Durante a semana:
-
-> seis.
-
-No Shabat:
-
-> sete.
+Durante a semana: **seis**. No Shabat: **sete**.
 
 Mas o sete, ao completar o ciclo, aponta para aquilo que está além dele.
 
 Por isso o Shabat contém uma antecipação do mundo futuro.
 
-### Melachá
+#### Melachá
 
-A proibição da *melachá* possui também significado místico.
+A proibição da *melachá* possui também significado místico. 
 
-O trabalho humano modifica e reorganiza o domínio da matéria.
+O trabalho humano modifica e reorganiza o domínio da matéria. No Shabat, entretanto, a pessoa testemunha que há um nível em que o mundo não depende de sua manipulação.
 
-No Shabat, entretanto, a pessoa testemunha que há um nível em que o mundo não depende de sua manipulação.
+Espiritualmente, ela declara: “A criação possui uma Fonte acima de minha atividade”.
 
-Espiritualmente, ela declara:
-
-> “A criação possui uma Fonte acima de minha atividade.”
-
-É a passagem do:
-
-**“eu faço”**
-
-para:
-
-**“eu recebo”.**
+É a passagem do **“eu faço”** para **“eu recebo”**.
 
 ---
 
@@ -211,20 +187,13 @@ para:
 
 Este versículo reinicia a exposição.
 
-Primeiro veio o Shabat.
+Primeiro veio o Shabat, agora começam os *Moadim* anuais.
 
-Agora começam os *Moadim* anuais.
-
-## “Em seus tempos”
+### “Em seus tempos”
 
 Na Cabalá, essa expressão é fundamental.
 
-Cada mitzvá possui:
-
-* um tempo;
-* um recipiente;
-* uma luz;
-* uma configuração espiritual apropriada.
+Cada mitzvá possui um tempo, um recipiente, uma luz e uma configuração espiritual apropriada.
 
 Uma luz recebida no recipiente errado pode não produzir o mesmo Tikkun.
 
@@ -232,11 +201,9 @@ Uma luz recebida no recipiente errado pode não produzir o mesmo Tikkun.
 
 Existe uma ordem.
 
-A espiritualidade cabalística não é simplesmente intensidade de sentimento.
+A espiritualidade cabalística não é simplesmente intensidade de sentimento, ela envolve **Seder**, ordem.
 
-Ela envolve **Seder**, ordem.
-
----
+<!-----
 
 # Versículo 5 — Pêssach
 

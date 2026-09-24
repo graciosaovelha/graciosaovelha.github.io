@@ -210,7 +210,7 @@ Assim, Rosh Hashaná contém repetidamente o tema: **Gevurah deve ser adoçada, 
 
 Sem Gevurah não existe limite, disciplina ou justiça. Mas Gevurah separada de Chesed torna-se severidade destrutiva.
 
-<!-----
+---
 
 ## Bamidbar 29:3
 
@@ -220,17 +220,13 @@ Sem Gevurah não existe limite, disciplina ou justiça. Mas Gevurah separada de 
 
 A Torah determina as medidas da *minchá*, a oferta vegetal que acompanha os animais.
 
-O novilho recebe uma medida maior; o carneiro, uma medida menor.
+O novilho recebe uma medida maior, o carneiro uma medida menor.
 
 ### A matéria vegetal entra na elevação
 
-O serviço não envolve somente o animal.
+O serviço não envolve somente o animal, farinha e azeite também são elevados.
 
-Farinha e azeite também são elevados.
-
-A Cabalá encontra nisso um princípio universal:
-
-> nenhuma dimensão da vida precisa permanecer fora da santidade.
+A Cabalá encontra nisso um princípio universal: nenhuma dimensão da vida precisa permanecer fora da santidade.
 
 A existência vegetal representa um nível de vitalidade inferior ao animal, mas também possui centelhas.
 
@@ -238,20 +234,11 @@ Assim, o serviço do Templo reunia diferentes reinos da criação.
 
 ### Flor de farinha
 
-A farinha fina já passou por um processo.
-
-O grão:
-
-* foi separado;
-* triturado;
-* peneirado;
-* refinado.
+A farinha fina já passou por um processo. O grão foi separado, triturado, peneirado e refinado.
 
 Isso possui profunda analogia com o trabalho espiritual.
 
-O ego bruto não se torna recipiente da santidade apenas pela intensidade.
-
-Ele precisa passar por **birur**.
+O ego bruto não se torna recipiente da santidade apenas pela intensidade, ele precisa passar por **birur**.
 
 A farinha refinada simboliza aquilo que já passou por seleção.
 
@@ -259,9 +246,7 @@ A farinha refinada simboliza aquilo que já passou por seleção.
 
 O azeite é tradicionalmente relacionado à **Chochmah**, sabedoria.
 
-O óleo encontra-se escondido dentro da oliva.
-
-Ele só aparece mediante pressão.
+O óleo encontra-se escondido dentro da oliva, ele só aparece mediante pressão.
 
 Essa imagem é profundamente cabalística.
 
@@ -285,37 +270,23 @@ Cada cordeiro recebe uma medida uniforme de farinha.
 
 Os sete cordeiros são tratados individualmente.
 
-Isso ensina que a retificação espiritual não funciona apenas no geral.
+Isso ensina que a retificação espiritual não funciona apenas no geral. Cada atributo deve ser trabalhado.
 
-Cada atributo deve ser trabalhado.
-
-Uma pessoa pode possuir muito Chesed e pouco Gevurah.
-
-Pode possuir persistência sem humildade.
-
-Pode possuir sensibilidade sem estabilidade.
+Uma pessoa pode possuir muito Chesed e pouco Gevurah, persistência sem humildade, sensibilidade sem estabilidade...
 
 O *Tikun* exige atenção particular a cada qualidade.
 
 ### O número dez
 
-Cada cordeiro recebe "um décimo".
-
-O dez imediatamente evoca, na linguagem cabalística, as **dez Sefirot**.
+Cada cordeiro recebe "um décimo". O dez imediatamente evoca, na linguagem cabalística, as **dez Sefirot**.
 
 A unidade do animal é conectada a uma décima parte de uma totalidade.
 
-Simbolicamente:
+Simbolicamente, cada atributo particular deve permanecer conectado ao mapa completo das dez Sefirot. 
 
-> cada atributo particular deve permanecer conectado ao mapa completo das dez Sefirot.
+Nenhuma qualidade existe isoladamente. Existe Chesed dentro de Gevurah, Gevurah dentro de Chesed e assim por diante. Toda qualidade contém uma estrutura interna.
 
-Nenhuma qualidade existe isoladamente.
-
-Existe Chesed dentro de Gevurah, Gevurah dentro de Chesed e assim por diante.
-
-Toda qualidade contém uma estrutura interna.
-
----
+<!-----
 
 ## Bamidbar 29:5
 

@@ -189,45 +189,33 @@ O pecado que produz *karet* é descrito como uma ruptura profunda no fluxo dessa
 
 Isso não significa a destruição absoluta da essência da alma, significa um rompimento grave do canal através do qual determinado nível da vida espiritual se manifesta.
 
-<!-----
+---
 
 # Vayikra 22:4
 
 O Cohen que estiver com *tzaraat*, com um fluxo corporal ritualmente impuro, que tenha tocado alguém ou algo relacionado à impureza de morte ou que tenha experimentado emissão seminal não deve comer das coisas sagradas até passar pelo processo de purificação.
 
-## Peshat
+### Peshat
 
-O versículo enumera diferentes fontes de impureza.
+O versículo enumera diferentes fontes de impureza. Entre elas estão: *tza'raat*, certos fluxos corporais, contato com impureza relacionada a mortos e emissão seminal.
 
-Entre elas estão:
+Novamente, algumas dessas condições não envolvem pecado algum. O assunto é a adequação ritual.
 
-*tza'raat*, certos fluxos corporais, contato com impureza relacionada a mortos e emissão seminal.
+### A dimensão mística do corpo
 
-Novamente, algumas dessas condições não envolvem pecado algum.
-
-O assunto é a adequação ritual.
-
-## A dimensão mística do corpo
-
-Na Cabalá, o corpo não é inimigo da alma.
-
-O corpo é um **kli**, um recipiente.
+Na Cabalá, o corpo não é inimigo da alma. O corpo é um **kli**, um recipiente.
 
 Justamente por isso, acontecimentos corporais podem ter consequências rituais.
 
-A espiritualidade bíblica não busca escapar do corpo.
+A espiritualidade bíblica não busca escapar do corpo, busca santificá-lo.
 
-Busca santificá-lo.
-
-## Vida, morte e fluxo
+### Vida, morte e fluxo
 
 Muitas categorias de tumah possuem alguma relação simbólica com a diminuição ou saída do potencial vital.
 
 A morte é o caso mais evidente.
 
-Enquanto existe vida, o corpo é recipiente de uma neshamah.
-
-Depois da morte, essa relação se desfaz.
+Enquanto existe vida, o corpo é recipiente de uma neshamah. Depois da morte, essa relação se desfaz.
 
 A ausência produz uma condição de tumah particularmente intensa.
 
@@ -235,7 +223,7 @@ Em linguagem cabalística, quando uma grande luz deixa um recipiente, o espaço 
 
 Essa ideia é especialmente importante para compreender a relação cabalística entre morte e tumah.
 
-## Emissão seminal
+### Emissão seminal
 
 O sêmen contém potencial de geração.
 
@@ -247,11 +235,9 @@ Yesod é o canal através do qual as sefirot superiores concentram sua influênc
 
 Assim, processos ligados à potência geradora possuem profundo simbolismo na Cabalá.
 
-Mas é preciso manter a distinção:
+Mas é preciso manter a distinção, a Torah está estabelecendo aqui uma lei ritual concreta. A associação com Yesod é o seu horizonte simbólico, não a substituição da lei.
 
-a Torah está estabelecendo aqui uma lei ritual concreta; a associação com Yesod é o seu horizonte simbólico, não a substituição da lei.
-
----
+<!-----
 
 # Vayikra 22:5
 
