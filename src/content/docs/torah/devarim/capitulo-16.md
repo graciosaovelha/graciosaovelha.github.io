@@ -30,19 +30,17 @@ Por isso, o capítulo inteiro pode ser lido como um movimento: **libertação �
 
 Esse é também, em grande medida, o processo do **Tikkun**.
 
-<!-----
+---
 
 # Devarim 16:1
 
 > **“Guarda o mês de Aviv e realiza Pessach para YHWH teu Deus, pois no mês de Aviv YHWH teu Deus te tirou do Egito, de noite.”**
 
-## Peshat — sentido literal
+### Peshat — sentido literal
 
 Israel deve observar o período de **Aviv**, a primavera na Terra de Israel, e celebrar Pessach nesse período.
 
-Pessach não pode ser separado do acontecimento histórico do Êxodo.
-
-A festa é memória viva da libertação.
+Pessach não pode ser separado do acontecimento histórico do Êxodo. A festa é memória viva da libertação.
 
 A Torah acrescenta algo significativo:
 
@@ -50,25 +48,19 @@ A Torah acrescenta algo significativo:
 
 A saída possui relação particular com a noite, mesmo que outros aspectos do Êxodo tenham ocorrido publicamente durante o dia.
 
-## O mês de Aviv como renovação
+### O mês de Aviv como renovação
 
 A palavra **Aviv — אביב** está associada ao amadurecimento inicial da cevada e ao renascimento da natureza.
 
 Do ponto de vista espiritual, isso corresponde ao aparecimento de uma nova vitalidade depois de um período de ocultação.
 
-O inverno simboliza uma condição na qual a vida permanece escondida.
+O inverno simboliza uma condição na qual a vida permanece escondida. A primavera é a revelação daquilo que estava latente. Assim também acontece com Israel no Egito.
 
-A primavera é a revelação daquilo que estava latente.
+A essência espiritual de Israel não havia desaparecido, estava encoberta.
 
-Assim também acontece com Israel no Egito.
+A Gueulá não cria a alma, ela revela aquilo que já estava presente, porém aprisionado.
 
-A essência espiritual de Israel não havia desaparecido; estava encoberta.
-
-A Gueulá não cria a alma.
-
-A Gueulá revela aquilo que já estava presente, porém aprisionado.
-
-## Egito como Mitzrayim
+### Egito como Mitzrayim
 
 A tradição cabalística frequentemente lê **Mitzrayim — מצרים**, Egito, em associação com **metzarim — limites, constrições, estreitezas**.
 
@@ -84,25 +76,19 @@ Na linguagem luriana, podemos relacionar isso a um estado de **Mochin de-Katnut*
 
 A pessoa está viva, mas sua percepção espiritual é estreita.
 
-## “De noite”
+### “De noite”
 
 A noite representa **hester — ocultação**.
 
-O ser humano ainda não consegue enxergar claramente.
-
-E, no entanto, é justamente no interior dessa noite que começa a Gueulá.
+O ser humano ainda não consegue enxergar claramente. E, no entanto, é justamente no interior dessa noite que começa a Gueulá.
 
 Esse princípio é fundamental.
 
-A libertação não começa necessariamente quando tudo se torna luminoso.
-
-Ela pode começar quando a pessoa ainda se encontra dentro da escuridão.
+A libertação não começa necessariamente quando tudo se torna luminoso, ela pode começar quando a pessoa ainda se encontra dentro da escuridão.
 
 Na noite de Pessach ocorre, segundo a Cabalá luriana, algo extraordinário: níveis elevados de consciência espiritual são concedidos de maneira excepcionalmente rápida.
 
-Normalmente existe uma progressão gradual:
-
-**Katnut → crescimento → Gadlut.**
+Normalmente existe uma progressão gradual: **Katnut → crescimento → Gadlut**.
 
 Em Pessach, porém, ocorre uma espécie de **dilug — salto**.
 
@@ -114,15 +100,11 @@ Depois, durante a Contagem do Omer, a pessoa terá de reconstruir gradualmente a
 
 ### Mistério espiritual do versículo
 
-O primeiro versículo estabelece, portanto, um princípio:
+O primeiro versículo estabelece, portanto, um princípio de que **a Gueulá começa com uma Luz que desperta a alma antes que ela tenha conseguido libertar-se completamente por seus próprios esforços.**
 
-> **A Gueulá começa com uma Luz que desperta a alma antes que ela tenha conseguido libertar-se completamente por seus próprios esforços.**
+Primeiro vem um chamado do Alto, depois começa o trabalho de baixo.
 
-Primeiro vem um chamado do Alto.
-
-Depois começa o trabalho de baixo.
-
----
+<!-----
 
 # Devarim 16:2
 
@@ -2139,3 +2121,4 @@ A grande lição do capítulo pode, portanto, ser condensada numa única ideia:
 E este talvez seja o segredo mais profundo de Devarim 16:
 
 **a redenção começa quando a Luz nos encontra na noite, mas somente se completa quando essa Luz chega às nossas mãos, aos nossos portões, aos nossos relacionamentos e à nossa maneira de fazer justiça no mundo.**
+-->

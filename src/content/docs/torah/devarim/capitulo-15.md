@@ -40,7 +40,7 @@ Quando o fluxo é interrompido, surge o estado denominado simbolicamente **din**
 
 Quando o fluxo volta a circular de maneira ordenada, ocorre **hamtakat ha-dinim**, a adoçagem ou mitigação dos julgamentos.
 
-<!-----
+---
 
 # Devarim 15:1
 
@@ -48,73 +48,57 @@ Quando o fluxo volta a circular de maneira ordenada, ocorre **hamtakat ha-dinim*
 > *Miketz sheva shanim ta'aseh shemitah.*  
 > “Ao fim de sete anos farás uma remissão.”
 
-## Sentido literal — Peshat
+### Sentido literal — Peshat
 
 A Torah determina um ciclo de sete anos. Ao término desse período ocorre a **Shemitat Kesafim**, a remissão das dívidas entre israelitas.
 
 O princípio fundamental é que determinada obrigação financeira não pode continuar indefinidamente como instrumento de domínio de um ser humano sobre outro.
 
-O credor possui um direito real; entretanto, a própria Torah estabelece um limite temporal para esse direito.
+O credor possui um direito real, entretanto, a própria Torah estabelece um limite temporal para esse direito.
 
-Essa ideia é extraordinária: a Torah reconhece a propriedade, os contratos e as obrigações, mas declara que **nenhuma estrutura econômica humana é absoluta diante de HaShem**.
+Essa ideia é extraordinária! A Torah reconhece a propriedade, os contratos e as obrigações, mas declara que **nenhuma estrutura econômica humana é absoluta diante de HaShem**.
 
-Existe um momento em que a própria ordem divina diz:
+Existe um momento em que a própria ordem divina diz: **“Solta.”**
 
-**“Solta.”**
-
-## O segredo do número sete
+### O segredo do número sete
 
 O número sete é um dos principais códigos estruturais da Torah.
 
 Na linguagem cabalística, as sete unidades correspondem frequentemente às **sete sefirot inferiores**:
 
-**Chesed — חסד**  
-**Gevurah — גבורה**  
-**Tiferet — תפארת**  
-**Netzach — נצח**  
-**Hod — הוד**  
-**Yesod — יסוד**  
-**Malchut — מלכות**
+1. **Chesed — חסד**  
+2. **Gevurah — גבורה**  
+3. **Tiferet — תפארת**  
+4. **Netzach — נצח**  
+5. **Hod — הוד**  
+6. **Yesod — יסוד**  
+7. **Malchut — מלכות**
 
 Essas sete sefirot constituem a estrutura através da qual a realidade emocional, relacional e concreta é organizada.
 
-O ciclo de sete dias culmina no **Shabbat**.
-
-O ciclo agrícola de sete anos culmina na **Shemitá**.
-
-Ciclos maiores culminam no **Yovel**, o Jubileu.
+- O ciclo de sete dias culmina no **Shabbat**.
+- O ciclo agrícola de sete anos culmina na **Shemitá**.
+- Ciclos maiores culminam no **Yovel**, o Jubileu.
 
 O princípio é semelhante: depois do período de manifestação e atividade deve existir um movimento de **retorno à raiz**.
 
-## Shemitá e Malchut
+### Shemitá e Malchut
 
 Dentro da linguagem do Zohar e da tradição cabalística, o sétimo nível possui uma relação natural com **Malchut**, a última das sete sefirot emocionais.
 
-Malchut é o recipiente.
+Malchut é o recipiente. Ela recebe de todas as sefirot anteriores.
 
-Ela recebe de todas as sefirot anteriores.
-
-Por isso existe um paradoxo:
-
-Malchut é a mais pobre das sefirot porque, em si mesma, “não possui nada próprio” — **לית לה מגרמה כלום**, na conhecida linguagem do Zohar — e, justamente por isso, torna-se o recipiente no qual todas as influências superiores podem ser manifestadas.
+Por isso existe um paradoxo: Malchut é a mais pobre das sefirot porque, em si mesma, “não possui nada próprio” — **לית לה מגרמה כלום**, na conhecida linguagem do Zohar — e, justamente por isso, torna-se o recipiente no qual todas as influências superiores podem ser manifestadas.
 
 A Shemitá revela algo semelhante.
 
-Durante seis anos o homem age como administrador:
+Durante seis anos o homem age como administrador: “meu campo”, “meu dinheiro”, “meu crédito”, “meu trabalho”, “meu resultado”.
 
-“meu campo”,  
-“meu dinheiro”,  
-“meu crédito”,  
-“meu trabalho”,  
-“meu resultado”.
-
-No sétimo período surge uma correção:
-
-**aquilo que chamamos de “meu” nunca foi absolutamente meu.**
+No sétimo período surge uma correção: **aquilo que chamamos de “meu” nunca foi absolutamente meu.**
 
 Tudo permanece pertencendo, em última instância, ao Ein Sof.
 
-## Interpretação luriânica
+### Interpretação luriânica
 
 Na Cabalá do Arizal, a realidade inferior precisa periodicamente passar por estados de **aliyah — elevação**.
 
@@ -122,17 +106,13 @@ Os mundos e partzufim não permanecem espiritualmente estáticos. Existem estado
 
 A Shemitá pode ser compreendida dentro desse padrão: aquilo que estava envolvido na atividade inferior retorna, simbolicamente, a um estado de maior integração com sua raiz.
 
-O “soltar” da Shemitá representa, portanto, mais que perdão econômico.
-
-É um arquétipo de **devolver os kelim — recipientes — à correta relação com a luz**.
+O “soltar” da Shemitá representa, portanto, mais que perdão econômico. É um arquétipo de **devolver os kelim — recipientes — à correta relação com a luz**.
 
 O erro espiritual consiste em imaginar que o recipiente possui a luz.
 
-A Shemitá recorda:
+A Shemitá recorda: **o keli recebe a luz; não é proprietário da luz.**
 
-**o keli recebe a luz; não é proprietário da luz.**
-
----
+<!-----
 
 # Devarim 15:2
 

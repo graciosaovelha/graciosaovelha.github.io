@@ -62,11 +62,11 @@ Essa descida é profundamente cabalística.
 
 A santidade autêntica não termina no êxtase do místico, ela precisa chegar até o alimento e até aquele que tem fome.
 
-<!-----
+---
 
 # Devarim 14:1
 
-## “Filhos sois de YHWH, vosso Deus; não vos cortareis e não fareis calva entre os olhos por causa de um morto.”
+> “Filhos sois de YHWH, vosso Deus; não vos cortareis e não fareis calva entre os olhos por causa de um morto.”
 
 ### Peshat
 
@@ -83,9 +83,7 @@ A Torah estabelece limites inclusive para a dor.
 
 A primeira expressão é extraordinariamente importante.
 
-Antes da proibição, vem a relação:
-
-**בנים אתם — banim atem.**
+Antes da proibição, vem a relação **בנים אתם — banim atem.**
 
 A identidade antecede a disciplina.
 
@@ -107,9 +105,7 @@ O recipiente corporal perde a manifestação de vida que o animava.
 
 Por essa razão, a morte está associada à intensificação de determinados estados de *din* — julgamento ou contração.
 
-A Torah ordena:
-
-> não adicionem destruição à destruição.
+A Torah ordena: não adicionem destruição à destruição.
 
 Diante de um recipiente que perdeu sua vitalidade, Israel não deve produzir outra ruptura no próprio corpo.
 
@@ -117,21 +113,15 @@ Diante de um recipiente que perdeu sua vitalidade, Israel não deve produzir out
 
 No pensamento cabalístico, o corpo pode ser entendido como um **kli — כלי**, recipiente.
 
-O objetivo do recipiente não é ser desprezado.
-
-É tornar-se capaz de manifestar santidade.
+O objetivo do recipiente não é ser desprezado, é tornar-se capaz de manifestar santidade.
 
 Cortar o próprio corpo ritualmente por causa do morto introduziria uma linguagem espiritual equivocada: como se a perda exigisse outra perda.
 
-A Torah estabelece justamente o contrário:
-
-**a resposta à retirada da vida deve preservar os recipientes da vida.**
+A Torah estabelece justamente o contrário: **a resposta à retirada da vida deve preservar os recipientes da vida.**
 
 ### Os cabelos e os dinim
 
-Na iconografia do Zohar e especialmente nas descrições dos *Partzufim*, os cabelos — **se‘arot — שערות** — aparecem como canais extremamente contraídos pelos quais determinadas luzes passam.
-
-Por isso frequentemente estão associados à manifestação reduzida e filtrada da energia.
+Na iconografia do Zohar e especialmente nas descrições dos *Partzufim*, os cabelos — **se‘arot — שערות** — aparecem como canais extremamente contraídos pelos quais determinadas luzes passam. Por isso frequentemente estão associados à manifestação reduzida e filtrada da energia.
 
 Entretanto, seria excessivo afirmar que a proibição da “calva entre os olhos” foi dada exclusivamente devido a essa estrutura cabalística.
 
@@ -147,7 +137,7 @@ A destruição de si mesmo não é transformada em santidade pelo fato de nascer
 
 A primeira disciplina espiritual de Devarim 14 consiste em aprender que mesmo o sofrimento deve ser colocado dentro de um recipiente.
 
----
+<!-----
 
 # Devarim 14:2
 
