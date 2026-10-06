@@ -114,7 +114,27 @@ Faça uma análise minuciosa e detalhada do capítulo X do livro Bereshit (Gêne
 -->
 
 <!--
+draft: false
 status: em-andamento
 status: em-revisao
 status: concluido
+-->
+
+<!--
+sidebar:
+  order: 85
+---
+
+<a href="https://drive.google.com/file/d/1uXrEP-7VljQtBanHvWOjnUbOZMUThJAg/view?usp=sharing" target="_blank" rel="noopener noreferrer">🎧 Ouvir áudio</a> | <a href="https://drive.google.com/uc?export=download&id=1uXrEP-7VljQtBanHvWOjnUbOZMUThJAg" target="_blank" rel="noopener noreferrer">⬇️ Baixar áudio</a>
+
+---
+
+**Nitzavim–Vayeilech** abrange:
+
+> **Nitzavim:** Devarim/Deuteronômio 29:9–30:20  
+> **Vayeilech:** Devarim/Deuteronômio 31:1–30
+
+- <a href="/torah/devarim/capitulo-29/" target="_blank" rel="noopener noreferrer">Devarim — Capítulo 29</a>  
+- <a href="/torah/devarim/capitulo-30/" target="_blank" rel="noopener noreferrer">Devarim — Capítulo 30</a>  
+- <a href="/torah/devarim/capitulo-31/" target="_blank" rel="noopener noreferrer">Devarim — Capítulo 31</a>  
 -->

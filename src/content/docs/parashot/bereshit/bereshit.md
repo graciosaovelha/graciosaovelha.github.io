@@ -9,6 +9,10 @@ sidebar:
   order: 1
 ---
 
+<a href="https://drive.google.com/file/d/1lpvE5RJLPEP21c6F-stiTmg93fIpKinq/view?usp=sharing" target="_blank" rel="noopener noreferrer">🎧 Ouvir áudio</a> | <a href="https://drive.google.com/uc?export=download&id=1lpvE5RJLPEP21c6F-stiTmg93fIpKinq" target="_blank" rel="noopener noreferrer">⬇️ Baixar áudio</a>
+
+---
+
 **Parashat Bereshit** está em **Bereshit/Gênesis 1:1–6:8**.
 
 - <a href="/torah/bereshit/capitulo-01/" target="_blank" rel="noopener noreferrer">Bereshit — Capítulo 1</a>

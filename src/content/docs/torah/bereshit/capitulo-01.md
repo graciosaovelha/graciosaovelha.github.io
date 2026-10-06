@@ -1,7 +1,8 @@
 ---
 title: "Bereshit — Capítulo 1"
 description: "Uma leitura cabalística de Bereshit — Gênesis 1."
-draft: true
+draft: false
+status: em-andamento
 category: torah
 book: bereshit
 chapter: 1
@@ -9,32 +10,17 @@ chapter: 1
 
 ## Introdução: como a Cabalá lê o relato da Criação
 
-O primeiro capítulo de **Bereshit — Gênesis** é chamado, na tradição judaica, de parte do **Ma'aseh Bereshit**, o “Mistério” ou “Obra da Criação”. Para a Cabalá, este texto não é apenas uma narrativa sobre a origem física do universo. Ele descreve, em linguagem extremamente condensada, os princípios pelos quais o Infinito se manifesta como mundos, consciências, almas, formas, limites, tempo e matéria.
+O primeiro capítulo de **Bereshit — Gênesis** é chamado, na tradição judaica, de parte do **Ma'aseh Bereshit**, o “Mistério” ou “Obra da Criação”. 
 
-É importante, porém, fazer uma distinção essencial. A Cabalá clássica não elimina o sentido simples da Torah. O princípio de interpretação conhecido como **PaRDeS** estabelece quatro níveis:
+Para a Cabalá, este texto não é apenas uma narrativa sobre a origem física do universo, ele descreve, em linguagem extremamente condensada, os princípios pelos quais o Infinito se manifesta como mundos, consciências, almas, formas, limites, tempo e matéria.
 
-* **Peshat** — פשט — sentido simples ou contextual;
-* **Remez** — רמז — alusão;
-* **Derash** — דרש — interpretação homilética;
-* **Sod** — סוד — segredo ou dimensão esotérica.
-
-A interpretação cabalística pertence principalmente ao **Sod**, mas não deveria destruir o Peshat. O espiritual está “vestido” no texto.
-
-Também deve ser esclarecido que o sistema cosmológico do **Rabi Yitzchak Luria, o Arizal** (1534–1572) — com conceitos como **Tzimtzum**, **Reshimu**, **Kav**, **Adam Kadmon**, **Shevirat HaKelim**, **Nitzotzot** e **Tikkun** — não é simplesmente uma tradução literal de Gênesis 1. Trata-se de uma tradição metafísica posterior que interpreta a Torah como contendo, em forma velada, os mesmos princípios espirituais.
-
-Assim, quando relacionamos determinado versículo ao Tzimtzum ou à quebra dos vasos, estamos fazendo uma **leitura lurianica do Sod**, e não afirmando que a palavra hebraica tenha literalmente aquele significado.
-
----
-
-# 1. A arquitetura cabalística de Gênesis 1
+### A arquitetura cabalística de Gênesis 1
 
 Antes de examinarmos os 31 versículos, algumas estruturas ajudam a compreender o conjunto.
 
-## 1.1 Os 32 caminhos da Sabedoria
+#### Os 32 caminhos da Sabedoria
 
-O **Sefer Yetzirah** começa falando de:
-
-> “Trinta e dois maravilhosos caminhos da Sabedoria.”
+O **Sefer Yetzirah** começa falando de “Trinta e dois maravilhosos caminhos da Sabedoria.”
 
 Esses 32 caminhos são tradicionalmente associados a:
 
@@ -47,18 +33,14 @@ Assim, o capítulo pode ser contemplado como a manifestação dos **32 Netivot C
 
 A criação ocorre simultaneamente por:
 
-1. estrutura — as dez Sefirot;
-2. linguagem — as vinte e duas letras.
+* estrutura — as dez Sefirot;
+* linguagem — as vinte e duas letras.
 
 O universo é, portanto, contemplado pela Cabalá como uma realidade estruturada por **medidas espirituais e linguagem divina**.
 
----
+#### O Nome Elohim
 
-## 1.2 O Nome Elohim
-
-O Nome predominante em Gênesis 1 é:
-
-**אלהים — Elohim**
+O Nome predominante em Gênesis 1 é: **אלהים — Elohim**.
 
 Na linguagem cabalística, Elohim está particularmente associado à dimensão de:
 
@@ -71,37 +53,21 @@ Na linguagem cabalística, Elohim está particularmente associado à dimensão d
 
 Isso é profundamente apropriado.
 
-Para criar um universo finito, não basta haver infinita expansão. É necessário haver **limites**.
+Para criar um universo finito, não basta haver infinita expansão, é necessário haver **limites**.
 
-Uma conhecida associação de guematria é:
-
-**אלהים — Elohim = 86**
-
-e
-
-**הטבע — HaTeva, “a natureza” = 86**
+Uma conhecida associação de guematria é: **אלהים — Elohim = 86** e **הטבע — HaTeva, “a natureza” = 86**.
 
 Essa equivalência, muito utilizada na literatura cabalística posterior, ensina que aquilo que percebemos como “leis da natureza” pode ser contemplado como a ocultação da ação de Elohim.
 
-A natureza não seria, nesse modelo, ausência do Divino.
+A natureza não seria, nesse modelo, ausência do Divino, seria o Divino agindo através de regularidade, medida e ocultação.
 
-Seria o Divino agindo através de regularidade, medida e ocultação.
+#### Criação e Tzimtzum
 
----
+Segundo o Arizal, antes dos mundos há o mistério denominado: **Ein Sof — אין סוף — o Infinito**.
 
-## 1.3 Criação e Tzimtzum
+Não significa simplesmente “um ser muito grande”, significa aquilo a respeito do qual toda limitação conceitual é inadequada.
 
-Segundo o Arizal, antes dos mundos há o mistério denominado:
-
-**Ein Sof — אין סוף — o Infinito.**
-
-Não significa simplesmente “um ser muito grande”. Significa aquilo a respeito do qual toda limitação conceitual é inadequada.
-
-Na exposição lurianica, fala-se então do:
-
-**Tzimtzum — צמצום**
-
-uma “contração” ou ocultação da Luz Infinita.
+Na exposição lurianica, fala-se então do **Tzimtzum — צמצום**, uma “contração” ou ocultação da Luz Infinita.
 
 Não devemos imaginar ingenuamente que Deus saiu de determinado espaço físico. Espaço ainda não existia.
 
@@ -118,27 +84,15 @@ Após o Tzimtzum, a linguagem do Arizal fala de:
 * quebra;
 * retificação.
 
-Gênesis 1 pode ser lido, no Sod, como o eco dessas sucessivas operações de:
+Gênesis 1 pode ser lido, no Sod, como o eco dessas sucessivas operações de **revelar → limitar → diferenciar → relacionar → ordenar → vivificar → integrar**.
 
-**revelar → limitar → diferenciar → relacionar → ordenar → vivificar → integrar.**
+#### Tohu, quebra dos vasos e Tikkun
 
----
-
-## 1.4 Tohu, quebra dos vasos e Tikkun
-
-Outro conceito central do Arizal é a distinção entre:
-
-**Olam HaTohu — עולם התהו — Mundo do Caos**
-
-e
-
-**Olam HaTikkun — עולם התיקון — Mundo da Retificação.**
+Outro conceito central do Arizal é a distinção entre **Olam HaTohu — עולם התהו — Mundo do Caos** e **Olam HaTikkun — עולם התיקון — Mundo da Retificação**.
 
 No Tohu, há luzes intensas e vasos incapazes de integrá-las harmonicamente.
 
-A tradição lurianica descreve então:
-
-**Shevirat HaKelim — שבירת הכלים — a quebra dos vasos.**
+A tradição lurianica descreve então: **Shevirat HaKelim — שבירת הכלים — a quebra dos vasos**.
 
 Fragmentos ou “centelhas” de santidade, **Nitzotzot**, tornam-se envolvidos em estados de ocultação.
 
@@ -146,23 +100,14 @@ O Tikkun consiste na reorganização correta das forças.
 
 Essa é uma chave extraordinariamente importante para Gênesis 1.
 
-O capítulo começa com:
-
-> “Tohu vaVohu”
-
-e prossegue por sucessivas separações e integrações até chegar a:
-
-> “Tov Me'od” — “muito bom”.
+O capítulo começa com: “Tohu vaVohu”, e prossegue por sucessivas separações e integrações até chegar a: “Tov Me'od” — “muito bom”.
 
 Podemos resumir sua dinâmica espiritual assim:
 
-**Tohu → Havdalah → Seder → Chayyim → Adam → Tov Me'od**
+> **Tohu → Havdalah → Seder → Chayyim → Adam → Tov Me'od**  
+> Caos → diferenciação → ordem → vida → ser humano → integração
 
-Caos → diferenciação → ordem → vida → ser humano → integração.
-
----
-
-# 2. Os sete dias e as sete Sefirot inferiores
+### 2. Os sete dias e as sete Sefirot inferiores
 
 Uma correspondência tradicional muito utilizada associa os sete dias às sete Sefirot emocionais:
 
@@ -180,7 +125,7 @@ Existem nuances e outras correspondências na literatura cabalística. Esta tabe
 
 O capítulo 1 termina no sexto dia. O sétimo dia propriamente dito aparece em **Gênesis 2:1–3**.
 
----
+<!-----
 
 # GÊNESIS 1:1
 
@@ -3313,3 +3258,4 @@ Esta análise é uma síntese interpretativa baseada principalmente nas linhas d
 * tradições posteriores da Cabalá e do pensamento chassídico que aplicam esses princípios ao serviço interior do ser humano.
 
 Deve-se ter em mente que nem toda correspondência apresentada acima aparece literalmente formulada pelo Arizal versículo por versículo. A análise combina o **Peshat**, tradições do **Midrash**, ensinamentos do **Zohar** e conceitos da escola lurianica para produzir uma leitura coerente dentro do universo clássico da Cabalá judaica.
+-->
