@@ -8,43 +8,25 @@ book: bereshit
 chapter: 6
 ---
 
-<!--# Bereshit 6 — Análise Cabalística Versículo por Versículo
+# Introdução:
 
-## O Dilúvio, a ruptura de Yesod e a construção do vaso do Tikkun
+O sexto capítulo de **Bereshit** é muito mais do que a introdução histórica ao Dilúvio. 
 
-> **Parashat Noach — Bereshit / Gênesis, capítulo 6**
-
----
-
-## Introdução: como ler Bereshit 6 segundo a Cabalá
-
-O sexto capítulo de **Bereshit** é muito mais do que a introdução histórica ao Dilúvio. Do ponto de vista da tradição mística judaica, ele descreve uma crise profunda na própria estrutura pela qual a vitalidade divina chega ao mundo.
+Do ponto de vista da tradição mística judaica, ele descreve uma crise profunda na própria estrutura pela qual a vitalidade divina chega ao mundo.
 
 No plano literal, encontramos uma humanidade moralmente corrompida, violência generalizada, desordem sexual, os misteriosos *Benei HaElohim*, os *Nephilim*, Noach sendo escolhido, o anúncio do Dilúvio e a construção da *tevá*, a arca.
 
 No plano do **Sod**, porém, o capítulo pode ser lido como a descrição de uma ruptura dos **kelim**, os vasos destinados a receber e ordenar o fluxo da vida.
 
-A linguagem do Arizal permite reconhecer aqui uma estrutura semelhante, por analogia, ao drama de:
+A linguagem do Arizal permite reconhecer aqui uma estrutura semelhante, por analogia, ao drama de: **Orot → Kelim → excesso/desordem → Shevirah → Birur → Tikkun**.
 
-**Orot → Kelim → excesso/desordem → Shevirah → Birur → Tikkun.**
+Isso não significa que o Dilúvio histórico seja literalmente a *Shevirat HaKelim* primordial descrita pelo Arizal. A quebra dos vasos pertence à cosmogonia que antecede a história humana. 
 
-Isso não significa que o Dilúvio histórico seja literalmente a *Shevirat HaKelim* primordial descrita pelo Arizal. A quebra dos vasos pertence à cosmogonia que antecede a história humana. O que ocorre em Bereshit 6 pode ser entendido como uma **reprodução, dentro da história, da mesma lógica espiritual**: forças poderosas deixam de permanecer dentro de limites adequados.
+O que ocorre em Bereshit 6 pode ser entendido como uma **reprodução, dentro da história, da mesma lógica espiritual**: forças poderosas deixam de permanecer dentro de limites adequados.
 
 O problema central do capítulo é, portanto, o problema do **limite**.
 
-A sexualidade perde seus limites.
-
-O desejo perde seus limites.
-
-A apropriação de bens perde seus limites.
-
-A violência perde seus limites.
-
-A distinção entre espécies começa a perder seus limites.
-
-O poder espiritual perde seus limites.
-
-E, finalmente, também as águas perderão seus limites.
+A sexualidade perde seus limites, o desejo perde seus limites, a apropriação de bens perde seus limites, a violência perde seus limites, a distinção entre espécies começa a perder seus limites, o poder espiritual perde seus limites, e finalmente, também as águas perderão seus limites.
 
 O Dilúvio corresponde, em certo sentido, à manifestação exterior daquilo que a humanidade já havia produzido interiormente.
 
@@ -54,35 +36,24 @@ Entretanto, em meio a esse colapso surge a **Tevá de Noach**.
 
 E a característica mais impressionante da arca é justamente o contrário da geração do Dilúvio:
 
-ela possui medidas.
-
-Comprimento determinado.
-
-Largura determinada.
-
-Altura determinada.
-
-Compartimentos determinados.
-
-Entrada determinada.
-
-Níveis determinados.
-
-Espécies separadas segundo suas categorias.
-
-Masculino e feminino novamente ordenados.
-
-Alimento cuidadosamente recolhido.
+- Ela possui medidas.
+- Comprimento determinado.
+- Largura determinada.
+- Altura determinada.
+- Compartimentos determinados.
+- Entrada determinada.
+- Níveis determinados.
+- Espécies separadas segundo suas categorias.
+- Masculino e feminino novamente ordenados.
+- Alimento cuidadosamente recolhido.
 
 A *tevá* é, portanto, um grande símbolo do **Kli de Tikkun**, o vaso retificado.
 
-A geração vive sem medida.
-
-A arca é construída por medida.
+A geração vive sem medida, a arca é construída por medida.
 
 Essa oposição constitui uma das chaves mais profundas de todo o capítulo.
 
----
+<!-----
 
 # Bereshit 6:1
 

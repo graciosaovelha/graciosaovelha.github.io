@@ -40,23 +40,16 @@ Na leitura mística, indica uma condição em que existe maior transparência en
 
 A materialidade ainda não exerce sobre eles o mesmo grau de ocultação que exercerá posteriormente.
 
-<!--### O que muda depois do pecado?
+### O que muda depois do pecado?
 
-Na linguagem luriânica, o pecado de Adam não “cria o mal do nada”.
-
-A possibilidade da ruptura já pertence à estrutura cósmica.
+Na linguagem luriânica, o pecado de Adam não “cria o mal do nada”. A possibilidade da ruptura já pertence à estrutura cósmica.
 
 A Cabalá do Ari fala de processos anteriores à criação histórica de Adam, incluindo:
 
-**Olam HaTohu,**
-
-**Shevirat HaKelim,**
-
-**queda das centelhas**
-
-e
-
-**existência das Kelipot.**
+- **Olam HaTohu,**
+- **Shevirat HaKelim,**
+- **queda das centelhas**
+- **existência das Kelipot**
 
 Adam é colocado num mundo em que existe um trabalho de Tikkun a realizar.
 
@@ -64,59 +57,30 @@ Sua transgressão, porém, produz uma nova mistura.
 
 Em vez de completar o refinamento das centelhas, Adam se envolve com a própria mistura.
 
-O resultado é que:
+O resultado é que **o trabalho que poderia ter sido realizado de maneira relativamente direta torna-se histórico, prolongado e doloroso**.
 
-**o trabalho que poderia ter sido realizado de maneira relativamente direta torna-se histórico, prolongado e doloroso.**
-
----
-
-# Etz HaDa’at — por que a árvore é tão importante?
+### Etz HaDa’at — por que a árvore é tão importante?
 
 A árvore proibida é chamada:
 
-**עץ הדעת טוב ורע — Etz HaDa’at Tov vaRa**
+> **עץ הדעת טוב ורע — Etz HaDa’at Tov vaRa**  
+> “Árvore do Conhecimento do Bem e do Mal”.
 
-“Árvore do Conhecimento do Bem e do Mal”.
-
-É essencial observar novamente:
-
-ela não é chamada simplesmente de:
-
-“árvore do mal”.
-
-Seu nome envolve:
-
-**bem e mal juntos.**
+É essencial observar novamente que ela não é chamada simplesmente de “árvore do mal”. Seu nome envolve **bem e mal juntos**.
 
 Essa expressão é a chave cabalística de todo o capítulo.
 
-Antes da transgressão, o mal é percebido como algo mais externo à essência consciente de Adam.
+Antes da transgressão, o mal é percebido como algo mais externo à essência consciente de Adam. Depois da transgressão, ele torna-se profundamente interiorizado.
 
-Depois da transgressão, ele torna-se profundamente interiorizado.
-
-O campo da escolha humana passa a ser caracterizado por uma mistura:
-
-**Tov dentro de Ra**
-
-e
-
-**Ra dentro de Tov.**
+O campo da escolha humana passa a ser caracterizado por uma mistura de **Tov dentro de Ra** e **Ra dentro de Tov**.
 
 A partir desse momento, quase nenhuma realidade humana é simples.
 
-Uma boa ação pode conter ego.
+Uma boa ação pode conter ego. Um desejo aparentemente espiritual pode conter busca de poder. Uma dificuldade pode conter uma centelha de crescimento. Uma situação material aparentemente banal pode conter uma centelha de santidade.
 
-Um desejo aparentemente espiritual pode conter busca de poder.
+Esse é precisamente o mundo do **Birur**.
 
-Uma dificuldade pode conter uma centelha de crescimento.
-
-Uma situação material aparentemente banal pode conter uma centelha de santidade.
-
-Esse é precisamente o mundo do:
-
-**Birur.**
-
----
+<!-----
 
 # Bereshit 3:1
 

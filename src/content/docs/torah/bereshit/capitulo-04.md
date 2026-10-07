@@ -8,41 +8,23 @@ book: bereshit
 chapter: 4
 ---
 
-<!--# Bereshit 4 — Análise Cabalística e Luriânica Versículo por Versículo
-
-## Introdução — Quando a ruptura interior se torna ruptura entre irmãos
+# Introdução — Quando a ruptura interior se torna ruptura entre irmãos
 
 Bereshit 3 descreveu a entrada da mistura de **Tov e Ra** na experiência humana.
 
-Adam e Chavah experimentaram:
-
-- vergonha;
-- ocultação;
-- medo;
-- transferência de responsabilidade;
-- afastamento do Gan Eden.
+Adam e Chavah experimentaram vergonha, ocultação, medo, transferência de responsabilidade e afastamento do Gan Eden.
 
 Bereshit 4 mostra a consequência seguinte.
 
 Aquilo que no capítulo anterior estava principalmente **dentro do ser humano** agora aparece **entre seres humanos**.
 
-A primeira geração nascida fora do Gan Eden produz:
+A primeira geração nascida fora do Gan Eden produz **irmandade, oferenda, inveja, assassinato, exílio, cidade, tecnologia, arte e violência**.
 
-**irmandade, oferenda, inveja, assassinato, exílio, cidade, tecnologia, arte e violência.**
+Isso torna Bereshit 4 um dos capítulos mais densos de toda a antropologia espiritual da Torá. Ele responde a uma pergunta fundamental: **O que acontece quando o homem, já carregando dentro de si a mistura de Tov e Ra, encontra outro ser humano que deseja, oferece, prospera e recebe reconhecimento?**
 
-Isso torna Bereshit 4 um dos capítulos mais densos de toda a antropologia espiritual da Torá.
+A resposta começa com **Kayin e Hevel**.
 
-Ele responde a uma pergunta fundamental:
-
-> O que acontece quando o homem, já carregando dentro de si a mistura de Tov e Ra, encontra outro ser humano que deseja, oferece, prospera e recebe reconhecimento?
-
-A resposta começa com:
-
-**Kayin e Hevel.**
-
----
-
-# Estrutura cabalística geral do capítulo
+### Estrutura cabalística geral do capítulo
 
 Podemos antecipar algumas de suas grandes forças:
 
@@ -68,17 +50,11 @@ Em linguagem luriânica, Bereshit 4 pode ser lido como um capítulo sobre **for�
 
 A diferença entre Kayin e Hevel não precisava terminar em assassinato.
 
-O problema não está em haver diferenças.
+O problema não está em haver diferenças, o problema está em uma diferença que não consegue participar de uma unidade maior.
 
-O problema está em uma diferença que não consegue participar de uma unidade maior.
+Esse é precisamente um dos traços de **Tohu**.
 
-Esse é precisamente um dos traços de:
-
-**Tohu.**
-
----
-
-# Antes de Kayin e Hevel: a consequência de Bereshit 3
+### Antes de Kayin e Hevel: a consequência de Bereshit 3
 
 Adam e Chavah já não vivem no Gan Eden.
 
@@ -88,23 +64,15 @@ A terra exige trabalho.
 
 A mortalidade entrou na condição humana.
 
-A humanidade agora precisa realizar sua missão dentro de:
-
-**Hester — ocultação.**
+A humanidade agora precisa realizar sua missão dentro de **Hester — ocultação**.
 
 Os filhos de Adam, portanto, não nascem dentro da transparência anterior à queda.
 
-Eles nascem num mundo onde:
-
-**o desejo já está misturado,**
-
-**a matéria já oferece resistência,**
-
-**e a consciência humana já pode esconder-se de Deus.**
+Eles nascem num mundo onde **o desejo já está misturado, a matéria já oferece resistência e a consciência humana já pode esconder-se de Deus**.
 
 Bereshit 4 é a primeira demonstração histórica dessa nova condição.
 
----
+<!-----
 
 # Bereshit 4:1
 
