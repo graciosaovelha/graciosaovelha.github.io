@@ -40,65 +40,38 @@ O capítulo contém alguns dos fundamentos mais importantes para a Cabalá:
 | União conjugal | Yichud entre doador e receptor |
 | Nudez sem vergonha | Unidade anterior à consciência fragmentada |
 
-<!-----
+---
 
 # Bereshit 2:1
 
-## “Foram concluídos os céus e a terra e todo o seu exército”
-
-**ויכלו השמים והארץ וכל צבאם**
-
+> **ויכלו השמים והארץ וכל צבאם**  
 > “E foram concluídos os céus e a terra e todo o seu conjunto.”
 
----
-
-## Peshat — o sentido literal
+### Peshat — o sentido literal
 
 O primeiro versículo do segundo capítulo conclui a narrativa dos seis dias.
 
 Tudo aquilo que deveria ser criado encontra-se agora em sua estrutura fundamental.
 
-Os céus estão estabelecidos.
+Os céus estão estabelecidos, a terra está estabelecida e os seres que os ocupam estão estabelecidos.
 
-A terra está estabelecida.
-
-Os seres que os ocupam estão estabelecidos.
-
-A expressão:
-
-**וכל צבאם — vechol tzeva'am**
-
-pode ser traduzida como “todo o seu exército”, “toda a sua hoste” ou “todo o seu conjunto”.
+A expressão: **וכל צבאם — vechol tzeva'am** pode ser traduzida como “todo o seu exército”, “toda a sua hoste” ou “todo o seu conjunto”.
 
 A palavra **Tzava** indica uma multidão organizada em funções.
 
-Isso já contém uma sugestão importante:
+Isso já contém uma sugestão importante, de que o universo não é apresentado como uma coleção aleatória de objetos. Ele constitui uma **ordem**.
 
-o universo não é apresentado como uma coleção aleatória de objetos.
+### “Vayechulu” — conclusão e integração
 
-Ele constitui uma **ordem**.
-
----
-
-## “Vayechulu” — conclusão e integração
-
-A palavra:
-
-**ויכלו — Vayechulu**
-
-significa “foram concluídos”, “foram completados”.
+A palavra **ויכלו — Vayechulu** significa “foram concluídos”, “foram completados”.
 
 Na tradição mística, essa palavra recebe enorme importância porque inicia o texto recitado no Kiddush de sexta-feira à noite.
 
 O Shabbat começa com o reconhecimento de que a multiplicidade criada durante os seis dias atingiu uma unidade funcional.
 
-Durante os seis dias aparecem diferenças.
+Durante os seis dias aparecem diferenças, No Shabbat aparece sua integração.
 
-No Shabbat aparece sua integração.
-
----
-
-## Da multiplicidade para Malchut
+<!--## Da multiplicidade para Malchut
 
 Os seis primeiros dias podem ser associados às seis Sefirot:
 

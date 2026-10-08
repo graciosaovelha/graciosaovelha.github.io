@@ -125,108 +125,64 @@ Existem nuances e outras correspondências na literatura cabalística. Esta tabe
 
 O capítulo 1 termina no sexto dia. O sétimo dia propriamente dito aparece em **Gênesis 2:1–3**.
 
-<!-----
+---
 
 # GÊNESIS 1:1
 
-## בראשית ברא אלהים את השמים ואת הארץ
-
-**Bereshit bara Elohim et ha-shamayim ve'et ha-aretz.**
-
+> בראשית ברא אלהים את השמים ואת הארץ
+**Bereshit bara Elohim et ha-shamayim ve'et ha-aretz.**  
 > “No princípio, Elohim criou os céus e a terra.”
 
----
-
-## Peshat
+### Peshat
 
 O texto abre declarando a dependência radical de toda a realidade em relação ao Criador.
 
 “Céus e terra” funciona também como expressão abrangente: a totalidade do cosmos.
 
-A Torah não começa tentando provar filosoficamente a existência de Deus. Ela começa com Deus como pressuposto absoluto:
+A Torah não começa tentando provar filosoficamente a existência de Deus, ela começa com Deus como pressuposto absoluto: **Bereshit bara Elohim**.
 
-**Bereshit bara Elohim.**
+### O mistério de Bereshit
 
----
+A palavra **בראשית — Bereshit** possui enorme importância cabalística.
 
-## O mistério de Bereshit
+O Zohar e obras relacionadas exploram numerosas decomposições e permutações dessa palavra. Uma delas é:
 
-A palavra:
+> **ב־ראשית — Be-Reshit**  
+> “com/por meio de Reshit”.
 
-**בראשית — Bereshit**
-
-possui enorme importância cabalística.
-
-O Zohar e obras relacionadas exploram numerosas decomposições e permutações dessa palavra.
-
-Uma delas é:
-
-**ב־ראשית — Be-Reshit**
-
-“com/por meio de Reshit”.
-
-E o que é **Reshit**, “Princípio”?
-
-A Sabedoria.
+E o que é **Reshit**, “Princípio”? A Sabedoria.
 
 Como está escrito:
 
-**ראשית חכמה — Reshit Chokhmah**
+> **ראשית חכמה — Reshit Chokhmah**  
+> “O princípio é a Sabedoria.”
 
-“O princípio é a Sabedoria.”
-
-Assim:
-
-> “Bereshit bara”
-
-pode ser contemplado esotericamente como:
-
-**“Por meio de Chokhmah, Ele criou.”**
+Assim, “Bereshit bara” pode ser contemplado esotericamente como **“Por meio de Chokhmah, Ele criou”**.
 
 Chokhmah é o primeiro ponto concentrado de revelação consciente dentro da estrutura das Sefirot.
 
----
+### Bara Shit — “criou seis”
 
-## Bara Shit — “criou seis”
-
-Outra leitura famosa encontrada na tradição do Zohar divide:
-
-**בראשית**
-
-em:
-
-**ברא שית — Bara shit**
-
-isto é:
-
-**“criou seis.”**
+Outra leitura famosa encontrada na tradição do Zohar divide **בראשית** em **ברא שית — Bara shit**, isto é: **“criou seis”**.
 
 “Shit” significa “seis” em aramaico.
 
 Os “seis” são contemplados como as seis extremidades ou seis Sefirot:
 
-* Chesed;
-* Gevurah;
-* Tiferet;
-* Netzach;
-* Hod;
-* Yesod.
+1. Chesed;
+2. Gevurah;
+3. Tiferet;
+4. Netzach;
+5. Hod;
+6. Yesod.
 
 Juntas, elas constituem aquilo que a linguagem cabalística frequentemente organiza na configuração de **Zeir Anpin**.
 
 Bereshit já conteria, portanto, em estado seminal, a arquitetura do mundo manifestado.
 
----
+### Por que a Torah começa com Bet?
 
-## Por que a Torah começa com Bet?
-
-A primeira letra é:
-
-**ב — Bet**
-
-e não Alef.
-
-Bet vale **2**.
+A primeira letra é **ב — Bet** e não Alef. Bet vale **2**.
 
 O mundo criado pertence ao domínio da dualidade:
 
@@ -243,69 +199,36 @@ O **Alef**, unidade, permanece silenciosamente antes do Bet.
 
 Assim, uma leitura mística vê a primeira letra da Torah como uma entrada da Unidade invisível na multiplicidade.
 
-Outra tradição observa que **Bereshit** começa com a mesma letra de:
-
-**Berakhah — ברכה — bênção.**
+Outra tradição observa que **Bereshit** começa com a mesma letra de **Berakhah — ברכה — bênção**.
 
 A criação começa sob o signo da bênção.
 
----
+### Elohim e o limite
 
-## Elohim e o limite
-
-Por que aparece Elohim e não inicialmente o Tetragrama, YHWH?
-
-Porque criar envolve limitar.
+Por que aparece Elohim e não inicialmente o Tetragrama, YHWH? Porque criar envolve limitar.
 
 A Luz Infinita sem qualquer ocultação não permitiria a percepção de uma existência separada.
 
-Elohim representa o princípio de **medida**.
+Elohim representa o princípio de **medida**. Na leitura lurianica, isso ressoa com o mistério do Tzimtzum.
 
-Na leitura lurianica, isso ressoa com o mistério do Tzimtzum.
+Não significa que “Elohim = Tzimtzum” literalmente, significa que ambos expressam o princípio de que a manifestação exige **restrição, definição e recipiente**.
 
-Não significa que “Elohim = Tzimtzum” literalmente.
+### את — Et
 
-Significa que ambos expressam o princípio de que a manifestação exige **restrição, definição e recipiente**.
+Entre “criou Elohim” e “os céus” aparece a partícula **את — Et**. Gramaticalmente, ela marca o objeto direto definido.
 
----
-
-## את — Et
-
-Entre “criou Elohim” e “os céus” aparece a partícula:
-
-**את — Et**
-
-Gramaticalmente, ela marca o objeto direto definido.
-
-Mas cabalisticamente chama a atenção por ser formada por:
-
-**א — Alef**
-
-até
-
-**ת — Tav**
-
-a primeira e a última letras do alfabeto hebraico.
+Mas cabalisticamente chama a atenção por ser formada por **א — Alef** até **ת — Tav**, a primeira e a última letras do alfabeto hebraico.
 
 Assim, “Et” pode simbolizar a totalidade das **22 letras**.
 
-A criação não é apenas matéria.
-
-Ela é uma criação “alfabética”.
+A criação não é apenas matéria, ela é uma criação “alfabética”.
 
 Na linguagem do Sefer Yetzirah, Deus forma o mundo através das letras.
 
----
+### Shamayim e Aretz
 
-## Shamayim e Aretz
-
-**Shamayim — céus**
-
-representa o superior, transmissor, espiritual.
-
-**Aretz — terra**
-
-representa o receptor, manifestação, concretização.
+- **Shamayim — céus:** representa o superior, transmissor, espiritual.
+- **Aretz — terra:** representa o receptor, manifestação, concretização.
 
 Na Cabalá, numerosos pares posteriores podem ser contemplados nessa polaridade:
 
@@ -315,15 +238,11 @@ Na Cabalá, numerosos pares posteriores podem ser contemplados nessa polaridade:
 * fluxo/recipiente;
 * potencial/realização.
 
-O objetivo, porém, não é que céu e terra permaneçam separados.
-
-O objetivo da Torah será unir:
-
-**Shamayim e Aretz.**
+O objetivo, porém, não é que céu e terra permaneçam separados. O objetivo da Torah será unir: **Shamayim e Aretz**.
 
 Essa é uma definição possível do Tikkun.
 
----
+<!-----
 
 # GÊNESIS 1:2
 
