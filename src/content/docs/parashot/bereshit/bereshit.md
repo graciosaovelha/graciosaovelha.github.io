@@ -1198,11 +1198,11 @@ Mesmo que não seja Shabat, tente encerrar o dia com uma pequena pausa, entrega 
 
 # 43. Frase-chave da semana
 
-**“Haja luz”: o começo da cura é permitir que a verdade ilumine uma área ainda confusa.**
+> **“Haja luz”: o começo da cura é permitir que a verdade ilumine uma área ainda confusa.**
 
 Ou, de forma mais simples:
 
-**todo caos pode se tornar começo quando recebe luz, limite e responsabilidade.**
+> **todo caos pode se tornar começo quando recebe luz, limite e responsabilidade.**
 
 # Conclusão
 
