@@ -8,7 +8,7 @@ book: bereshit
 chapter: 6
 ---
 
-# Introdução:
+# Introdução
 
 O sexto capítulo de **Bereshit** é muito mais do que a introdução histórica ao Dilúvio. 
 
