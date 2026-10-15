@@ -42,9 +42,11 @@ A promessa divina de estabilidade surge somente na parte final do capítulo.
 
 Esse desenvolvimento nos ensina que a reconstrução espiritual ocorre por etapas.
 
-<!--# PARTE I — O JULGAMENTO COMEÇA A SER MITIGADO
+---
 
-## Bereshit 8:1–5
+# PARTE I — O JULGAMENTO COMEÇA A SER MITIGADO
+
+### Bereshit 8:1–5
 
 O primeiro movimento do capítulo descreve a transição das águas avassaladoras para o retorno gradual dos limites da terra.
 
@@ -52,27 +54,26 @@ Trata-se de uma inversão parcial da situação do Dilúvio. Aquilo que estava s
 
 Na perspectiva espiritual, essa fase representa o início da reorganização após uma crise.
 
+---
+
 ## VERSÍCULO 1 — DEUS SE LEMBRA DE NOACH
 
-> Bereshit 8:1
->
+> Bereshit 8:1  
 > "E Deus Se lembrou de Noach, e de todos os animais selvagens e de todos os animais domésticos que estavam com ele na arca; e Deus fez passar um vento sobre a terra, e as águas se aquietaram."
 
 Expressão hebraica central:
 
-וַיִּזְכֹּר אֱלֹהִים אֶת־נֹחַ
+> וַיִּזְכֹּר אֱלֹהִים אֶת־נֹחַ
+> Vayizkor Elohim et Noach.  
+> "E Deus Se lembrou de Noach."
 
-Vayizkor Elohim et Noach.
+### O significado literal — Peshat
 
-"E Deus Se lembrou de Noach."
-
-### 1. O significado literal — Peshat
-
-A Torah inicia o capítulo com a expressão Vayizkor Elohim, "E Deus Se lembrou".
+A Torah inicia o capítulo com a expressão **Vayizkor Elohim**, "E Deus Se lembrou".
 
 Isso não significa que o Criador tivesse esquecido Noach ou os animais.
 
-Na linguagem bíblica, o verbo zachar (זכר), lembrar, quando aplicado a Deus, frequentemente indica que uma atenção divina anteriormente estabelecida passa a manifestar-se em acontecimentos concretos.
+Na linguagem bíblica, o verbo **zachar (זכר) - lembrar**, quando aplicado a Deus, frequentemente indica que uma atenção divina anteriormente estabelecida passa a manifestar-se em acontecimentos concretos.
 
 Em Bereshit 6:18, Deus já havia anunciado a Noach o estabelecimento de uma aliança. O início do capítulo 8 mostra a continuidade dessa fidelidade.
 
@@ -82,39 +83,32 @@ A preservação divina envolve a totalidade da vida que foi confiada à arca.
 
 O versículo prossegue dizendo que Deus fez passar um ruach sobre a terra.
 
-A palavra hebraica רוּחַ — ruach pode significar vento, sopro ou espírito, conforme o contexto.
+A palavra hebraica **רוּחַ — ruach** pode significar vento, sopro ou espírito, conforme o contexto.
 
 Literalmente, o versículo descreve um vento associado ao recuo das águas. Espiritualmente, a palavra permite estabelecer uma conexão com a narrativa original da Criação.
 
-### 2. O segredo do Ruach — A conexão com Bereshit 1:2
+### O segredo do Ruach — A conexão com Bereshit 1:2
 
 Em Bereshit 1:2, encontramos:
 
 > "E o Espírito de Deus pairava sobre a superfície das águas."
 
-Ali, a expressão é:
-
-רוּחַ אֱלֹהִים
-
-Ruach Elohim.
+Ali, a expressão é **רוּחַ אֱלֹהִים Ruach Elohim**.
 
 O mesmo termo fundamental, ruach, reaparece em Bereshit 8:1.
 
 Essa conexão é muito significativa.
 
-Na primeira Criação, encontramos uma realidade dominada pelas águas, sobre as quais aparece o Ruach de Deus.
-
-Depois, ocorre a separação das águas, permitindo o aparecimento da terra seca e o desenvolvimento da vida.
-
-No Dilúvio, a terra volta a ser coberta pelas águas.
-
-Agora, novamente, um Ruach intervém, e a ordem terrestre começa a ser restabelecida.
+1. Na primeira Criação, encontramos uma realidade dominada pelas águas, sobre as quais aparece o Ruach de Deus. 
+2. Depois, ocorre a separação das águas, permitindo o aparecimento da terra seca e o desenvolvimento da vida.
+3. No Dilúvio, a terra volta a ser coberta pelas águas.
+4. Agora, novamente, um Ruach intervém, e a ordem terrestre começa a ser restabelecida.
 
 O capítulo 8 pode, portanto, ser compreendido como uma narrativa de recriação do mundo.
 
 No plano literal, o vento participa da retirada das águas. No plano espiritual, ele sugere que a restauração começa por uma iniciativa divina que transforma as condições da existência.
 
-### 3. A leitura segundo os princípios do Arizal
+### A leitura segundo os princípios do Arizal
 
 Na Cabalá luriana, a manifestação da vida depende da relação entre as luzes (Orot) e os recipientes (Kelim) capazes de recebê-las.
 
@@ -124,21 +118,19 @@ A imagem das águas cobrindo toda a terra pode representar uma situação em que
 
 Quando o Ruach passa sobre a terra e as águas se aquietam, podemos reconhecer uma imagem do restabelecimento dessas condições.
 
-Essa comparação não significa que o Dilúvio seja literalmente a quebra dos recipientes descrita pelo Arizal. Significa que podemos compreender o episódio pela lógica de ruptura e retificação presente em sua cosmologia.
+Essa comparação não significa que o Dilúvio seja literalmente a quebra dos recipientes descrita pelo Arizal, significa que podemos compreender o episódio pela lógica de ruptura e retificação presente em sua cosmologia.
 
-### 4. O mistério do adoçamento dos julgamentos
+### O mistério do adoçamento dos julgamentos
 
 O versículo termina com:
 
-וַיָּשֹׁכּוּ הַמָּיִם
-
-Vayashokhu hamayim.
-
-"E as águas se aquietaram."
+> וַיָּשֹׁכּוּ הַמָּיִם
+> Vayashokhu hamayim.  
+> "E as águas se aquietaram."
 
 O verbo sugere que as águas diminuíram em sua força e se acalmaram.
 
-Na leitura do Sod, o movimento permite contemplar o princípio de Mituk HaDinim, o adoçamento dos julgamentos.
+Na leitura do Sod, o movimento permite contemplar o princípio de **Mituk HaDinim**, o adoçamento dos julgamentos.
 
 As águas que anteriormente participavam do julgamento deixam gradualmente de exercer sua força destrutiva.
 
@@ -146,7 +138,7 @@ O rigor começa a ceder espaço à continuidade da existência.
 
 Há uma lição importante: a misericórdia não aparece necessariamente como ausência de consequências, mas como abertura de uma possibilidade de reconstrução depois do julgamento.
 
-### 5. A dimensão da alma
+### A dimensão da alma
 
 Noach também pode ser considerado uma imagem da alma que atravessa uma crise.
 
@@ -157,6 +149,8 @@ O versículo ensina que a restauração pode começar antes que as circunstânci
 Noach ainda permanece dentro da arca, mas o processo de salvação já está em andamento.
 
 Ensinamento espiritual: a ausência de mudanças imediatamente perceptíveis não significa ausência de transformação. Às vezes, o primeiro movimento de restauração acontece na profundidade da realidade, antes de alcançar sua superfície.
+
+<!-----
 
 ## VERSÍCULO 2 — AS FONTES DO ABISMO SÃO FECHADAS
 

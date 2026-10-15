@@ -53,25 +53,27 @@ A geração vive sem medida, a arca é construída por medida.
 
 Essa oposição constitui uma das chaves mais profundas de todo o capítulo.
 
-<!-----
+---
 
 # Bereshit 6:1
 
-## "Quando o homem começou a multiplicar-se sobre a face da terra, e lhes nasceram filhas..."
+> "Quando o homem começou a multiplicar-se sobre a face da terra, e lhes nasceram filhas..."
 
 ### Peshat — o sentido literal
 
-A humanidade está se expandindo rapidamente. O texto observa especificamente o nascimento de filhas porque o versículo seguinte introduzirá a união entre as "filhas do homem" e os chamados "*Benei HaElohim*".
+A humanidade está se expandindo rapidamente. 
 
-Por si só, o nascimento de filhas obviamente não constitui pecado. O problema aparecerá na maneira pela qual elas serão vistas e tomadas.
+O texto observa especificamente o nascimento de filhas porque o versículo seguinte introduzirá a união entre as "filhas do homem" e os chamados *"Benei HaElohim"*.
+
+Por si só, o nascimento de filhas obviamente não constitui pecado, o problema aparecerá na maneira pela qual elas serão vistas e tomadas.
 
 ### Sod — multiplicação sem interiorização
 
-A palavra-chave é:
+A palavra-chave é **לרב — larov — multiplicar-se.**
 
-**לרב — larov — multiplicar-se.**
+A multiplicação é uma bênção quando acompanhada de ordem e santidade. 
 
-A multiplicação é uma bênção quando acompanhada de ordem e santidade. Desde o primeiro capítulo da Torah, Deus ordena:
+Desde o primeiro capítulo da Torah, Deus ordena:
 
 > "Frutificai e multiplicai-vos."
 
@@ -85,29 +87,23 @@ Esta é precisamente uma característica da dinâmica de **Tohu**: grande intens
 
 A humanidade se expande exteriormente, mas contrai-se interiormente.
 
-Há mais seres humanos.
+Há mais seres humanos, mas não necessariamente mais humanidade.
 
-Mas não necessariamente mais humanidade.
-
-### "Sobre a face da terra"
+#### "Sobre a face da terra"
 
 A expressão **על פני האדמה — al penei ha'adamah**, "sobre a face da terra", também é significativa.
 
 *Adamah*, terra, está intimamente relacionada com *Adam*.
 
-O ser humano foi formado da terra, mas recebeu algo que a terra por si mesma não possui:
-
-**Neshamah**, sopro divino.
+O ser humano foi formado da terra, mas recebeu algo que a terra por si mesma não possui: **Neshamah**, sopro divino.
 
 A função do Adam deveria ser elevar a *adamah*.
 
-Quando o homem passa a viver exclusivamente segundo a materialidade, o movimento se inverte:
-
-em vez de Adam elevar Adamah, Adamah absorve Adam.
+Quando o homem passa a viver exclusivamente segundo a materialidade, o movimento se inverte: em vez de Adam elevar Adamah, Adamah absorve Adam.
 
 É o começo do domínio da exterioridade sobre a interioridade.
 
----
+<!-----
 
 # Bereshit 6:2
 

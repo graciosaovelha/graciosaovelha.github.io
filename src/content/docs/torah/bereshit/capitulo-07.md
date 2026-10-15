@@ -114,47 +114,38 @@ Ser justo não significa necessariamente haver atingido o grau máximo de respon
 
 A narrativa de Noach pode, assim, ensinar tanto o valor da fidelidade individual quanto a necessidade de crescer na responsabilidade pelo coletivo.
 
-<!--# Parte II — Análise Cabalística Versículo por Versículo
+# Parte II — Análise Cabalística Versículo por Versículo
 
 ## BERESHIT 7:1 — O CHAMADO DO JUSTO À ARCA
 
-### Texto hebraico
-
 > וַיֹּאמֶר יְהוָה לְנֹחַ בֹּא־אַתָּה וְכָל־בֵּיתְךָ אֶל־הַתֵּבָה כִּי־אֹתְךָ רָאִיתִי צַדִּיק לְפָנַי בַּדּוֹר הַזֶּה׃
+> “E o Eterno disse a Noach: Entra tu e toda a tua casa na arca, porque te vi justo diante de Mim nesta geração.”
 
-Tradução:
-
-“E o Eterno disse a Noach: Entra tu e toda a tua casa na arca, porque te vi justo diante de Mim nesta geração.”
-
-### 1. Interpretação literal — Peshat
+### Interpretação literal — Peshat
 
 O capítulo começa com uma ordem divina dirigida a Noach.
 
-Deus não manda apenas que ele entre na arca; determina que sua casa também entre.
+Deus não manda apenas que ele entre na arca, determina que sua casa também entre.
 
 Isso estabelece uma relação importante entre a integridade moral de Noach e a preservação de sua família.
 
 O versículo enfatiza três elementos:
 
-* O chamado divino.
+1. O chamado divino.
+2. A entrada na arca como ação concreta.
+3. O reconhecimento da justiça de Noach em meio à sua geração.
 
-* A entrada na arca como ação concreta.
-
-* O reconhecimento da justiça de Noach em meio à sua geração.
-
-A expressão hebraica “Tzaddik Lefanai” (צַדִּיק לְפָנַי) significa “justo diante de Mim”.
+A expressão hebraica **“Tzaddik Lefanai” (צַדִּיק לְפָנַי)** significa “justo diante de Mim”.
 
 A justiça de Noach é apresentada diante de Deus, não simplesmente como uma reputação social.
 
-A frase “BaDor HaZeh” (בַּדּוֹר הַזֶּה) — “nesta geração” — também é significativa.
+A frase **“BaDor HaZeh” (בַּדּוֹר הַזֶּה) — “nesta geração”**, também é significativa.
 
 O texto situa sua retidão no contexto de uma sociedade moralmente corrompida.
 
-### 2. O mistério da palavra “Bo” — Entra
+### O mistério da palavra “Bo” — Entra
 
-A ordem começa com:
-
-בֹּא — Bo — Entra, vem.
+A ordem começa com **בֹּא— Bo — Entra, vem.**
 
 Na leitura simbólica, esse chamado pode ser compreendido como um movimento de retorno a um domínio protegido.
 
@@ -168,7 +159,7 @@ A arca pode representar o espaço espiritual em que a vida é preservada sob a p
 
 Assim, “entrar na arca” simboliza, por analogia, abandonar uma configuração de vida dominada pela corrupção e acolher uma disciplina espiritual orientada pela vontade divina.
 
-### 3. Noach como Tzaddik e a sefirá de Yesod
+### Noach como Tzaddik e a sefirá de Yesod
 
 Na Cabalá, Yesod é a dimensão que reúne e transmite influxos à manifestação inferior.
 
@@ -182,25 +173,21 @@ Em termos espirituais, ele representa um ponto de estabilidade em meio a uma rea
 
 Essa leitura não significa que Noach fosse literalmente a sefirá de Yesod. Significa que sua função narrativa permite ilustrar simbolicamente o princípio de Yesod.
 
-### 4. O mistério da expressão “toda a tua casa”
+### O mistério da expressão “toda a tua casa”
 
-A Torah utiliza a palavra:
-
-בֵּיתְךָ — Beitekha — Tua casa.
+A Torah utiliza a palavra **בֵּיתְךָ — Beitekha — Tua casa**.
 
 A casa, na linguagem bíblica, é também uma unidade de responsabilidade e continuidade.
 
-Noach não é chamado a uma salvação isolada.
-
-Sua família participa de sua missão.
+Noach não é chamado a uma salvação isolada, sua família participa de sua missão.
 
 Na leitura espiritual, isso sugere que a justiça não deve permanecer confinada à consciência individual.
 
 Uma transformação interior autêntica precisa alcançar os relacionamentos, os compromissos e o ambiente sob nossa responsabilidade.
 
-O conceito de Tikkun não se limita ao aperfeiçoamento privado. Ele envolve a restauração das relações.
+O conceito de Tikkun não se limita ao aperfeiçoamento privado, ele envolve a restauração das relações.
 
-### 5. A relação entre justiça e geração
+### A relação entre justiça e geração
 
 A expressão “nesta geração” suscita uma conhecida discussão rabínica: Noach era extraordinariamente justo, ou sua justiça se destacava sobretudo quando comparada à corrupção de seus contemporâneos?
 
@@ -214,7 +201,7 @@ A comparação social pode demonstrar integridade, mas a relação com Deus exig
 
 O próprio Noach, embora justo, não deve ser transformado em uma figura espiritualmente perfeita em todos os aspectos.
 
-### 6. Aplicação espiritual
+### Aplicação espiritual
 
 O chamado a entrar na arca pode ser compreendido como a necessidade de construir um espaço interior de fidelidade a Deus.
 
@@ -222,7 +209,9 @@ Quando a pessoa vive cercada por violência, mentira, corrupção ou desordem em
 
 A arca espiritual pode ser representada pela oração, pelo estudo da Torah, pela disciplina ética, pela responsabilidade familiar e pela vigilância sobre os próprios atos.
 
-Ensinamento do versículo: a justiça não consiste simplesmente em condenar a corrupção do mundo, mas em construir, concretamente, um lugar onde a vida e a santidade possam continuar existindo.
+**Ensinamento do versículo:** a justiça não consiste simplesmente em condenar a corrupção do mundo, mas em construir, concretamente, um lugar onde a vida e a santidade possam continuar existindo.
+
+<!-----
 
 ## BERESHIT 7:2 — O MISTÉRIO DOS SETE PARES DE ANIMAIS PUROS
 
