@@ -23,27 +23,26 @@ Entre esses dois acontecimentos, a Torá apresenta quatro movimentos fundamentai
 3. **O discernimento:** Ló escolhe uma terra aparentemente fértil, enquanto Abrão aguarda a orientação divina.
 4. **A expansão espiritual:** após a separação, o Eterno renova a promessa da terra e da descendência de Abrão.
 
-<!-----
+---
 
-# 2. ANÁLISE CABALÍSTICA VERSÍCULO POR VERSÍCULO
+# ANÁLISE CABALÍSTICA VERSÍCULO POR VERSÍCULO
 
 ## VERSÍCULO 1 — A SAÍDA DO EGITO E A ELEVAÇÃO DA ALMA
 
 ### Texto hebraico
 
-וַיַּעַל אַבְרָם מִמִּצְרַיִם הוּא וְאִשְׁתּוֹ וְכָל־אֲשֶׁר־לוֹ וְלוֹט עִמּוֹ הַנֶּגְבָּה׃
-
-Vaya'al Avram miMitzrayim, hu ve'ishto, vechol asher lo, veLot imo, haNegbah.
+> וַיַּעַל אַבְרָם מִמִּצְרַיִם הוּא וְאִשְׁתּוֹ וְכָל־אֲשֶׁר־לוֹ וְלוֹט עִמּוֹ הַנֶּגְבָּה׃
+> Vaya'al Avram miMitzrayim, hu ve'ishto, vechol asher lo, veLot imo, haNegbah.
 
 Tradução:
 
-"E Abrão subiu do Egito, ele, sua esposa e tudo o que lhe pertencia, e Ló com ele, em direção ao Neguebe."
+> "E Abrão subiu do Egito, ele, sua esposa e tudo o que lhe pertencia, e Ló com ele, em direção ao Neguebe."
 
-### 2.1.1. Interpretação literal — Peshat
+### Interpretação literal — Peshat
 
 A narrativa retoma os acontecimentos do capítulo anterior.
 
-Abrão havia descido ao Egito devido à fome existente na terra de Canaã. Depois dos acontecimentos envolvendo Sarai e o faraó, ele abandona o território egípcio.
+Abrão havia descido ao Egito devido à fome existente na terra de Canaã, mas depois dos acontecimentos envolvendo Sarai e o faraó, ele abandona o território egípcio.
 
 A Torá emprega o verbo hebraico vaya'al (וַיַּעַל), derivado da raiz עלה (alah), que significa subir ou ascender.
 
@@ -53,7 +52,7 @@ O texto também ressalta que Abrão retorna acompanhado de sua esposa, de seus b
 
 A experiência egípcia não produziu uma ruptura definitiva em sua família, mas preparou acontecimentos que logo revelarão tensões internas.
 
-### 2.1.2. Interpretação espiritual — A saída das limitações
+### Interpretação espiritual — A saída das limitações
 
 Na leitura simbólica judaica, Mitzrayim (מצרים), o Egito, também pode ser associado à ideia de metzarim, estreitezas ou limitações.
 
@@ -61,37 +60,29 @@ Essa é uma aproximação interpretativa tradicional, e não uma afirmação de 
 
 Espiritualmente, o Egito pode representar os estados nos quais a consciência fica limitada pelo medo, pela dependência e pelo domínio das circunstâncias materiais.
 
-Assim, a expressão:
-
-"E Abrão subiu do Egito"
-
-pode ser contemplada como o movimento da consciência que se eleva para além daquilo que a restringia.
+Assim, a expressão "E Abrão subiu do Egito", pode ser contemplada como o movimento da consciência que se eleva para além daquilo que a restringia.
 
 A subida não implica necessariamente abandonar os bens materiais. Abrão leva consigo tudo o que possui.
 
 O problema espiritual não é a existência de recursos, mas a submissão interior a eles.
 
-### 2.1.3. Interpretação à luz da Cabalá Luriânica
+### Interpretação à luz da Cabalá Luriânica
 
 Na terminologia desenvolvida pelo Arizal, o trabalho de Birur envolve o discernimento e a elevação das centelhas de santidade presentes na realidade.
 
-Aplicado analogicamente à jornada de Abrão, podemos perceber uma estrutura significativa:
-
-Abrão desce a uma região de dificuldade, atravessa uma experiência de risco e regressa carregando consigo aquilo que adquiriu.
+Aplicado analogicamente à jornada de Abrão, podemos perceber uma estrutura significativa: Abrão desce a uma região de dificuldade, atravessa uma experiência de risco e regressa carregando consigo aquilo que adquiriu.
 
 Esse movimento pode ser meditado como uma imagem do processo de descida para posterior elevação.
 
 Na linguagem cabalística, nem toda descida representa uma derrota espiritual. Existem situações nas quais o contato com um nível inferior da realidade possibilita uma transformação que não teria acontecido de outra maneira.
 
-Isso não significa que toda dificuldade seja ordenada especificamente para esse fim, nem que todo sofrimento seja necessário. Significa apenas que uma experiência difícil pode tornar-se ocasião de retificação.
+Isso não significa que toda dificuldade seja ordenada especificamente para esse fim, nem que todo sofrimento seja necessário, significa apenas que uma experiência difícil pode tornar-se ocasião de retificação.
 
 Na história de Abrão, a elevação possui uma característica fundamental: ele retorna com sua família e seus bens, mas precisa agora decidir como administrá-los.
 
-Portanto, a saída do Egito não encerra automaticamente o trabalho espiritual.
+Portanto, a saída do Egito não encerra automaticamente o trabalho espiritual, ela inaugura uma nova responsabilidade.
 
-Ela inaugura uma nova responsabilidade.
-
-### 2.1.4. O simbolismo da esposa e dos bens
+### O simbolismo da esposa e dos bens
 
 A presença de Sarai no versículo não deve ser reduzida a um mero símbolo. Ela é uma personagem integral da narrativa, com papel próprio na história da aliança.
 
@@ -105,7 +96,7 @@ Já os bens materiais representam o desafio de integrar a prosperidade à santid
 
 Mistério central do versículo: uma verdadeira ascensão espiritual não consiste simplesmente em sair de um lugar de limitação, mas em aprender a utilizar corretamente aquilo que se adquiriu durante a experiência.
 
-## VERSÍCULO 2 — PRATA, OURO E REBANHOS: OS RECIPIENTES DA ABUNDÂNCIA
+<!--## VERSÍCULO 2 — PRATA, OURO E REBANHOS: OS RECIPIENTES DA ABUNDÂNCIA
 
 ### Texto hebraico
 

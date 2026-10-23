@@ -8,13 +8,7 @@ book: bereshit
 chapter: 17
 ---
 
-<!--# BERESHIT (GÊNESIS) — CAPÍTULO 17
-
-## Análise profunda dos 27 versículos à luz da Cabalá judaica, do Zohar e dos ensinamentos do Arizal
-
-Parashá: Lech Lechá (לֶךְ־לְךָ) Livro: Bereshit (בְּרֵאשִׁית) — Gênesis Capítulo: 17 Tema central: O pacto eterno — Brit Olam (בְּרִית עוֹלָם) Conceitos fundamentais: Brit Milá, transformação espiritual, santificação, Sefirot, Yesod, Malchut, Shechiná, Tikun e revelação divina.
-
-# INTRODUÇÃO — O MISTÉRIO DO PACTO ENTRE O ETERNO E ABRAHAM
+# INTRODUÇÃO
 
 O capítulo 17 de Bereshit representa um dos momentos mais significativos da história espiritual da humanidade segundo a tradição judaica.
 
@@ -26,60 +20,29 @@ O capítulo aborda a relação entre o espírito e o corpo, entre o propósito d
 
 Na linguagem da Cabalá, podemos entender seu movimento central como a passagem de uma promessa recebida para uma realidade que precisa ser incorporada à existência.
 
-Avram recebe uma revelação, mas essa revelação exige uma transformação. A aliança não deverá permanecer apenas em seu pensamento, em suas palavras ou em sua fé. Ela deverá alcançar sua identidade, sua descendência, sua casa e seu próprio corpo.
+Avram recebe uma revelação, mas essa revelação exige uma transformação. A aliança não deverá permanecer apenas em seu pensamento, em suas palavras ou em sua fé, ela deverá alcançar sua identidade, sua descendência, sua casa e seu próprio corpo.
 
 É precisamente essa integração que torna Bereshit 17 tão importante para o estudo do Tikun (תיקון), a retificação espiritual.
 
-## 1. As principais fontes desta interpretação
-
-Para compreender o capítulo, utilizaremos diferentes camadas da tradição judaica:
-
-- Torá escrita: o significado dos versículos em seu contexto textual, chamado Peshat.
-- Midrash Bereshit Rabbah: interpretações rabínicas sobre a aliança, os nomes e a transformação dos patriarcas.
-- Talmud, especialmente Nedarim 31b–32a: ensinamentos sobre a grandeza da Brit Milá e a integridade espiritual.
-- Sefer Yetzirá: a relação simbólica entre a aliança da palavra e a aliança da circuncisão.
-- Zohar, especialmente a seção Lech Lechá: a dimensão espiritual da circuncisão, da aliança e da proximidade com a Shechiná.
-- Tikkunei HaZohar, especialmente Patach Eliyahu: a correspondência entre Yesod e o sinal da aliança sagrada.
-- Cabalá do Arizal: os conceitos de Sefirot, Partzufim, fluxo espiritual, Tikun e superação das Klipot, conforme desenvolvidos nos ensinamentos transmitidos por Rabbi Chaim Vital.
-
-Uma distinção é essencial: nem toda interpretação simbólica apresentada abaixo aparece literalmente no Zohar ou nos escritos do Arizal. Quando uma explicação decorrer diretamente de uma tradição reconhecível, isso será indicado. Quando aplicarmos princípios cabalísticos gerais a determinado versículo, ela será identificada como uma leitura contemplativa fundamentada nesses princípios.
-
-Isso é importante porque a Cabalá tradicional não consiste em atribuir livremente significados ocultos a cada palavra, mas em interpretar a Torá dentro de uma tradição estruturada.
-
-## 2. Os quatro níveis de interpretação da Torá
-
-A exegese judaica reconhece tradicionalmente quatro modalidades de leitura, frequentemente organizadas pelo acrônimo PaRDeS (פרד״ס):
-
-| Nível | Nome         | Significado                         |
-| ----- | ------------ | ----------------------------------- |
-| P     | Peshat (פשט) | Sentido literal e contextual        |
-| R     | Remez (רמז)  | Alusões e relações simbólicas       |
-| D     | Derash (דרש) | Interpretação homilética e rabínica |
-| S     | Sod (סוד)    | Dimensão mística e cabalística      |
-
-Na análise de cada versículo, distinguiremos especialmente o sentido literal e a interpretação espiritual, recorrendo também ao Midrash e às correspondências cabalísticas quando apropriado.
-
-## 3. A arquitetura espiritual do capítulo
+### A arquitetura espiritual do capítulo
 
 O capítulo apresenta cinco movimentos fundamentais:
 
-Primeiro movimento — A revelação e a integridade (versículos 1–3). O Eterno manifesta-se a Avram e ordena que caminhe diante Dele com integridade.
+1. **Primeiro movimento:** A revelação e a integridade (versículos 1–3). O Eterno manifesta-se a Avram e ordena que caminhe diante Dele com integridade.
+2. **Segundo movimento:** A aliança e a transformação da identidade (versículos 4–8). Avram recebe o nome Abraham e a promessa de uma descendência numerosa, de reis e de uma terra.
+3. **Terceiro movimento:** A aliança inscrita na carne (versículos 9–14). O mandamento da Brit Milá estabelece um sinal concreto da relação com o Eterno.
+4. **Quarto movimento:** A transformação de Sarah e a promessa de Yitzchak (versículos 15–22). A promessa envolve também a matriarca, e a linhagem da aliança é explicitamente identificada.
+5. **Quinto movimento:** A realização imediata da ordem divina (versículos 23–27). Abraham transforma a revelação em ação.
 
-Segundo movimento — A aliança e a transformação da identidade (versículos 4–8). Avram recebe o nome Abraham e a promessa de uma descendência numerosa, de reis e de uma terra.
+Na perspectiva cabalística, essa progressão permite reconhecer um princípio central: Uma luz espiritual recebida somente se realiza plenamente na vida humana quando encontra uma forma adequada de expressão.
 
-Terceiro movimento — A aliança inscrita na carne (versículos 9–14). O mandamento da Brit Milá estabelece um sinal concreto da relação com o Eterno.
+Na linguagem do Arizal, Or (אור), luz, e Kli (כלי), recipiente, são conceitos indispensáveis para compreender a manifestação espiritual. 
 
-Quarto movimento — A transformação de Sarah e a promessa de Yitzchak (versículos 15–22). A promessa envolve também a matriarca, e a linhagem da aliança é explicitamente identificada.
+A relação entre ambos é muito mais complexa na doutrina luriana do que uma simples metáfora psicológica, mas ela oferece uma chave contemplativa importante para este capítulo.
 
-Quinto movimento — A realização imediata da ordem divina (versículos 23–27). Abraham transforma a revelação em ação.
+A promessa representa aquilo que precisa manifestar-se. A transformação pessoal, a aliança e as ações concretas mostram como o ser humano participa dessa manifestação.
 
-Na perspectiva cabalística, essa progressão permite reconhecer um princípio central:
-
-Uma luz espiritual recebida somente se realiza plenamente na vida humana quando encontra uma forma adequada de expressão.
-
-Na linguagem do Arizal, Or (אור), luz, e Kli (כלי), recipiente, são conceitos indispensáveis para compreender a manifestação espiritual. A relação entre ambos é muito mais complexa na doutrina luriana do que uma simples metáfora psicológica, mas ela oferece uma chave contemplativa importante para este capítulo.
-
-A promessa representa aquilo que precisa manifestar-se; a transformação pessoal, a aliança e as ações concretas mostram como o ser humano participa dessa manifestação.
+<!-----
 
 # PARTE I — A REVELAÇÃO DIVINA E A PREPARAÇÃO DE ABRAHAM
 
