@@ -8,32 +8,11 @@ book: bereshit
 chapter: 22
 ---
 
-# 1. Introdução: como a Cabalá lê a Akeidá
+# Introdução
 
 Bereshit 22 é um dos capítulos mais densos de toda a Torah. No plano narrativo, ele relata a prova de Avraham: Deus ordena que ele leve seu filho Yitzchak à terra de Moriah e o faça subir como uma *olah*. Avraham obedece, prepara o altar e chega ao instante em que ergue a faca. Nesse momento, um mensageiro divino impede o ato. Um carneiro é oferecido no lugar de Yitzchak, e Avraham recebe novamente a promessa de descendência e bênção.
 
 Entretanto, para a tradição mística de Israel, a Akeidá não é apenas um acontecimento familiar ou moral. Ela representa uma operação espiritual de enormes proporções.
-
-A Cabalá lê a Torah simultaneamente em vários níveis. O **peshat**, sentido simples, não é descartado pelo **sod**, o segredo. O segredo revela uma dimensão adicional do mesmo texto.
-
-No simbolismo sefirotico tradicional:
-
-| Elemento    | Correspondência principal                              |
-| ----------- | ------------------------------------------------------ |
-| Avraham     | **Chesed** — bondade, expansão, amor                   |
-| Yitzchak    | **Gevurah** — rigor, restrição, temor, julgamento      |
-| Yaakov      | **Tiferet** — equilíbrio e harmonização                |
-| Nome Elohim | frequentemente associado ao aspecto de **Din/Gevurah** |
-| Nome YHVH   | frequentemente associado à misericórdia e harmonização |
-| Moriah      | lugar da futura revelação do Templo                    |
-| Altar       | lugar de elevação e transformação                      |
-| Fogo        | Din, Gevurah, purificação                              |
-| Água        | Chesed                                                 |
-| Carneiro    | substituição sacrificial e adoçação do Din             |
-| Chifres     | origem simbólica do shofar                             |
-| Akeidá      | “amarração” ou contenção de forças                     |
-
-Essas correspondências não devem ser entendidas como fórmulas matemáticas rígidas. Na Cabalá, uma personagem pode expressar diferentes aspectos conforme o contexto. Ainda assim, a identificação de Avraham com **Chesed** e Yitzchak com **Gevurah** é particularmente fundamental.
 
 O paradoxo do capítulo é justamente este:
 
@@ -48,9 +27,7 @@ Em linguagem cabalística: **התכללות — hitkalelut**, isto é, a inclus�
 
 A Akeidá é, portanto, uma gigantesca operação de **tikkun**, retificação.
 
----
-
-# 2. O significado cabalístico da palavra “Akeidá”
+### O significado cabalístico da palavra “Akeidá”
 
 A palavra hebraica **עקדה — Akeidá** significa literalmente **amarração**, **ligação** ou **atamento**.
 

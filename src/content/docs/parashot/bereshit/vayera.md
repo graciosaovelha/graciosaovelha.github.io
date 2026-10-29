@@ -972,7 +972,7 @@ Reconheça uma dificuldade real, mas procure uma pequena abertura para a vida.
 - “Estou preocupado, mas posso fazer uma oração curta.”
 - “Estou frustrado, mas posso não descontar nos outros.”
 
-4. Que bondade posso fazer com prontidão?
+### 4. Que bondade posso fazer com prontidão?
 
 Avraham corre para servir. Escolha uma bondade que você não vai adiar.
 

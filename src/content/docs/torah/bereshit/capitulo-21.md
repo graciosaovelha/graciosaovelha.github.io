@@ -28,61 +28,19 @@ No nível literal, temos uma narrativa familiar, política e territorial.
 
 No nível cabalístico, porém, o capítulo descreve algo muito mais profundo: **a separação entre o Chessed retificado e o Chessed não retificado, seguida pelo nascimento e estabelecimento da força de Gevurah dentro da santidade.**
 
-Avraham representa primordialmente **Chessed — bondade, expansão e doação**.
-
-Yitzchak representa primordialmente **Gevurah — rigor, contenção, força e julgamento**.
-
-Yishmael, em determinada linguagem cabalística, representa uma manifestação exterior ou não retificada do princípio de Chessed: expansão sem suficiente limite.
+- Avraham representa primordialmente **Chessed — bondade, expansão e doação**.
+- Yitzchak representa primordialmente **Gevurah — rigor, contenção, força e julgamento**.
+- Yishmael, em determinada linguagem cabalística, representa uma manifestação exterior ou não retificada do princípio de Chessed: expansão sem suficiente limite.
 
 Assim, Bereshit 21 não é apenas a história de duas crianças, é o nascimento de uma nova estrutura espiritual.
 
 A casa de Avraham precisa deixar de ser somente Chessed, ela precisa gerar **Gevurah de-Kedushah**, a força santa do limite. E essa Gevurah é Yitzchak.
 
-### Nota metodológica importante
-
-Quando se fala em “interpretação cabalística” de um versículo, é necessário distinguir diferentes níveis.
-
-Nem todo versículo de Bereshit 21 possui necessariamente um comentário explícito e isolado do Ari dizendo: “este versículo significa exatamente isto”.
-
-A interpretação apresentada abaixo combina princípios provenientes da tradição clássica judaica, especialmente:
-
-**Torah → Midrash → Zohar → tradição cabalística → linguagem conceitual desenvolvida pela escola de Rabi Yitzchak Luria, o Ari.**
-
-Entre os conceitos utilizados estarão:
-
-* **Chessed** — expansão, benevolência e doação.
-* **Gevurah** — contenção, limite, julgamento.
-* **Tiferet** — harmonização de Chessed e Gevurah.
-* **Yesod** — canal de transmissão e pacto.
-* **Malchut** — receptáculo, manifestação e Shechinah.
-* **Binah / Ima** — compreensão e dimensão maternal superior.
-* **Mochin** — consciência ou influxo intelectual superior.
-* **Ibur** — gestação espiritual.
-* **Yenikah** — estágio espiritual de amamentação/nutrição.
-* **Mochin de-Gadlut** — consciência amadurecida.
-* **Dinim** — forças de julgamento.
-* **Hamtakat ha-Dinim** — adoçamento dos julgamentos.
-* **Klipot** — exterioridades que ocultam a santidade.
-* **Birur** — seleção, separação e elevação das centelhas.
-* **Tikkun** — retificação.
-* **Shefa** — influxo de vitalidade divina.
-* **Mayin Nukvin — מ״ן** — “águas femininas”, expressão lurianica para o despertar que sobe de baixo e provoca uma resposta espiritual vinda do Alto.
-
-Também é importante evitar uma simplificação.
-
-Quando Avraham, Sarah, Yitzchak, Hagar ou Yishmael são relacionados a sefirot, isso não significa que cada personagem corresponda de maneira rígida a uma única sefirah em todos os mundos e níveis. A Cabalá trabalha simultaneamente com diferentes configurações.
-
-Sarah, por exemplo, pode manifestar aspectos relacionados à **Malchut/Nukva** em determinado sistema e apresentar características relacionadas à dimensão de **Binah/Ima** em outro.
-
-Da mesma forma, referências cabalísticas a “Yishmael” enquanto estrutura espiritual não devem ser utilizadas como julgamento racial, nacional ou religioso de pessoas contemporâneas. Trata-se de uma leitura de arquétipos espirituais encontrados, antes de tudo, dentro do próprio ser humano.
-
----
-
-# A estrutura secreta de Bereshit 21
+### A estrutura secreta de Bereshit 21
 
 O capítulo pode ser dividido espiritualmente em cinco movimentos.
 
-### Movimento I — O nascimento da Gevurah santa
+#### Movimento I — O nascimento da Gevurah santa
 
 Versículos 1–8.
 
@@ -90,7 +48,7 @@ Sarah é visitada, Yitzchak nasce, recebe seu nome, é circuncidado e posteriorm
 
 É a formação de **Gevurah de-Kedushah**.
 
-### Movimento II — Separação entre duas formas de “riso”
+#### Movimento II — Separação entre duas formas de “riso”
 
 Versículos 9–13.
 
@@ -105,7 +63,7 @@ Existe, portanto, um contraste extraordinário:
 
 O problema não é simplesmente “riso contra seriedade”, o problema é: **Qual forma de riso pode habitar o centro da aliança?**
 
-### Movimento III — O deserto, o choro e o poço
+#### Movimento III — O deserto, o choro e o poço
 
 Versículos 14–21.
 
@@ -119,7 +77,7 @@ O poço aparentemente não é criado naquele instante.
 
 Os olhos são abertos, esse é um dos maiores princípios do capítulo: **Às vezes o influxo divino já está presente; o que falta é a abertura do recipiente capaz de percebê-lo.**
 
-### Movimento IV — O poço e o pacto
+#### Movimento IV — O poço e o pacto
 
 Versículos 22–32.
 
@@ -133,7 +91,7 @@ O poço se torna **Be'er Sheva**.
 * Chessed e Gevurah.
 * Fluxo e fronteira.
 
-### Movimento V — El Olam
+#### Movimento V — El Olam
 
 Versículos 33–34.
 
