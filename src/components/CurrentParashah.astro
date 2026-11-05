@@ -81,6 +81,9 @@
     Deuteronomy: 'devarim',
   };
 
+  const parashahSlugAliases = {
+  'chayei-sara': 'chayei-sarah',
+  };
 
   /*
    * Alguns nomes do Hebcal serão
@@ -449,8 +452,12 @@
     const book =
       bookMap[englishBook];
 
-    const slug =
+    const generatedSlug =
       slugify(name);
+
+    const slug =
+      parashahSlugAliases[generatedSlug]
+        ?? generatedSlug;
 
     const href =
       `/parashot/${book}/${slug}/`;
