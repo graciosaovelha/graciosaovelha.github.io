@@ -2,7 +2,6 @@
 title: "Parashat Chayei Sarah"
 description: "Estudo da Parashat Chayei Sarah à luz da Cabalá autêntica."
 draft: false
-status: em-andamento
 category: parashat
 book: bereshit
 parashah: "Chayei Sarah"
