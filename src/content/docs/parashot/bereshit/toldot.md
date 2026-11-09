@@ -1,7 +1,7 @@
 ---
 title: "Parashat Toldot"
 description: "Estudo da Parashat Toldot à luz da Cabalá autêntica."
-draft: true
+draft: false
 category: parashat
 book: bereshit
 parashah: "Toldot"
