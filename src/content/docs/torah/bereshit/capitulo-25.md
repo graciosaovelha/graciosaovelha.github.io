@@ -64,7 +64,7 @@ O capítulo descreve, simbolicamente, a passagem: Chesed → Gevurah → Tiferet
 
 Essa sequência é uma chave importante de leitura cabalística, mas não significa que a história bíblica se reduza a um mecanismo abstrato entre Sefirot.
 
-<!-----
+---
 
 # PARTE I — OS ÚLTIMOS DIAS DE AVRAHAM
 
@@ -84,33 +84,25 @@ Texto hebraico:
 
 Transliteração:
 
-Vayosef Avraham vayikach ishah, ushmah Keturah.
+> Vayosef Avraham vayikach ishah, ushmah Keturah.
 
 Tradução:
 
-“E Avraham tornou a tomar uma mulher, e o nome dela era Keturah.”
+> “E Avraham tornou a tomar uma mulher, e o nome dela era Keturah.”
 
 ### 1. Peshat — O sentido literal
 
-Depois da morte de Sarah, Avraham estabelece uma nova união com uma mulher chamada Keturah.
+Depois da morte de Sarah, Avraham estabelece uma nova união com uma mulher chamada Keturah. O texto não fornece detalhes sobre sua origem ou sobre o momento exato do casamento.
 
-O texto não fornece detalhes sobre sua origem ou sobre o momento exato do casamento.
-
-No contexto narrativo, essa informação demonstra que a vida de Avraham continua produzindo descendência, mesmo depois da constituição da linhagem da aliança por meio de Yitzchak.
-
-A Torá apresenta a continuidade da vida familiar de Avraham antes de narrar sua morte.
+No contexto narrativo, essa informação demonstra que a vida de Avraham continua produzindo descendência, mesmo depois da constituição da linhagem da aliança por meio de Yitzchak. A Torá apresenta a continuidade da vida familiar de Avraham antes de narrar sua morte.
 
 ### 2. Derash — Quem era Keturah?
 
-Uma conhecida tradição rabínica, preservada em Bereshit Rabbah 61:4 e retomada por Rashi, identifica Keturah com Hagar.
-
-Essa interpretação não é explicitamente afirmada pelo versículo. Trata-se de uma identificação midráshica.
+Uma conhecida tradição rabínica, preservada em Bereshit Rabbah 61:4 e retomada por Rashi, identifica Keturah com Hagar. Essa interpretação não é explicitamente afirmada pelo versículo, trata-se de uma identificação midráshica.
 
 Rashi explica o nome Keturah relacionando-o à ideia de ketoret (קְטֹרֶת), o incenso, e à preservação de sua fidelidade durante a separação.
 
-O nome é, portanto, espiritualmente significativo dentro dessa tradição.
-
-A palavra ketoret evoca o incenso oferecido no serviço sagrado, cujo perfume se eleva.
+O nome é, portanto, espiritualmente significativo dentro dessa tradição. A palavra ketoret evoca o incenso oferecido no serviço sagrado, cujo perfume se eleva.
 
 ### 3. Sod — O mistério do incenso e da elevação
 
@@ -132,9 +124,7 @@ A Cabalá luriana ensina que o trabalho espiritual envolve o discernimento das c
 
 Em linguagem simbólica, a trajetória de afastamento e posterior retorno pode representar um movimento de Tikkun.
 
-Avraham, associado a Chesed, não deixa de exercer sua capacidade de relacionamento e expansão depois da morte de Sarah.
-
-Há, porém, uma distinção fundamental entre a expansão de sua descendência e a continuidade específica da aliança através de Yitzchak.
+Avraham, associado a Chesed, não deixa de exercer sua capacidade de relacionamento e expansão depois da morte de Sarah. Há, porém, uma distinção fundamental entre a expansão de sua descendência e a continuidade específica da aliança através de Yitzchak.
 
 A bondade divina pode manifestar-se amplamente, enquanto determinada missão espiritual permanece vinculada a uma linha particular.
 
@@ -146,7 +136,7 @@ Avraham ensina que a vida pode conservar sua capacidade de produzir frutos mesmo
 
 O Tikkun também pode envolver reencontro, continuidade e restauração.
 
-## VERSÍCULO 2 — OS SEIS FILHOS DE KETURAH
+<!--## VERSÍCULO 2 — OS SEIS FILHOS DE KETURAH
 
 Texto hebraico:
 
