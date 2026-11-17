@@ -8,7 +8,7 @@ book: bereshit
 chapter: 31
 ---
 
-<!--# INTRODUÇÃO — O GRANDE MISTÉRIO DO RETORNO DE YAAKOV
+# INTRODUÇÃO
 
 O capítulo 31 de Bereshit representa um dos momentos mais significativos da jornada espiritual de Yaakov (Jacó).
 
@@ -20,11 +20,7 @@ A saída de Yaakov da casa de Lavan pode ser compreendida como uma representaç�
 
 No vocabulário da Cabalá luriana, essas centelhas estão relacionadas ao processo cósmico da quebra dos recipientes, *Shevirat HaKelim*, e à necessidade de sua retificação, *Tikkun*.
 
-É importante estabelecer uma distinção metodológica: o relato literal de Bereshit 31 não apresenta explicitamente toda essa cosmologia. Os conceitos de centelhas, recipientes, partzufim e retificação são desenvolvidos nos ensinamentos cabalísticos posteriores. Sua aplicação ao capítulo constitui uma leitura do nível de *Sod*, e nem toda associação simbólica apresentada a seguir corresponde a um comentário textual específico atribuído ao próprio Arizal.
-
-Essa distinção é essencial para um estudo rigoroso da Cabalá tradicional.
-
-## 1. As personagens no horizonte das Sefirot
+### As personagens no horizonte das Sefirot
 
 Na tradição do Zohar e da Cabalá do Arizal, os patriarcas representam manifestações fundamentais da estrutura espiritual da Criação.
 
@@ -37,23 +33,23 @@ Na tradição do Zohar e da Cabalá do Arizal, os patriarcas representam manifes
 | Leah (Lia) | Mundo oculto, ligado à Binah e às configurações superiores da Nukva | Interioridade, pensamento e compreensão |
 | Lavan (Labão) | No plano narrativo, oposição e engano; no simbólico, uma força de retenção | Apropriação, confusão e resistência à separação |
 
-Essas correspondências são esquemáticas. Na linguagem técnica do Arizal, Rachel e Leah não devem ser simplesmente reduzidas a duas Sefirot independentes. Elas representam configurações distintas da dimensão feminina do mundo espiritual, vinculadas ao *Partzuf* de Zeir Anpin e à sua Nukva.
+Essas correspondências são esquemáticas. 
+
+Na linguagem técnica do Arizal, Rachel e Leah não devem ser simplesmente reduzidas a duas Sefirot independentes, elas representam configurações distintas da dimensão feminina do mundo espiritual, vinculadas ao *Partzuf* de Zeir Anpin e à sua Nukva.
 
 Também é necessário não confundir Lavan, a personagem humana caracterizada pelo engano, com a simbologia da brancura superior (*Loven HaElyon*) encontrada em certos contextos cabalísticos. A semelhança de linguagem não autoriza identificá-los indiscriminadamente.
 
-## 2. Por que Yaakov precisou permanecer vinte anos na casa de Lavan?
+### Por que Yaakov precisou permanecer vinte anos na casa de Lavan?
 
 No nível literal, Yaakov encontra refúgio entre seus familiares, trabalha para se casar com Rachel e Leah e forma sua família.
 
 No nível espiritual, a permanência em Padan-Aram pode representar a entrada de uma alma justa em circunstâncias nas quais sua missão exige transformar a realidade, e não simplesmente abandoná-la.
 
-O justo, *Tzadik*, não é aquele que apenas se mantém distante de toda dificuldade. Ele também pode ser aquele que, permanecendo fiel a Deus, transforma seu trabalho, suas relações e suas provações em instrumentos de serviço divino.
+O justo, *Tzadik*, não é aquele que apenas se mantém distante de toda dificuldade, ele também pode ser aquele que, permanecendo fiel a Deus, transforma seu trabalho, suas relações e suas provações em instrumentos de serviço divino.
 
 Yaakov precisa aprender a perseverar na adversidade sem permitir que a adversidade determine sua identidade.
 
-Existe, porém, um limite.
-
-A retificação espiritual não exige permanecer indefinidamente sob exploração. Quando a missão chega a um novo estágio, o próprio Deus ordena o retorno.
+Existe, porém, um limite. A retificação espiritual não exige permanecer indefinidamente sob exploração. Quando a missão chega a um novo estágio, o próprio Deus ordena o retorno.
 
 Assim, Bereshit 31 contém três movimentos fundamentais:
 
@@ -63,7 +59,7 @@ Assim, Bereshit 31 contém três movimentos fundamentais:
 
 Esses movimentos serão encontrados ao longo de todo o capítulo.
 
----
+<!-----
 
 # PARTE I — O DESPERTAR DA CONSCIÊNCIA E A ORDEM DIVINA
 ## Bereshit 31:1–3

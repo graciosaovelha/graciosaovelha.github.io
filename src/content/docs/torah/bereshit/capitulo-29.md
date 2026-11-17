@@ -8,7 +8,7 @@ book: bereshit
 chapter: 29
 ---
 
-<!--# **INTRODUÇÃO — A DIMENSÃO OCULTA DE BERESHIT 29**
+# INTRODUÇÃO
 
 O capítulo 29 de Bereshit (Gênesis) é um dos relatos mais profundos da Torá quando examinado sob a perspectiva da tradição cabalística judaica.
 
@@ -20,30 +20,11 @@ Dentro da Cabalá, especialmente conforme os ensinamentos do *Zohar* e da escola
 
 Trata-se de uma história sobre o encontro entre aquilo que o ser humano deseja conscientemente e aquilo que a Providência Divina lhe apresenta como parte de seu processo de transformação.
 
-## **1. Como interpretar o capítulo segundo a Cabalá tradicional**
-
-Para conduzir uma análise fiel à tradição, precisamos distinguir quatro níveis clássicos de interpretação da Torá, frequentemente reunidos no acrônimo **PaRDeS**:
-
-| Nível | Nome hebraico  | Significado                                  |
-| ----- | -------------- | -------------------------------------------- |
-| P     | *Peshat* (פשט) | Sentido literal, contextual e narrativo      |
-| R     | *Remez* (רמז)  | Alusões e significados simbólicos            |
-| D     | *Derash* (דרש) | Interpretação rabínica, ética e homilética   |
-| S     | *Sod* (סוד)    | Dimensão esotérica, metafísica e cabalística |
-
-Esses níveis não devem ser confundidos.
-
-Uma interpretação mística não elimina o sentido literal, assim como uma aplicação espiritual contemporânea não deve ser apresentada automaticamente como uma afirmação explícita do Zohar ou do Arizal.
-
-Neste estudo, distinguiremos os elementos presentes no texto bíblico, os ensinamentos tradicionais identificáveis e os desdobramentos contemplativos fundamentados nos conceitos da Cabalá luriana.
-
-Também é fundamental recordar que, na tradição judaica, as *sefirot* não são divindades independentes, mas modos pelos quais a ação e a manifestação do Deus único são compreendidas na estrutura da criação.
-
-## **2. As principais correspondências espirituais**
+### As principais correspondências espirituais**
 
 Antes de examinar os versículos, precisamos compreender algumas associações utilizadas pelos cabalistas.
 
-### **Yaakov — Tiferet, a harmonia divina**
+#### **Yaakov — Tiferet, a harmonia divina**
 
 Yaakov é tradicionalmente associado à sefirah de **Tiferet** (תפארת), a dimensão da harmonia, da compaixão e da integração.
 
@@ -53,7 +34,7 @@ Isso significa que Yaakov representa espiritualmente a capacidade de unir miseri
 
 Sua jornada será, portanto, uma jornada de integração.
 
-### **Rachel — O mundo revelado**
+#### **Rachel — O mundo revelado**
 
 Rachel representa, em uma importante tradição interpretativa do Zohar, o **Alma deItgalya** (עלמא דאתגליא), o mundo revelado.
 
@@ -61,7 +42,7 @@ Na linguagem luriana dos *partzufim*, Rachel é especialmente associada ao aspec
 
 Ela simboliza a manifestação, a presença perceptível e a possibilidade de tornar visível aquilo que inicialmente existe apenas em potência.
 
-### **Leah — O mundo oculto**
+#### **Leah — O mundo oculto**
 
 Leah representa o **Alma deItkasya** (עלמא דאתכסיא), o mundo oculto.
 
@@ -71,7 +52,7 @@ Ela simboliza a interioridade, o pensamento, os processos que ainda não alcanç
 
 É importante observar que Rachel e Leah não são simplesmente duas sefirot independentes. A explicação luriana é mais precisa: elas representam configurações distintas dentro da estrutura dos *partzufim*.
 
-### **Lavan — O ambiente das misturas e das provas**
+#### **Lavan — O ambiente das misturas e das provas**
 
 Lavan simboliza, em nossa leitura, o ambiente no qual Yaakov precisa enfrentar ocultação, ambiguidade, interesses materiais e engano.
 
@@ -81,7 +62,7 @@ Contudo, seria incorreto concluir que Lavan representa simplesmente uma força d
 
 Na linguagem luriana, sua casa pode ser examinada como um ambiente de *birur*: um lugar no qual elementos de santidade precisam ser reconhecidos e elevados em meio à confusão.
 
-### **O poço — A receptividade da Shechiná**
+#### **O poço — A receptividade da Shechiná**
 
 A imagem do poço aparece em interpretações místicas como símbolo da receptividade espiritual, da Shechiná e da possibilidade de receber o fluxo divino.
 
@@ -90,6 +71,8 @@ A água pode representar a Torá, a vitalidade espiritual e o *shefa*, a abundâ
 A pedra que cobre o poço poderá ser interpretada como obstáculo, fechamento ou manifestação de *din*, o rigor, quando este impede o fluxo.
 
 Essas correspondências são instrumentos de leitura do *sod*, não substituições automáticas dos personagens e objetos históricos.
+
+<!-----
 
 # **PARTE I — A JORNADA DE YAаков E O MISTÉRIO DO POÇO**
 
